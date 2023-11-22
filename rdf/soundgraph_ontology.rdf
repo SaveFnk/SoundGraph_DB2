@@ -52,6 +52,15 @@ Done as project for the Database 2 course, Master Degree in Computer Engineering
     
 
 
+    <!-- https://www.dei.unipd.it/db2/ontology/soundgraph#awardedWith -->
+
+    <owl:ObjectProperty rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#awardedWith">
+        <rdfs:domain rdf:resource="https://www.dei.unipd.it/db2/ontology/soundgraph#Reception"/>
+        <rdfs:range rdf:resource="https://www.dei.unipd.it/db2/ontology/soundgraph#Award"/>
+    </owl:ObjectProperty>
+    
+
+
     <!-- https://www.dei.unipd.it/db2/ontology/soundgraph#composes -->
 
     <owl:ObjectProperty rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#composes">
@@ -101,6 +110,16 @@ Done as project for the Database 2 course, Master Degree in Computer Engineering
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
         <rdfs:domain rdf:resource="https://www.dei.unipd.it/db2/ontology/soundgraph#Artist"/>
         <rdfs:range rdf:resource="https://www.dei.unipd.it/db2/ontology/soundgraph#YouTubeChannel"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://www.dei.unipd.it/db2/ontology/soundgraph#hasReceived -->
+
+    <owl:ObjectProperty rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#hasReceived">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="https://www.dei.unipd.it/db2/ontology/soundgraph#Artist"/>
+        <rdfs:range rdf:resource="https://www.dei.unipd.it/db2/ontology/soundgraph#Reception"/>
     </owl:ObjectProperty>
     
 
@@ -432,6 +451,16 @@ Done as project for the Database 2 course, Master Degree in Computer Engineering
         <rdfs:domain rdf:resource="https://www.dei.unipd.it/db2/ontology/soundgraph#YouTubeVideo"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#boolean"/>
         <rdfs:comment>From the Kaggle dataset info: indicates if the video found is the official video of the song.</rdfs:comment>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://www.dei.unipd.it/db2/ontology/soundgraph#receptionYear -->
+
+    <owl:DatatypeProperty rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#receptionYear">
+        <rdfs:domain rdf:resource="https://www.dei.unipd.it/db2/ontology/soundgraph#Reception"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#gYear"/>
+        <rdfs:comment>The year in which an Artist has received an Award.</rdfs:comment>
     </owl:DatatypeProperty>
     
 
@@ -785,6 +814,12 @@ Done as project for the Database 2 course, Master Degree in Computer Engineering
     
 
 
+    <!-- https://www.dei.unipd.it/db2/ontology/soundgraph#Reception -->
+
+    <owl:Class rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#Reception"/>
+    
+
+
     <!-- https://www.dei.unipd.it/db2/ontology/soundgraph#SpotifyAlbum -->
 
     <owl:Class rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#SpotifyAlbum">
@@ -841,18 +876,7 @@ Done as project for the Database 2 course, Master Degree in Computer Engineering
             <rdf:Description rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#Artist"/>
             <rdf:Description rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#Award"/>
             <rdf:Description rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#Genre"/>
-            <rdf:Description rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#SpotifyAlbum"/>
-            <rdf:Description rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#SpotifyTrack"/>
-            <rdf:Description rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#YouTubeChannel"/>
-            <rdf:Description rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#YouTubeVideo"/>
-        </owl:members>
-    </rdf:Description>
-    <rdf:Description>
-        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
-        <owl:members rdf:parseType="Collection">
-            <rdf:Description rdf:about="http://sweet.jpl.nasa.gov/2.3/humanJurisdiction.owl#Country"/>
-            <rdf:Description rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#Artist"/>
-            <rdf:Description rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#Genre"/>
+            <rdf:Description rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#Reception"/>
             <rdf:Description rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#SpotifyAlbum"/>
             <rdf:Description rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#SpotifyTrack"/>
             <rdf:Description rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#YouTubeChannel"/>
