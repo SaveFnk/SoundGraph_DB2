@@ -1,0 +1,2080 @@
+,Artist,Followers,Genres,Popularity
+0,Gorillaz,11026204,"['alternative hip hop', 'modern rock', 'rock']",76
+10,Red Hot Chili Peppers,20331894,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave', 'rock']",81
+20,50 Cent,12947452,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'queens hip hop', 'rap']",80
+30,Metallica,26343827,"['hard rock', 'metal', 'old school thrash', 'rock', 'thrash metal']",79
+40,Coldplay,48203704,"['permanent wave', 'pop']",85
+50,Daft Punk,9708491,"['electro', 'filter house', 'rock']",78
+60,Linkin Park,24761900,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal', 'rock']",82
+70,Radiohead,8977236,"['alternative rock', 'art rock', 'melancholia', 'oxford indie', 'permanent wave', 'rock']",78
+80,AC/DC,27662323,"['australian rock', 'hard rock', 'rock']",78
+90,Black Eyed Peas,7820511,"['dance pop', 'pop', 'pop rap']",77
+100,Michael Jackson,29381089,"['r&b', 'soul']",80
+110,P!nk,16103521,"['dance pop', 'pop']",78
+120,Eminem,78644592,"['detroit hip hop', 'hip hop', 'rap']",87
+130,Pharrell Williams,4311438,"['dance pop', 'pop']",76
+140,Khalid,16215789,"['pop', 'pop r&b']",81
+150,Shakira,32079945,"['colombian pop', 'dance pop', 'latin pop', 'pop']",84
+160,Machine Gun Kelly,5162826,"['ohio hip hop', 'pop rap']",74
+170,Nicky Jam,19204524,"['latin hip hop', 'reggaeton', 'trap latino', 'urbano latino']",78
+180,The Beatles,26596676,"['british invasion', 'classic rock', 'merseybeat', 'psychedelic rock', 'rock']",83
+190,Pitbull,10299733,"['dance pop', 'miami hip hop', 'pop']",80
+200,Sean Paul,4539175,"['dance pop', 'dancehall', 'pop', 'pop rap']",77
+210,Elvis Presley,8904465,"['rock-and-roll', 'rockabilly']",76
+220,2Pac,16664481,"['g funk', 'gangster rap', 'hip hop', 'rap', 'west coast rap']",77
+230,Snoop Dogg,10575074,"['g funk', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'west coast rap']",79
+240,Lil Wayne,14235199,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",83
+250,Sia,27262941,"['australian dance', 'australian pop', 'pop']",82
+260,Fleetwood Mac,10686837,"['album rock', 'classic rock', 'rock', 'soft rock', 'yacht rock']",79
+270,ABBA,11237826,"['europop', 'swedish pop']",77
+280,Frank Sinatra,6692861,"['adult standards', 'easy listening', 'lounge']",76
+290,Tiësto,7171719,"['big room', 'brostep', 'dutch edm', 'edm', 'house', 'pop dance', 'slap house', 'trance']",80
+300,Elton John,12508926,"['glam rock', 'mellow gold', 'piano rock', 'rock']",80
+310,JAY-Z,8749468,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap']",81
+320,21 Savage,15574708,"['atl hip hop', 'hip hop', 'rap']",87
+330,Kanye West,22095331,"['chicago rap', 'hip hop', 'rap']",89
+340,Luis Miguel,14122577,"['bolero', 'latin pop']",80
+350,Beyoncé,36394312,"['pop', 'r&b']",82
+360,Daddy Yankee,33968916,"['latin hip hop', 'reggaeton', 'trap latino', 'urbano latino']",83
+370,Don Toliver,3442521,"['pop rap', 'rap', 'trap']",79
+380,Camilo,18412846,"['colombian pop', 'latin pop', 'latin viral pop', 'reggaeton colombiano']",75
+390,Britney Spears,13267425,"['dance pop', 'pop']",78
+400,Farruko,15777022,"['reggaeton', 'trap latino', 'urbano latino']",80
+410,Wisin & Yandel,6862971,"['electro latino', 'reggaeton', 'trap latino', 'urbano latino']",76
+419,Disney,413959,['movie tunes'],79
+429,Chris Brown,20851453,"['pop rap', 'r&b', 'rap']",85
+439,Tory Lanez,6151831,"['canadian hip hop', 'canadian trap', 'melodic rap', 'pop rap', 'r&b', 'rap', 'trap']",79
+449,Mariah Carey,9464248,"['dance pop', 'pop', 'urban contemporary']",78
+459,A.R. Rahman,41160457,['filmi'],77
+469,Die drei ???,269183,['hoerspiel'],73
+479,Pritam,23553650,"['filmi', 'indian instrumental', 'modern bollywood']",85
+489,Shreya Ghoshal,20784994,"['filmi', 'modern bollywood']",80
+499,Pink Floyd,19830236,"['album rock', 'art rock', 'classic rock', 'progressive rock', 'psychedelic rock', 'rock', 'symphonic rock']",76
+509,System Of A Down,9846779,"['alternative metal', 'nu metal', 'rap metal', 'rock']",77
+519,Green Day,14478690,"['modern rock', 'permanent wave', 'punk', 'rock']",78
+529,Ludovico Einaudi,3237507,"['compositional ambient', 'neo-classical']",76
+539,Muse,7719059,"['alternative rock', 'modern rock', 'permanent wave', 'rock']",73
+549,Aerosmith,13954192,"['album rock', 'classic rock', 'hard rock', 'rock']",73
+559,Slipknot,10346657,"['alternative metal', 'nu metal', 'rap metal', 'rock']",75
+569,Oasis,9381944,"['beatlesque', 'britpop', 'madchester', 'permanent wave', 'rock']",74
+579,The Rolling Stones,13513563,"['album rock', 'british invasion', 'classic rock', 'rock']",77
+589,Hans Zimmer,3594763,"['german soundtrack', 'orchestral soundtrack', 'soundtrack']",74
+599,Deftones,4610681,"['alternative metal', 'nu metal', 'rap metal', 'rock', 'sacramento indie']",75
+609,blink-182,7923943,"['alternative metal', 'modern rock', 'pop punk', 'punk', 'rock', 'socal pop punk']",78
+619,Bob Marley & The Wailers,11897086,"['reggae', 'roots reggae']",75
+629,David Bowie,9981121,"['art rock', 'classic rock', 'glam rock', 'permanent wave', 'rock']",74
+639,Bon Jovi,12857284,"['glam metal', 'rock']",75
+649,Dr. Dre,10786502,"['g funk', 'gangster rap', 'hip hop', 'rap', 'west coast rap']",77
+659,Creedence Clearwater Revival,6206390,"['classic rock', 'country rock', 'rock', 'southern rock', 'swamp rock']",77
+669,U2,11720099,"['irish rock', 'permanent wave', 'rock']",75
+679,Nate Dogg,1529440,"['g funk', 'gangster rap', 'hardcore hip hop', 'hip hop', 'west coast rap']",73
+689,Juanes,4603830,"['colombian pop', 'latin pop', 'mexican pop', 'rock en espanol']",73
+699,Maná,10455621,"['latin arena pop', 'latin pop', 'latin rock', 'mexican pop', 'mexican rock', 'rock en espanol']",76
+709,Bee Gees,7352908,"['disco', 'mellow gold', 'soft rock']",74
+719,Billy Joel,5556475,"['album rock', 'classic rock', 'heartland rock', 'mellow gold', 'piano rock', 'rock', 'singer-songwriter', 'soft rock']",74
+729,The Notorious B.I.G.,9505753,"['east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap']",74
+739,Enrique Iglesias,11276685,"['dance pop', 'latin pop', 'mexican pop']",75
+749,Timbaland,2676147,"['dance pop', 'pop', 'pop rap']",75
+758,Alejandro Sanz,7501647,"['cantautor', 'latin arena pop', 'latin pop', 'mexican pop']",72
+768,Whitney Houston,9749660,['pop'],73
+778,Madonna,7355577,"['dance pop', 'pop']",77
+788,Alicia Keys,11227278,"['neo soul', 'pop', 'r&b']",75
+798,John Mayer,5966206,"['neo mellow', 'singer-songwriter']",74
+808,Christina Aguilera,7908124,"['dance pop', 'pop']",75
+818,Marc Anthony,9408823,"['latin pop', 'modern salsa', 'salsa', 'tropical']",73
+828,Ricardo Arjona,12411358,"['cantautor', 'latin arena pop', 'latin pop']",73
+838,Stevie Wonder,6324037,"['motown', 'soul']",73
+848,Ludacris,2721922,"['atl hip hop', 'dance pop', 'dirty south rap', 'hip hop', 'old school atlanta hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",74
+858,Plan B,3624672,"['reggaeton', 'trap latino', 'urbano latino']",76
+868,Aventura,7642273,"['bachata', 'bachata dominicana', 'latin hip hop', 'latin pop', 'tropical', 'urbano latino']",75
+878,Usher,10850022,"['atl hip hop', 'contemporary r&b', 'dance pop', 'pop', 'r&b', 'rap', 'south carolina hip hop', 'urban contemporary']",78
+888,Vicente Fernández,9778754,"['mariachi', 'ranchera']",74
+898,Alejandro Fernández,7292289,"['latin arena pop', 'latin pop', 'mariachi', 'mexican pop', 'musica mexicana', 'ranchera']",72
+908,T-Pain,4574007,"['dance pop', 'gangster rap', 'hip hop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap', 'urban contemporary']",74
+918,Johann Sebastian Bach,4187595,"['baroque', 'classical', 'early music', 'german baroque']",75
+928,Jhené Aiko,7002380,['r&b'],75
+938,Alka Yagnik,12307576,"['filmi', 'hare krishna', 'modern bollywood']",77
+948,Udit Narayan,12325010,"['chutney', 'filmi', 'odia pop']",76
+958,Vishal-Shekhar,5952762,"['filmi', 'modern bollywood']",73
+968,Bibi und Tina,345992,"['hoerspiel', 'kindermusik', 'kleine hoerspiel']",73
+978,Yuvan Shankar Raja,11847411,"['filmi', 'kollywood']",72
+988,Bibi Blocksberg,272392,['hoerspiel'],74
+998,Pearl Jam,8494442,"['alternative metal', 'alternative rock', 'grunge', 'permanent wave', 'rock']",71
+1008,The Offspring,5268900,"['alternative metal', 'permanent wave', 'post-grunge', 'punk', 'rock', 'skate punk', 'socal pop punk']",74
+1018,Johnny Cash,6091260,"['arkansas country', 'outlaw country', 'rock']",71
+1028,Eagles,10127684,"['album rock', 'classic rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",73
+1038,Korn,6839951,"['alternative metal', 'funk metal', 'hard rock', 'nu metal', 'post-grunge', 'rap metal', 'rock']",73
+1048,MGMT,2900905,"['alternative rock', 'indie rock', 'indietronica', 'modern rock', 'rock']",70
+1058,MF DOOM,2412037,"['alternative hip hop', 'east coast hip hop', 'hip hop', 'instrumental hip hop']",73
+1068,The Cure,4937687,"['new wave', 'permanent wave', 'rock', 'uk post-punk']",73
+1078,Jack Johnson,3715130,['neo mellow'],72
+1088,Outkast,2420068,"['atl hip hop', 'dirty south rap', 'hip hop', 'old school atlanta hip hop', 'rap', 'southern hip hop']",72
+1098,Ice Cube,7650141,"['conscious hip hop', 'g funk', 'gangster rap', 'hip hop', 'rap', 'west coast rap']",71
+1107,Phil Collins,5499722,"['rock drums', 'soft rock']",73
+1117,John Williams,1305220,"['orchestral soundtrack', 'soundtrack']",71
+1127,Soda Stereo,8262619,"['argentine rock', 'latin alternative', 'latin rock', 'post-punk argentina', 'rock en espanol', 'ska argentino']",72
+1137,Nas,3499052,"['conscious hip hop', 'east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'queens hip hop', 'rap']",71
+1147,Luis Fonsi,11140214,"['latin pop', 'puerto rican pop']",71
+1157,Backstreet Boys,5445351,"['boy band', 'dance pop', 'pop']",72
+1167,Los Ángeles Azules,7309003,"['gruperas inmortales', 'musica mexicana', 'nu-cumbia', 'ranchera', 'tropical']",74
+1177,Zedd,5993765,"['complextro', 'edm', 'german techno', 'pop', 'pop dance']",71
+1187,Nat King Cole,2137685,"['adult standards', 'lounge', 'soul', 'swing', 'vocal jazz']",71
+1197,Armin van Buuren,4340896,"['dutch trance', 'edm', 'pop dance', 'progressive house', 'trance']",72
+1207,Juicy J,3153436,"['crunk', 'memphis hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",71
+1217,Julieta Venegas,2167063,"['cantautora mexicana', 'latin alternative', 'latin pop', 'latin rock', 'rock en espanol']",71
+1227,Bruce Springsteen,5956986,"['heartland rock', 'mellow gold', 'permanent wave', 'rock', 'singer-songwriter']",73
+1237,Wham!,2514710,"['new romantic', 'new wave', 'new wave pop', 'soft rock']",71
+1247,José José,6807799,"['bolero', 'cancion melodica', 'ranchera']",72
+1257,Los Tigres Del Norte,5150459,"['musica mexicana', 'norteno', 'ranchera']",73
+1267,Bryan Adams,3359818,"['canadian pop', 'canadian singer-songwriter', 'classic canadian rock', 'heartland rock', 'mellow gold', 'soft rock']",72
+1277,Dean Martin,1569300,"['adult standards', 'easy listening', 'lounge', 'vocal jazz']",71
+1287,Nelly Furtado,3636542,"['canadian latin', 'canadian pop', 'dance pop', 'pop']",74
+1297,Ricky Martin,7621545,"['latin pop', 'mexican pop', 'puerto rican pop']",70
+1307,Jennifer Lopez,12555588,"['dance pop', 'pop', 'urban contemporary']",72
+1317,Sido,2237205,"['german hip hop', 'german pop']",69
+1327,Wolfgang Amadeus Mozart,5249434,"['classical', 'classical era']",72
+1337,Juan Gabriel,8315639,"['cancion melodica', 'latin pop', 'mariachi', 'musica mexicana', 'ranchera']",72
+1347,Nelly,2579135,"['dance pop', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'st louis rap', 'urban contemporary']",72
+1357,Frédéric Chopin,3176984,"['classical', 'early romantic era', 'polish classical']",71
+1367,Marco Antonio Solís,6798791,"['grupera', 'latin pop', 'musica mexicana', 'ranchera']",72
+1377,Céline Dion,7841330,['canadian pop'],71
+1387,Alesso,3966152,"['dance pop', 'edm', 'pop', 'pop dance', 'progressive electro house']",71
+1397,Joan Sebastian,9488127,"['banda', 'grupera', 'musica mexicana', 'norteno', 'ranchera']",74
+1407,Bing Crosby,473096,"['adult standards', 'easy listening', 'lounge']",69
+1417,S. P. Balasubrahmanyam,10304421,['filmi'],75
+1427,Sonu Nigam,14240183,"['filmi', 'modern bollywood']",73
+1437,Lata Mangeshkar,12334148,"['classic bollywood', 'filmi', 'lata']",73
+1447,La Arrolladora Banda El Limón De Rene Camacho,6444751,"['banda', 'musica mexicana', 'norteno']",73
+1457,KK,14320242,"['filmi', 'modern bollywood']",74
+1467,Anahí,765336,['latin viral pop'],72
+1477,Shankar Mahadevan,8535805,['filmi'],72
+1487,Kumar Sanu,13154472,"['filmi', 'modern bollywood']",74
+1497,Iron Maiden,8678968,"['alternative metal', 'hard rock', 'metal', 'nwobhm', 'rock']",70
+1507,Black Sabbath,7366550,"['album rock', 'alternative metal', 'birmingham metal', 'classic rock', 'hard rock', 'metal', 'rock', 'stoner rock', 'uk doom metal']",70
+1517,thasup,2217687,"['italian hip hop', 'italian pop', 'trap italiana']",65
+1527,Limp Bizkit,5477775,"['alternative metal', 'funk metal', 'nu metal', 'post-grunge', 'rap metal', 'rock']",72
+1537,John Lennon,5740633,"['classic rock', 'rock']",68
+1547,Disturbed,6342142,"['alternative metal', 'nu metal', 'rap metal', 'rock']",71
+1557,The Doors,7538971,"['acid rock', 'album rock', 'classic rock', 'hard rock', 'psychedelic rock', 'rock']",70
+1567,R.E.M.,4267564,"['alternative rock', 'athens indie', 'permanent wave', 'rock']",71
+1577,Scorpions,6786765,"['album rock', 'german hard rock', 'german metal', 'german rock', 'hard rock', 'rock']",69
+1587,Norah Jones,3047836,"['contemporary vocal jazz', 'jazz pop', 'neo mellow', 'vocal jazz']",70
+1597,The Smashing Pumpkins,4795363,"['alternative metal', 'alternative rock', 'grunge', 'permanent wave', 'rock', 'spacegrunge']",70
+1607,Skillet,4876601,"['alternative metal', 'christian alternative rock', 'christian music', 'christian rock']",70
+1617,"Earth, Wind & Fire",4095840,"['disco', 'funk', 'jazz funk', 'soul']",70
+1627,Weezer,3269421,"['alternative rock', 'modern power pop', 'modern rock', 'permanent wave', 'rock']",70
+1637,Sabaton,1980649,"['power metal', 'swedish metal', 'swedish power metal']",68
+1647,Train,4333405,"['dance pop', 'neo mellow', 'pop', 'pop rock']",70
+1657,Rod Stewart,4448215,"['mellow gold', 'soft rock']",69
+1667,Tears For Fears,3165751,"['new romantic', 'new wave', 'new wave pop', 'permanent wave', 'rock', 'sophisti-pop', 'synthpop']",72
+1677,TOTO,2769389,"['album rock', 'classic rock', 'hard rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",70
+1687,Shaggy,2075744,"['pop rap', 'reggae fusion']",70
+1697,Charlie Brown Jr.,6705497,"['brazilian rock', 'hard rock brasileiro', 'rock alternativo brasileiro', 'rock nacional brasileiro']",71
+1707,La Oreja de Van Gogh,3561808,"['latin arena pop', 'latin pop', 'mexican pop', 'spanish pop', 'spanish pop rock']",70
+1717,London Symphony Orchestra,287224,"['british orchestra', 'classical', 'orchestra']",70
+1727,Marvin Gaye,5207192,"['classic soul', 'motown', 'neo soul', 'northern soul', 'quiet storm', 'soul']",71
+1737,George Michael,4525524,['new wave pop'],70
+1747,Gwen Stefani,6319606,"['dance pop', 'pop']",71
+1757,The Game,4829952,"['detroit hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",69
+1767,The Beach Boys,4325524,"['baroque pop', 'classic rock', 'folk rock', 'mellow gold', 'psychedelic rock', 'rock', 'sunshine pop']",69
+1777,Journey,5269768,"['album rock', 'classic rock', 'hard rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock']",71
+1787,Dolly Parton,2295004,"['classic country pop', 'country', 'country dawn']",71
+1797,Gabry Ponte,455493,"['eurodance', 'italo dance', 'slap house']",69
+1807,SCH,4624932,"['gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",69
+1817,Ludwig van Beethoven,5128929,"['classical', 'classical era', 'early romantic era', 'german romanticism']",69
+1827,Jay Chou,5099283,"['c-pop', 'mandopop', 'taiwan pop', 'zhongguo feng']",70
+1837,Diddy,1597120,"['dance pop', 'east coast hip hop', 'hip hop', 'hip pop', 'pop rap', 'rap']",71
+1847,Baby Rasta,2056317,"['reggaeton', 'trap latino', 'urbano latino']",67
+1857,Shania Twain,3024413,"['canadian country', 'canadian pop', 'contemporary country', 'country', 'country dawn']",70
+1867,Hillsong Worship,5319219,"['ccm', 'christian music', 'world worship', 'worship']",71
+1877,George Strait,4103825,"['contemporary country', 'country', 'country road']",70
+1887,Berliner Philharmoniker,199316,"['classical', 'classical performance', 'german orchestra', 'orchestra']",69
+1897,Rahat Fateh Ali Khan,18016607,"['classic pakistani pop', 'filmi', 'modern bollywood', 'qawwali', 'sufi']",70
+1907,Kishore Kumar,9135109,"['classic bollywood', 'filmi']",71
+1917,Shekhar Ravjiani,685450,"['filmi', 'modern bollywood']",66
+1927,Los Tucanes De Tijuana,2735947,"['banda', 'corrido', 'musica bajacaliforniana', 'musica mexicana', 'norteno']",73
+1937,Intocable,3652267,"['banda', 'musica mexicana', 'norteno', 'tejano']",69
+1947,Los Temerarios,3988767,"['grupera', 'musica mexicana', 'ranchera']",74
+1957,K. S. Chithra,5388036,['filmi'],72
+1967,TKKG,240739,"['hoerspiel', 'kleine hoerspiel']",70
+1977,Sunidhi Chauhan,16128038,"['filmi', 'modern bollywood']",71
+1987,Benjamin Blümchen,155648,"['hoerspiel', 'kindermusik']",69
+1997,Rage Against The Machine,5702719,"['alternative metal', 'alternative rock', 'conscious hip hop', 'funk metal', 'hard rock', 'nu metal', 'political hip hop', 'post-grunge', 'rap metal', 'rap rock', 'rock']",68
+2007,The White Stripes,2953302,"['alternative rock', 'blues rock', 'detroit rock', 'garage rock', 'modern blues rock', 'permanent wave', 'punk blues', 'rock']",68
+2017,Lynyrd Skynyrd,4922521,"['album rock', 'classic rock', 'hard rock', 'rock', 'southern rock']",69
+2027,Dido,1669359,"['dance pop', 'europop', 'lilith', 'neo mellow', 'pop rock']",68
+2037,Eric Clapton,5609573,"['album rock', 'blues rock', 'classic rock', 'electric blues', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock']",68
+2047,Bob Dylan,6312525,"['classic rock', 'country rock', 'folk', 'folk rock', 'psychedelic rock', 'rock', 'roots rock', 'singer-songwriter']",68
+2057,Bill Withers,1596275,"['classic soul', 'funk', 'quiet storm', 'soul']",70
+2067,Louis Armstrong,2774683,"['adult standards', 'dixieland', 'harlem renaissance', 'jazz trumpet', 'new orleans jazz', 'soul', 'swing', 'vocal jazz']",69
+2077,Enya,2058308,"['celtic', 'middle earth', 'operatic pop']",69
+2087,Papa Roach,5000908,"['alternative metal', 'nu metal', 'rap metal', 'rap rock', 'rock']",69
+2097,Ozzy Osbourne,5114699,"['album rock', 'alternative metal', 'birmingham metal', 'classic rock', 'glam metal', 'hard rock', 'metal', 'rock']",69
+2107,a-ha,2134745,"['new romantic', 'new wave', 'new wave pop', 'permanent wave', 'synthpop']",69
+2117,Mötley Crüe,4911885,"['album rock', 'alternative metal', 'glam metal', 'hard rock', 'metal', 'rock', 'sleaze rock']",68
+2127,Alice In Chains,4802253,"['alternative metal', 'alternative rock', 'grunge', 'hard rock', 'nu metal', 'rock']",69
+2137,Ella Fitzgerald,2378911,"['adult standards', 'jazz', 'jazz blues', 'soul', 'swing', 'vocal jazz']",67
+2147,Sade,3507217,"['british soul', 'sophisti-pop']",70
+2157,Wyclef Jean,310024,['rap kreyol'],68
+2167,Antonio Vivaldi,2357288,"['baroque', 'classical', 'early music', 'italian baroque']",68
+2176,Simon & Garfunkel,4909189,"['classic rock', 'folk', 'folk rock', 'melancholia', 'mellow gold', 'rock', 'soft rock']",69
+2186,Robbie Williams,2792086,"['dance rock', 'europop']",70
+2196,Patrick Watson,636097,"['indie folk', 'indie quebecois']",68
+2206,Busta Rhymes,2583527,"['east coast hip hop', 'hardcore hip hop', 'hip hop', 'pop rap', 'rap']",69
+2216,Paul McCartney,4597081,"['classic rock', 'mellow gold', 'rock']",70
+2226,Los Enanitos Verdes,3905660,"['argentine rock', 'latin alternative', 'latin pop', 'latin rock', 'mexican pop', 'rock en espanol', 'ska argentino']",69
+2236,Hombres G,4099611,"['latin alternative', 'latin pop', 'mexican pop', 'rock en espanol', 'spanish rock']",68
+2246,Sufjan Stevens,1885997,"['art pop', 'baroque pop', 'chamber pop', 'indie pop', 'indie rock', 'singer-songwriter']",69
+2256,Prince,7102355,"['funk', 'funk rock', 'minneapolis sound', 'rock', 'synth funk']",68
+2266,Boney M.,1833121,['europop'],68
+2276,Willie Nelson,2069711,"['classic country pop', 'classic texas country', 'country', 'country rock', 'nashville sound', 'outlaw country', 'singer-songwriter']",68
+2286,Van Morrison,3016986,"['classic rock', 'folk', 'folk rock', 'heartland rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock']",69
+2296,Ms. Lauryn Hill,2642196,"['alternative r&b', 'conscious hip hop', 'hip hop', 'neo soul', 'new jersey rap', 'r&b', 'soul']",70
+2306,Lil Jon,1485353,"['atl hip hop', 'crunk', 'dance pop', 'dirty south rap', 'old school atlanta hip hop', 'pop rap', 'southern hip hop', 'trap']",69
+2316,Chayanne,7646225,"['latin pop', 'puerto rican pop']",70
+2326,Alan Jackson,2536161,['country'],69
+2336,Destiny's Child,6819030,"['dance pop', 'girl group', 'pop', 'r&b', 'urban contemporary']",69
+2346,Bronco,3369573,"['grupera', 'gruperas inmortales', 'musica mexicana', 'norteno', 'ranchera']",70
+2356,Ana Gabriel,4017055,"['latin pop', 'mariachi', 'ranchera']",68
+2366,Brenda Lee,339286,"['adult standards', 'easy listening', 'lounge', 'rockabilly']",67
+2376,Ashanti,2884766,"['dance pop', 'hip pop', 'r&b', 'urban contemporary']",69
+2386,Andy Williams,512661,"['adult standards', 'easy listening']",67
+2396,Jesús Adrián Romero,4497378,"['latin christian', 'rock cristiano']",70
+2406,Bruno & Marrone,52305779,"['dance pop', 'pop']",86
+2416,Method Man,2034508,"['east coast hip hop', 'hardcore hip hop', 'hip hop']",68
+2426,Sezen Aksu,8449241,['turkish pop'],70
+2436,G. V. Prakash,8798907,"['filmi', 'kollywood']",70
+2446,Banda El Recodo,3654924,"['banda', 'banda sinaloense', 'musica mexicana', 'norteno']",68
+2456,Devi Sri Prasad,8018441,['tollywood'],66
+2466,Hariharan,4820694,"['filmi', 'ghazal']",71
+2476,Karthik,3252570,['filmi'],70
+2486,Harris Jayaraj,6768625,['filmi'],70
+2496,3 Doors Down,4256064,"['alternative metal', 'nu metal', 'post-grunge', 'rock']",68
+2506,The Black Keys,3918774,"['alternative rock', 'blues rock', 'garage rock', 'indie rock', 'indietronica', 'modern blues rock', 'modern rock', 'punk blues', 'rock', 'roots rock']",69
+2516,Marilyn Manson,4153874,"['alternative metal', 'hard rock', 'industrial', 'industrial metal', 'industrial rock', 'nu metal', 'post-grunge', 'rock']",67
+2526,Santana,3200788,"['blues rock', 'classic rock', 'mexican classic rock']",68
+2536,Electric Light Orchestra,3926248,"['album rock', 'art rock', 'beatlesque', 'classic rock', 'glam rock', 'mellow gold', 'rock', 'soft rock', 'symphonic rock']",68
+2546,Jimi Hendrix,6450853,"['acid rock', 'album rock', 'alternative rock', 'classic rock', 'hard rock', 'proto-metal', 'psychedelic rock', 'rock']",67
+2556,Sum 41,3705228,"['alternative metal', 'canadian pop punk', 'canadian punk', 'modern rock', 'pop punk', 'post-grunge', 'punk', 'rock']",69
+2566,Coolio,1028788,"['g funk', 'gangster rap', 'hip hop', 'west coast rap']",66
+2575,Megadeth,5030815,"['alternative metal', 'hard rock', 'melodic thrash', 'metal', 'old school thrash', 'rock', 'speed metal', 'thrash metal']",67
+2585,The Clash,2619583,"['alternative rock', 'permanent wave', 'punk', 'rock']",67
+2595,Otis Redding,2166985,"['classic soul', 'memphis soul', 'soul', 'soul blues', 'southern soul', 'vocal jazz']",68
+2605,Sting,3134690,"['permanent wave', 'soft rock', 'sophisti-pop']",69
+2615,Dimitri Vegas & Like Mike,3438731,"['belgian dance', 'belgian edm', 'big room', 'dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house']",66
+2625,Gustavo Cerati,3993591,"['argentine rock', 'latin alternative', 'latin rock', 'rock en espanol']",68
+2635,DMX,4741661,"['east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap']",67
+2645,Tech N9ne,2740087,['kansas city hip hop'],65
+2655,The Jackson 5,1440574,"['motown', 'soul']",66
+2665,Aretha Franklin,3253461,"['classic soul', 'jazz blues', 'memphis soul', 'neo soul', 'soul', 'southern soul', 'vocal jazz']",68
+2675,Cyndi Lauper,2484382,"['dance pop', 'new wave pop', 'permanent wave', 'soft rock']",68
+2685,Andrés Calamaro,2376879,"['argentine rock', 'cantautor', 'latin alternative', 'latin rock', 'pop argentino', 'rock en espanol']",67
+2695,Mary J. Blige,3695975,"['dance pop', 'hip pop', 'neo soul', 'r&b', 'urban contemporary']",68
+2705,Andrea Bocelli,2577429,"['classical tenor', 'italian tenor', 'operatic pop']",66
+2715,Lionel Richie,3320539,"['disco', 'soft rock']",67
+2725,José Feliciano,372205,"['latin pop', 'puerto rican pop']",64
+2735,Duster,756387,['slowcore'],65
+2745,Sin Bandera,5866888,"['latin arena pop', 'latin pop', 'mexican pop']",68
+2755,Pyotr Ilyich Tchaikovsky,1234086,"['classical', 'classical drill', 'late romantic era', 'russian romanticism']",67
+2765,Hillsong UNITED,3877084,"['ccm', 'christian music', 'world worship', 'worship']",67
+2775,Laura Pausini,2420036,"['europop', 'italian adult pop', 'latin arena pop', 'mexican pop']",69
+2785,Westlife,3953845,['boy band'],67
+2795,Kylie Minogue,1842374,"['australian dance', 'australian pop', 'dance pop', 'eurodance', 'new wave pop']",70
+2805,Missy Elliott,2341649,"['dance pop', 'hip hop', 'hip pop', 'neo soul', 'pop rap', 'r&b', 'rap', 'urban contemporary', 'virginia hip hop']",69
+2815,Cristian Castro,3281055,"['latin arena pop', 'latin pop']",67
+2825,Claude Debussy,1480400,"['classical', 'impressionism', 'post-romantic era']",66
+2835,Roberto Carlos,5338714,"['jovem guarda', 'mpb']",66
+2845,Hikaru Utada,3208877,"['anime', 'classic j-pop', 'j-pop', 'japanese singer-songwriter']",64
+2855,Tim McGraw,4485354,"['contemporary country', 'country', 'country road']",68
+2865,The Alchemist,558895,"['alternative hip hop', 'drumless hip hop', 'hip hop', 'instrumental hip hop', 'west coast rap']",69
+2875,Kenny Chesney,4413144,"['contemporary country', 'country', 'country road', 'modern country rock']",67
+2885,Pepe Aguilar,4333155,"['banda', 'latin talent show', 'mariachi', 'musica mexicana', 'ranchera']",67
+2895,Thalia,4912648,"['latin pop', 'mexican pop']",66
+2905,Rocío Dúrcal,4141413,"['cancion melodica', 'latin pop', 'ranchera']",67
+2915,Selena,46621750,"['pop', 'post-teen pop']",81
+2925,R. D. Burman,3785810,"['chutney', 'classic bollywood', 'filmi']",69
+2935,Guru Randhawa,17617687,"['filmi', 'modern bollywood']",66
+2945,Conjunto Primavera,2762316,"['banda', 'musica chihuahuense', 'musica mexicana', 'norteno']",68
+2955,Jenni Rivera,4356044,"['banda', 'mariachi', 'musica mexicana', 'ranchera', 'regional mexicano femenil']",66
+2965,Javed Ali,9341508,"['desi pop', 'filmi', 'modern bollywood']",68
+2975,Amaal Mallik,2685119,"['filmi', 'modern bollywood']",67
+2985,Chinmayi,2621930,"['filmi', 'marathi pop']",70
+2995,Years & Years,1977756,"['dance pop', 'gauze pop', 'pop', 'pop dance', 'uk pop']",64
+3005,Lenny Kravitz,3070827,"['permanent wave', 'rock']",68
+3015,Moby,1749075,"['downtempo', 'electronica']",65
+3025,Queens of the Stone Age,3385305,"['alternative metal', 'alternative rock', 'grunge', 'modern rock', 'palm desert scene', 'rock', 'stoner metal', 'stoner rock']",68
+3035,Blur,3120375,"['alternative rock', 'britpop', 'madchester', 'permanent wave', 'rock']",67
+3045,Yusuf / Cat Stevens,1827511,"['british folk', 'classic rock', 'folk', 'folk rock', 'mellow gold', 'singer-songwriter']",67
+3055,Gustavo Santaolalla,307395,"['argentine ambient', 'latin classical', 'latin soundtrack', 'orchestral soundtrack', 'soundtrack']",62
+3065,Pantera,4709008,"['alternative metal', 'groove metal', 'hard rock', 'metal', 'nu metal', 'old school thrash', 'rock', 'texas metal']",66
+3075,Tracy Chapman,1564106,"['folk', 'lilith', 'singer-songwriter', ""women's music""]",67
+3085,Kidz Bop Kids,1109177,"[""children's music""]",65
+3095,Blondie,1359726,"['candy pop', 'new wave pop', 'permanent wave', 'power pop', 'rock', 'synthpop']",67
+3105,Bunbury,2468575,"['latin alternative', 'latin rock', 'mexican rock', 'rock en espanol']",67
+3115,John Denver,2019940,"['classic country pop', 'folk', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock']",66
+3125,E-40,862903,"['cali rap', 'hyphy', 'oakland hip hop', 'west coast rap']",64
+3135,Julio Iglesias,2790114,['latin pop'],66
+3145,Willie Colón,1716046,"['salsa', 'tropical']",66
+3155,Babasónicos,1337930,"['argentine rock', 'electronica argentina', 'latin alternative', 'latin rock', 'pop electronico', 'rock en espanol']",66
+3165,Caifanes,3557962,"['latin alternative', 'latin pop', 'latin rock', 'mexican rock', 'nu-cumbia', 'rock en espanol', 'rock urbano mexicano']",67
+3175,Grupo Niche,3323011,"['salsa', 'salsa colombiana', 'tropical']",66
+3185,Kenny Rogers,2614307,"['classic country pop', 'country', 'nashville sound']",67
+3195,Miguel Bosé,2616729,"['latin pop', 'mexican pop']",66
+3205,Eros Ramazzotti,2129312,"['italian adult pop', 'mexican pop']",66
+3215,Ñejo,4181238,"['reggaeton', 'urbano latino']",69
+3225,Franco De Vita,5127692,"['latin arena pop', 'latin pop']",66
+3235,Olivia Newton-John,1464565,"['adult standards', 'australian dance', 'disco', 'mellow gold', 'soft rock']",64
+3245,Carpenters,3021083,"['adult standards', 'mellow gold', 'soft rock']",66
+3255,Leo Dan,2864790,"['bolero', 'cancion melodica', 'latin pop', 'ranchera']",67
+3265,Project Pat,792684,"['crunk', 'dirty south rap', 'gangster rap', 'memphis hip hop', 'trap']",65
+3275,Royal Philharmonic Orchestra,143749,"['british orchestra', 'orchestra']",66
+3285,Fergie,5661727,"['dance pop', 'pop']",66
+3295,Ja Rule,1758163,"['dance pop', 'east coast hip hop', 'gangster rap', 'hip hop', 'hip pop', 'pop rap', 'queens hip hop', 'rap', 'urban contemporary']",67
+3305,Péricles,2355493,"['pagode', 'pagode novo']",68
+3315,Gilberto Santa Rosa,2841290,"['salsa', 'salsa puertorriquena', 'tropical']",65
+3325,Jamie Foxx,1162771,"['contemporary r&b', 'hip pop', 'r&b', 'southern hip hop', 'trap', 'urban contemporary']",67
+3335,Ricardo Montaner,6196698,['latin pop'],65
+3345,Ciara,6388680,"['dance pop', 'hip pop', 'pop', 'r&b', 'urban contemporary']",68
+3355,Raekwon,577341,"['east coast hip hop', 'hardcore hip hop']",65
+3365,L.V.,20583,[],65
+3375,Rascal Flatts,3594833,"['contemporary country', 'country', 'country road', 'modern country rock']",65
+3385,Valentín Elizalde,3200372,"['banda', 'corrido', 'musica mexicana', 'musica sonorense', 'norteno', 'sierreno']",65
+3395,Asha Bhosle,6337859,"['chutney', 'classic bollywood', 'filmi']",67
+3405,Antonio Aguilar,3066370,"['mariachi', 'musica mexicana', 'norteno', 'ranchera']",67
+3415,Los Cadetes De Linares,2404187,"['banda', 'corridos clasicos', 'musica mexicana', 'norteno']",67
+3425,Madlib,444625,"['abstract hip hop', 'alternative hip hop', 'hip hop', 'instrumental hip hop', 'psychedelic hip hop']",65
+3435,Chalino Sanchez,2711305,"['banda', 'corrido', 'corridos clasicos', 'musica mexicana', 'norteno', 'sierreno']",67
+3445,Grupo Bryndis,2212600,"['banda', 'grupera', 'gruperas inmortales', 'grupero romantico', 'musica mexicana', 'norteno']",67
+3455,Los Invasores De Nuevo León,1894176,"['banda', 'musica mexicana', 'norteno']",67
+3465,S. Janaki,3926490,"['classic kollywood', 'filmi']",68
+3475,K. J. Yesudas,5970882,"['filmi', 'mollywood']",68
+3485,Shankar-Ehsaan-Loy,4832446,"['filmi', 'modern bollywood']",67
+3495,The Mamas & The Papas,1659247,"['classic rock', 'folk', 'folk rock', 'mellow gold', 'psychedelic rock', 'rock', 'soft rock', 'sunshine pop']",65
+3505,Genesis,3178437,"['album rock', 'art rock', 'classic rock', 'hard rock', 'mellow gold', 'progressive rock', 'rock', 'soft rock', 'symphonic rock']",65
+3515,Cypress Hill,1925882,"['chicano rap', 'gangster rap', 'hip hop', 'rap rock', 'west coast rap']",64
+3525,Wu-Tang Clan,2917153,"['east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap']",65
+3535,The Who,5232313,"['album rock', 'british invasion', 'classic rock', 'hard rock', 'rock']",65
+3545,Café Tacvba,2856384,"['latin alternative', 'latin pop', 'latin rock', 'mexican rock', 'rock en espanol']",66
+3555,Incubus,3150057,"['alternative metal', 'alternative rock', 'funk metal', 'funk rock', 'nu metal', 'post-grunge', 'rock']",66
+3565,Gigi D'Agostino,808087,"['eurodance', 'italo dance']",66
+3575,Eurythmics,1835599,"['dance rock', 'new romantic', 'new wave', 'new wave pop', 'soft rock', 'sophisti-pop', 'synthpop']",65
+3585,Mägo de Oz,4073628,"['celtic metal', 'latin rock', 'medieval rock', 'rock en espanol', 'spanish folk metal', 'spanish metal']",66
+3595,Snow Patrol,2910478,"['irish rock', 'modern rock', 'neo mellow', 'permanent wave', 'pop rock']",65
+3605,Chuck Berry,1896701,"['blues', 'blues rock', 'classic rock', 'rock', 'rock-and-roll', 'rockabilly', 'soul']",64
+3615,Nina Simone,2719304,"['jazz blues', 'neo soul', 'soul', 'soul jazz', 'torch song', 'vocal jazz']",66
+3625,Bob Sinclar,590776,"['disco house', 'filter house']",65
+3635,Joe Hisaishi,1046813,"['anime', 'anime score', 'japanese classical', 'japanese soundtrack', 'orchestral soundtrack']",67
+3645,Counting Crows,1719323,"['neo mellow', 'pop rock', 'post-grunge', 'rock']",65
+3655,Sam Cooke,1553384,"['classic soul', 'soul', 'vocal jazz']",65
+3665,UB40,2274892,"['reggae fusion', 'uk reggae']",65
+3675,Duran Duran,2796302,"['album rock', 'dance rock', 'new romantic', 'new wave', 'new wave pop', 'rock', 'soft rock', 'synthpop']",66
+3685,Etta James,1565395,"['jazz blues', 'soul', 'soul blues', 'torch song', 'vocal jazz']",66
+3695,Tom Petty,2376234,"['album rock', 'classic rock', 'hard rock', 'heartland rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock']",67
+3705,Los Auténticos Decadentes,2060281,"['argentine rock', 'latin alternative', 'latin rock', 'rock en espanol', 'ska argentino']",64
+3715,The Doobie Brothers,2399237,"['album rock', 'classic rock', 'country rock', 'folk rock', 'heartland rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock', 'yacht rock']",65
+3725,Yo-Yo Ma,582342,"['chamber ensemble', 'classical cello', 'classical performance']",64
+3735,Air Supply,4131845,['soft rock'],66
+3745,Paul Simon,2214021,"['classic rock', 'folk', 'folk rock', 'mellow gold', 'permanent wave', 'rock', 'singer-songwriter', 'soft rock']",65
+3755,Tina Turner,3805408,['soft rock'],67
+3765,Bootsy Collins,387424,"['funk', 'p funk', 'quiet storm', 'soul']",64
+3775,Spice Girls,3280457,"['dance pop', 'girl group', 'pop']",66
+3785,Neil Diamond,2581735,"['adult standards', 'brill building pop', 'folk rock', 'heartland rock', 'mellow gold', 'singer-songwriter', 'soft rock', 'yacht rock']",64
+3795,*NSYNC,2171612,"['boy band', 'dance pop', 'pop']",68
+3805,Joaquín Sabina,2979034,"['cantautor', 'spanish pop', 'trova']",65
+3815,INNA,1266011,"['dance pop', 'romanian house', 'romanian pop']",66
+3824,Kenny Loggins,1026762,"['album rock', 'classic rock', 'heartland rock', 'mellow gold', 'new wave pop', 'singer-songwriter', 'soft rock', 'yacht rock']",64
+3834,James Taylor,2485810,"['classic rock', 'folk', 'folk rock', 'heartland rock', 'mellow gold', 'singer-songwriter', 'soft rock']",64
+3844,Cher,3167745,"['dance pop', 'pop']",67
+3854,TLC,3782888,"['atl hip hop', 'contemporary r&b', 'dance pop', 'girl group', 'hip pop', 'r&b', 'urban contemporary']",66
+3864,Grupo Revelação,1519127,"['pagode', 'pagode novo']",65
+3874,Wiener Philharmoniker,123593,"['austrian orchestra', 'classical', 'classical performance', 'orchestra']",65
+3884,Toby Keith,2138998,"['classic oklahoma country', 'contemporary country', 'country', 'country road']",66
+3894,Herbert von Karajan,163669,"['classical', 'classical performance', 'orchestral performance']",65
+3904,Emmanuel,2738616,"['latin pop', 'mexican pop', 'ranchera']",65
+3914,Perry Como,496406,"['adult standards', 'easy listening']",63
+3924,Mohammed Rafi,6499522,"['classic bollywood', 'filmi']",65
+3934,Ol' Dirty Bastard,1000258,"['east coast hip hop', 'hardcore hip hop', 'hip hop']",62
+3944,Sukhwinder Singh,475535,"['filmi', 'modern bollywood']",66
+3954,Burl Ives,92129,"['adult standards', 'american folk revival', 'lounge']",62
+3964,Fünf Freunde,115206,"['hoerspiel', 'kleine hoerspiel']",64
+3974,Shaan,6800323,"['filmi', 'modern bollywood']",66
+3984,Sadhana Sargam,1025585,"['classic bollywood', 'filmi', 'hare krishna']",66
+3994,Ray Charles,2136720,"['classic soul', 'jazz blues', 'piano blues', 'soul', 'soul blues', 'vocal jazz']",65
+4004,Deep Purple,5274236,"['album rock', 'classic rock', 'hard rock', 'metal', 'rock']",63
+4014,Judas Priest,3884267,"['album rock', 'alternative metal', 'birmingham metal', 'glam metal', 'hard rock', 'metal', 'rock']",64
+4024,No Doubt,2645946,"['dance pop', 'dance rock', 'permanent wave', 'pop rock', 'rock']",65
+4034,Jarabe De Palo,1578459,"['latin alternative', 'latin rock', 'rock en espanol', 'spanish pop', 'spanish rock']",64
+4044,Kool & The Gang,2399069,"['disco', 'funk', 'motown', 'soft rock', 'soul']",65
+4054,Erik Satie,781585,"['classical', 'early avant garde', 'early modern classical', 'impressionism', 'post-romantic era']",64
+4064,Mobb Deep,1968234,"['east coast hip hop', 'hardcore hip hop', 'hip hop', 'queens hip hop']",64
+4074,Creed,6206390,"['classic rock', 'country rock', 'rock', 'southern rock', 'swamp rock']",77
+4084,Los Fabulosos Cadillacs,3000656,"['argentine rock', 'latin alternative', 'latin rock', 'rock en espanol', 'ska', 'ska argentino']",65
+4094,TheFatRat,1746680,['speedrun'],63
+4104,A Tribe Called Quest,2002759,"['conscious hip hop', 'east coast hip hop', 'golden age hip hop', 'hip hop', 'jazz rap', 'queens hip hop']",65
+4114,Hardwell,3709813,"['big room', 'dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house']",65
+4124,Erykah Badu,2786743,"['afrofuturism', 'alternative r&b', 'neo soul', 'r&b']",64
+4134,Don Diablo,1820774,"['dutch house', 'edm', 'electro house', 'future house', 'pop dance', 'progressive electro house']",63
+4144,Pet Shop Boys,1668476,"['dance rock', 'new romantic', 'new wave', 'new wave pop', 'permanent wave', 'synthpop']",64
+4154,Modern Talking,1466196,"['europop', 'synthpop']",67
+4164,Godsmack,3115882,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal']",65
+4174,George Harrison,2558909,"['album rock', 'classic rock', 'folk rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock']",64
+4184,Caetano Veloso,2189392,"['bossa nova', 'mpb', 'samba de roda', 'tropicalia']",64
+4194,Skank,2901362,"['brazilian rock', 'latin alternative', 'manguebeat', 'mpb', 'pop rock brasileiro', 'rock mineiro', 'rock nacional brasileiro']",64
+4204,Waylon Jennings,1385921,"['classic texas country', 'country', 'outlaw country']",64
+4214,Tony Bennett,879135,"['adult standards', 'easy listening', 'lounge', 'vocal jazz']",64
+4224,Steely Dan,2117787,"['album rock', 'classic rock', 'country rock', 'folk rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",64
+4234,Fat Joe,1709424,"['bronx hip hop', 'east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",65
+4244,Aaliyah,4097530,"['contemporary r&b', 'dance pop', 'hip pop', 'r&b', 'urban contemporary']",65
+4254,Riton,120258,"['house', 'pop dance', 'uk dance']",63
+4264,Eason Chan,2597821,"['c-pop', 'cantopop', 'mandopop']",63
+4274,Keyshia Cole,3732812,"['hip pop', 'r&b', 'urban contemporary']",67
+4284,Johannes Brahms,924943,"['classical', 'german romanticism', 'late romantic era']",65
+4294,Academy of St. Martin in the Fields,52164,"['british orchestra', 'chamber orchestra', 'classical', 'classical performance']",64
+4304,Paulina Rubio,2870787,"['latin arena pop', 'latin pop', 'mexican pop']",64
+4314,Ghostface Killah,856667,"['east coast hip hop', 'hardcore hip hop']",63
+4324,Tom Petty and the Heartbreakers,2633709,"['album rock', 'classic rock', 'hard rock', 'heartland rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock']",66
+4334,Yo Gotti,4390511,"['dirty south rap', 'gangster rap', 'memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",63
+4344,Pradeep Kumar,900085,['tamil pop'],66
+4354,Eve,1312852,"['contemporary r&b', 'dance pop', 'hip pop', 'philly rap', 'r&b', 'urban contemporary']",64
+4363,Marisela,1933379,"['latin pop', 'ranchera']",66
+4373,Alejandra Guzman,3670734,"['latin arena pop', 'latin pop', 'mexican pop']",65
+4383,Zezé Di Camargo & Luciano,3365971,"['sertanejo', 'sertanejo tradicional', 'sertanejo universitario']",66
+4393,Mijares,2084817,"['latin pop', 'mexican pop']",63
+4402,Silambarasan TR,374084,"['filmi', 'tamil pop']",61
+4412,Sujatha,1796695,"['filmi', 'malayalam pop']",67
+4422,R. Kelly,2512109,[],64
+4432,Los Inquietos Del Norte,1530704,"['banda', 'corrido', 'musica mexicana', 'norteno', 'sierreno']",67
+4442,Anuradha Paudwal,4793774,"['bhajan', 'classic bollywood', 'filmi', 'ghazal', 'hare krishna']",68
+4452,Abhijeet,4276593,"['filmi', 'modern bollywood']",67
+4462,Sheila On 7,6922223,"['indonesian alternative rock', 'indonesian pop']",67
+4472,Kavita Krishnamurthy,2492367,"['classic bollywood', 'filmi']",66
+4482,Jatin-Lalit,240870,"['afghan pop', 'chutney', 'classic bollywood', 'filmi', 'modern bollywood']",65
+4492,Jamiroquai,2269434,['dance pop'],64
+4502,El Cuarteto De Nos,1506119,"['argentine rock', 'rock en espanol', 'rock uruguayo']",68
+4512,Placebo,1848454,"['alternative rock', 'britpop', 'permanent wave', 'rock']",62
+4522,Tom Morello,163238,['modern alternative rock'],61
+4532,Nine Inch Nails,2437190,"['alternative metal', 'alternative rock', 'cyberpunk', 'electronic rock', 'industrial', 'industrial metal', 'industrial rock', 'nu metal', 'post-grunge', 'rock']",63
+4542,Patricio Rey y sus Redonditos de Ricota,1437567,"['argentine rock', 'post-punk argentina']",64
+4552,Will Smith,908705,"['hip hop', 'pop rap']",64
+4562,PXNDX,1371829,"['emo mexicano', 'latin alternative', 'latin rock', 'mexican pop punk', 'mexican rock', 'punk rock mexicano', 'rock en espanol']",64
+4572,Heroes Del Silencio,2484796,"['latin alternative', 'latin rock', 'musica aragonesa', 'rock en espanol', 'spanish rock']",64
+4582,Bonnie Tyler,1872090,"['europop', 'new wave pop', 'soft rock']",65
+4592,Sir Simon Rattle,51241,"['classical performance', 'orchestral performance']",62
+4602,Boyz II Men,2912998,"['boy band', 'contemporary r&b', 'new jack swing', 'r&b', 'urban contemporary']",63
+4612,Antônio Carlos Jobim,657584,"['bossa nova', 'brazilian classical', 'brazilian jazz', 'latin classical', 'mpb', 'violao']",65
+4622,Boston,2610652,"['album rock', 'classic rock', 'glam metal', 'hard rock', 'mellow gold', 'rock', 'soft rock']",63
+4632,Kid Rock,2562198,['nu metal'],63
+4642,The All-American Rejects,2576296,"['alternative metal', 'modern rock', 'neo mellow', 'neon pop punk', 'pop punk', 'pop rock', 'post-grunge']",64
+4652,Dybbukk,42736,"['slowed and reverb', 'sped up']",61
+4662,Kansas,1466690,"['album rock', 'classic rock', 'hard rock', 'heartland rock', 'mellow gold', 'progressive rock', 'rock', 'soft rock']",63
+4672,Mecano,1700490,"['cantautor', 'latin alternative', 'latin pop', 'rock en espanol', 'spanish pop', 'spanish pop rock']",62
+4682,The Temptations,2840790,"['memphis soul', 'motown', 'soul']",64
+4692,Heart,2441714,"['album rock', 'classic rock', 'glam metal', 'hard rock', 'heartland rock', 'mellow gold', 'new wave pop', 'rock', 'singer-songwriter', 'soft rock']",64
+4702,Prezioso,112327,['italo dance'],63
+4712,Sheryl Crow,1086348,"['lilith', 'new wave pop', 'permanent wave', 'pop rock', 'singer-songwriter']",64
+4722,Bone Thugs-N-Harmony,2876265,"['gangster rap', 'hip hop', 'ohio hip hop', 'rap']",63
+4732,Matchbox Twenty,2439592,"['neo mellow', 'pop rock', 'post-grunge']",64
+4742,kevoxx,3672,['sped up'],46
+4752,Eddie Santiago,1882738,"['salsa', 'salsa puertorriquena', 'tropical']",65
+4762,Diana Ross,1687072,"['adult standards', 'disco', 'motown', 'quiet storm', 'soft rock', 'soul']",63
+4772,Xzibit,1946102,"['detroit hip hop', 'g funk', 'gangster rap', 'hardcore hip hop', 'hip hop', 'west coast rap']",63
+4782,Howard Shore,427326,"['canadian classical', 'canadian soundtrack', 'middle earth', 'orchestral soundtrack', 'scorecore', 'soundtrack']",64
+4792,Fabolous,2671830,"['gangster rap', 'hip hop', 'pop rap', 'rap', 'trap', 'urban contemporary']",64
+4802,Arizona Zervas,735403,"['indie pop rap', 'pop rap', 'rhode island rap']",61
+4812,Tarkan,3276459,['turkish pop'],62
+4822,Darius Rucker,2513377,"['black americana', 'contemporary country', 'country', 'country road', 'modern country rock']",65
+4832,Müslüm Gürses,6570113,['arabesk'],63
+4842,Frankie Ruiz,1389243,"['salsa', 'salsa puertorriquena', 'tropical']",64
+4852,Ivete Sangalo,2102514,"['arrocha', 'axe', 'mpb', 'pagode', 'pop nacional', 'samba reggae', 'sertanejo universitario']",60
+4862,The Wiggles,235073,"[""australian children's music"", ""children's music""]",65
+4872,The Chicks,1414548,"['contemporary country', 'country', 'country dawn']",64
+4882,Yuri,4131817,"['latin arena pop', 'latin pop', 'mexican pop']",70
+4892,Mika Singh,9234576,"['filmi', 'modern bollywood']",62
+4902,Binomio de Oro de América,1898878,['vallenato'],64
+4912,Dwele,290637,['neo soul'],67
+4922,Himesh Reshammiya,9674457,"['filmi', 'modern bollywood']",63
+4932,Chris Tomlin,1828917,"['ccm', 'christian alternative rock', 'christian music']",63
+4942,Pancho Barraza,3055571,"['banda', 'musica mexicana']",64
+4952,George Frideric Handel,876577,"['baroque', 'classical', 'early music', 'english baroque', 'german baroque']",63
+4962,Pesado,2039908,"['banda', 'musica mexicana', 'norteno']",66
+4972,Traditional,63586,"['gregorian chant', 'puirt-a-beul']",60
+4982,Grupo Laberinto,559936,"['cumbia sonorense', 'musica sonorense', 'tecnobanda', 'tejano']",65
+4992,Ennio Morricone,1098558,"['classic soundtrack', 'italian soundtrack', 'orchestral soundtrack', 'vintage italian soundtrack']",63
+5002,Seu Jorge,1404925,"['mpb', 'samba-rock']",62
+5012,Leonard Cohen,3240243,"['canadian singer-songwriter', 'melancholia', 'permanent wave', 'singer-songwriter']",62
+5022,Fugees,1319498,"['east coast hip hop', 'hip hop', 'neo soul', 'new jersey rap']",63
+5032,Good Charlotte,2486242,"['alternative metal', 'modern rock', 'neon pop punk', 'pop punk', 'pop rock', 'post-grunge']",62
+5042,Motörhead,3849472,"['alternative metal', 'hard rock', 'metal', 'rock', 'speed metal']",62
+5052,Nightwish,2087190,"['fantasy metal', 'finnish metal', 'finnish power metal', 'gothic metal', 'gothic symphonic metal', 'opera metal', 'power metal', 'symphonic metal']",63
+5062,Jorge Drexler,809904,"['cantautor', 'latin afrobeat', 'latin alternative', 'latin rock', 'nueva cancion', 'trova']",61
+5072,Grateful Dead,1759768,"['cosmic american', 'jam band', 'psychedelic rock']",62
+5082,Eazy-E,5465828,"['g funk', 'gangster rap', 'hip hop', 'rap', 'west coast rap']",61
+5092,Roy Orbison,1905796,"['adult standards', 'classic rock', 'folk rock', 'mellow gold', 'rock-and-roll', 'rockabilly', 'singer-songwriter']",63
+5102,Stevie Nicks,1415547,['heartland rock'],62
+5112,The Cramps,441607,"['garage rock', 'gothabilly', 'post-punk', 'psychobilly', 'punk']",55
+5122,Daniel Hope,35800,['violin'],62
+5132,Crowded House,792799,"['australian rock', 'permanent wave']",63
+5142,Sir Neville Marriner,29694,"['classical performance', 'orchestral performance']",63
+5152,Sir Arthur Conan Doyle,12879,"['hoerspiel', 'writing']",62
+5162,In Flames,1127923,"['alternative metal', 'gothenburg metal', 'melodic death metal', 'melodic metalcore', 'metal', 'swedish alternative rock', 'swedish death metal', 'swedish melodeath', 'swedish metal']",61
+5172,Scooter,794022,"['eurodance', 'german techno', 'hamburg electronic', 'happy hardcore']",63
+5182,Gloria Estefan,746118,"['new wave pop', 'soft rock']",61
+5192,Richard Marx,1261263,"['new wave pop', 'soft rock']",63
+5202,Djavan,2614197,"['mpb', 'musica alagoana']",64
+5212,DJ Premier,263478,"['east coast hip hop', 'instrumental hip hop', 'jazz boom bap', 'turntablism']",62
+5222,Chris Rea,961450,"['soft rock', 'sophisti-pop']",61
+5232,D12,3049108,"['detroit hip hop', 'gangster rap', 'hip hop']",62
+5242,Los Palmeras,1828406,"['cuarteto', 'cumbia santafesina']",62
+5252,Ginuwine,2536040,"['contemporary r&b', 'hip pop', 'r&b', 'urban contemporary']",62
+5262,Raça Negra,2255522,"['pagode', 'sertanejo', 'sertanejo universitario']",63
+5272,José Luis Perales,2341015,"['cancion melodica', 'latin pop', 'ranchera']",63
+5282,Janet Jackson,3782836,"['dance pop', 'r&b', 'urban contemporary']",62
+5292,Twista,1008637,"['chicago rap', 'dirty south rap', 'gangster rap', 'trap']",63
+5302,Alonzo,1853649,"['french hip hop', 'pop urbaine', 'r&b francais', 'rap francais', 'rap marseille']",66
+5312,Teoman,2260166,['turkish rock'],63
+5322,Jerry Rivera,1864192,"['latin pop', 'puerto rican pop', 'salsa', 'salsa puertorriquena', 'tropical']",63
+5332,Too $hort,1502873,"['cali rap', 'gangster rap', 'golden age hip hop', 'hyphy', 'oakland hip hop', 'west coast rap']",60
+5342,La Sonora Dinamita,938905,"['cumbia', 'ranchera', 'salsa colombiana', 'tropical']",63
+5352,Robert Schumann,542837,"['early romantic era', 'german romanticism']",64
+5362,James Horner,301726,"['orchestral soundtrack', 'soundtrack']",61
+5372,Chitãozinho & Xororó,2088991,"['agronejo', 'sertanejo', 'sertanejo tradicional', 'sertanejo universitario']",65
+5382,Playero,50476,['reggaeton'],53
+5392,José Alfredo Jimenez,2060341,"['mariachi', 'musica mexicana', 'norteno', 'ranchera']",62
+5402,Camille Saint-Saëns,355756,"['classical', 'french romanticism', 'late romantic era']",62
+5412,Tammi Terrell,172904,"['classic soul', 'motown', 'soul', 'southern soul']",65
+5422,Ati242,663213,['turkish hip hop'],63
+5432,Los Angeles De Charly,1244525,"['cumbia sonidera', 'musica mexicana', 'norteno', 'ranchera']",63
+5442,Los Dareyes De La Sierra,808219,"['classic sierreno', 'corrido', 'musica mexicana', 'sierreno']",70
+5452,Los Acosta,1897096,"['banda', 'grupera', 'musica mexicana', 'norteno']",65
+5462,Inspectah Deck,226226,['east coast hip hop'],63
+5472,Naresh Iyer,1201480,['filmi'],64
+5482,Roop Kumar Rathod,3998731,"['filmi', 'modern bollywood', 'sufi']",62
+5492,Gipsy Kings,838583,"['flamenco', 'rumba', 'world']",63
+5502,John Coltrane,1581641,"['bebop', 'free jazz', 'jazz', 'jazz saxophone', 'vocal jazz']",62
+5512,Iggy Pop,1553526,"['alternative rock', 'glam rock', 'permanent wave', 'protopunk', 'rock']",59
+5522,Barry White,1796660,"['disco', 'quiet storm', 'soul']",62
+5532,Phoenix,1874041,"['alternative dance', 'indie rock', 'modern rock', 'neo-synthpop', 'new rave', 'rock independant francais', 'shimmer pop']",62
+5542,Thousand Foot Krutch,1280104,"['alternative metal', 'canadian ccm', 'canadian metal', 'canadian rock', 'christian alternative rock', 'christian rock', 'rap metal']",63
+5552,Beck,14182696,"['latin pop', 'latin viral pop', 'rap latina', 'reggaeton', 'trap latino', 'urbano latino']",77
+5562,Jim Croce,1330548,"['classic rock', 'country rock', 'folk', 'folk rock', 'heartland rock', 'mellow gold', 'singer-songwriter', 'soft rock']",62
+5572,Bonobo,1357507,"['downtempo', 'electronica', 'indietronica', 'instrumental hip hop', 'jazztronica', 'nu jazz', 'trip hop']",61
+5582,Billie Holiday,1816142,"['adult standards', 'harlem renaissance', 'jazz', 'jazz blues', 'soul', 'swing', 'torch song', 'vocal jazz']",63
+5592,Smash Mouth,1021111,"['pop rock', 'post-grunge']",63
+5602,Al Green,1881741,"['classic soul', 'funk', 'memphis soul', 'soul', 'soul blues', 'southern soul']",63
+5612,Joe Cocker,2218943,"['album rock', 'blues rock', 'classic rock', 'folk rock', 'heartland rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock']",62
+5622,The Outfield,597307,"['album rock', 'power pop']",62
+5632,La Mosca Tse-Tse,543802,"['latin alternative', 'latin rock', 'rock en espanol', 'ska argentino']",59
+5642,Men At Work,1166582,"['album rock', 'australian rock', 'classic rock', 'hard rock', 'heartland rock', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'rock', 'soft rock']",63
+5652,Kenny Dope,24203,"['chicago house', 'classic house', 'deep house', 'pop dance', 'soulful house']",59
+5662,mor ve ötesi,2187412,"['turkish alternative', 'turkish alternative rock', 'turkish rock']",60
+5672,Celia Cruz,567539,"['cha-cha-cha', 'cuban rumba', 'mambo', 'musica tradicional cubana', 'salsa']",61
+5682,Charly García,1649185,"['argentine rock', 'latin rock', 'post-punk argentina', 'rock en espanol']",64
+5692,Craig David,874768,"['british soul', 'talent show']",60
+5702,Fito Paez,1699831,"['argentine rock', 'latin alternative', 'latin rock', 'rock en espanol']",64
+5712,John Mellencamp,1633824,"['album rock', 'classic rock', 'country rock', 'folk rock', 'hard rock', 'heartland rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock']",63
+5722,Elvis Crespo,1075125,"['latin pop', 'salsa', 'tropical']",62
+5732,Lil' Kim,1681524,"['dance pop', 'east coast hip hop', 'hip hop', 'hip pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap queen', 'urban contemporary']",62
+5741,TobyMac,1272050,"['ccm', 'christian alternative rock', 'christian hip hop', 'christian music']",63
+5751,Zeca Pagodinho,1688962,"['mpb', 'pagode', 'partido alto', 'samba', 'samba de roda']",61
+5761,Jadakiss,1161786,"['battle rap', 'east coast hip hop', 'trap']",62
+5771,London Philharmonic Orchestra,249925,"['british orchestra', 'orchestra']",62
+5781,RZA,541235,"['east coast hip hop', 'hardcore hip hop']",62
+5791,Brad Paisley,2746806,"['contemporary country', 'country', 'country road']",62
+5801,"Hank Williams, Jr.",1568759,"['country', 'country rock', 'outlaw country']",63
+5811,Jóhann Jóhannsson,258550,"['compositional ambient', 'experimental classical', 'icelandic classical', 'icelandic experimental', 'nordic soundtrack', 'soundtrack']",63
+5821,112,1123781,"['atl hip hop', 'boy band', 'contemporary r&b', 'hip pop', 'r&b', 'urban contemporary']",63
+5831,Nusrat Fateh Ali Khan,5577173,"['classic pakistani pop', 'filmi', 'indian fusion', 'pakistani folk', 'qawwali', 'sufi', 'world']",65
+5841,Brandy,3470602,"['contemporary r&b', 'dance pop', 'hip pop', 'r&b', 'urban contemporary']",62
+5851,Leo Mattioli,1504054,"['cumbia santafesina', 'cumbia villera']",60
+5861,Marisa Monte,2066061,['mpb'],62
+5871,Udo Lindenberg,722947,"['german pop', 'german rock']",59
+5881,Mandy Moore,710992,"['dance pop', 'neo mellow', 'post-teen pop']",61
+5891,Santiago Ziesmer,774,[],62
+5901,Belo,1602,[],46
+5911,Outlawz,274896,['gangster rap'],61
+5921,Dewa 19,4372651,"['classic indonesian rock', 'indonesian pop', 'indonesian rock']",70
+5931,Mase,1234929,"['alternative r&b', 'indie soul']",67
+5941,Banda Cuisillos,586061,"['banda', 'banda jalisciense', 'musica mexicana', 'norteno']",63
+5951,Leon James,254505,['tamil pop'],59
+5961,Los Yonic's,1745589,"['banda', 'grupera', 'gruperas inmortales', 'musica mexicana', 'norteno', 'ranchera']",62
+5971,Banda Pequeños Musical,1710233,"['banda', 'banda jalisciense', 'musica mexicana', 'norteno', 'tecnobanda']",65
+5981,Ilaiyaraaja,9584257,"['classic kollywood', 'filmi']",65
+5991,Joy Division,2265008,"['alternative rock', 'indie rock', 'madchester', 'new wave', 'post-punk', 'punk', 'rock', 'uk post-punk']",61
+6001,J.J. Cale,757279,"['blues', 'blues rock', 'folk rock', 'roots rock', 'singer-songwriter']",59
+6011,Gojira,1239549,"['alternative metal', 'french death metal', 'french metal', 'groove metal', 'metal', 'nu metal', 'progressive groove metal']",61
+6021,Commodores,1798501,"['adult standards', 'disco', 'funk', 'mellow gold', 'motown', 'quiet storm', 'soft rock', 'soul']",62
+6031,Chet Baker,1034486,"['cool jazz', 'jazz', 'jazz trumpet', 'vocal jazz']",62
+6041,Mos Def,1421777,"['conscious hip hop', 'east coast hip hop', 'hip hop']",62
+6051,Modest Mouse,1420622,"['alternative rock', 'chamber pop', 'indie rock', 'indietronica', 'modern rock', 'washington indie']",61
+6061,Lamb of God,1932023,"['alternative metal', 'groove metal', 'melodic metalcore', 'metal', 'nu metal', 'virginia metal']",61
+6071,Death Cab for Cutie,1498693,"['alternative rock', 'chamber pop', 'indie rock', 'indietronica', 'modern rock', 'seattle indie', 'washington indie']",61
+6081,Billy Ray Cyrus,239122,['country rock'],59
+6091,Los Panchos,796732,"['bolero', 'bolero mexicano', 'ranchera']",62
+6101,CeeLo Green,594764,['atl hip hop'],63
+6111,Dusty Springfield,436949,"['adult standards', 'british invasion', 'rock-and-roll', 'soul', 'vocal jazz']",64
+6121,Pretenders,1452898,"['album rock', 'classic rock', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'permanent wave', 'rock', 'soft rock']",60
+6131,Elliott Smith,1009468,"['alternative rock', 'indie rock', 'melancholia', 'singer-songwriter']",62
+6141,Peter Gabriel,1624174,"['album rock', 'art rock', 'classic rock', 'mellow gold', 'new romantic', 'new wave', 'permanent wave', 'progressive rock', 'rock', 'singer-songwriter', 'soft rock']",62
+6151,Insane Clown Posse,1277518,['rap rock'],62
+6161,REO Speedwagon,2442905,"['album rock', 'classic rock', 'glam metal', 'hard rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock']",62
+6171,Europe,1445298,"['album rock', 'glam metal', 'hard rock', 'rock', 'swedish hard rock', 'swedish melodic rock']",61
+6181,Whitesnake,2845371,"['album rock', 'british blues', 'classic rock', 'glam metal', 'hard rock', 'metal', 'rock']",61
+6191,Gilberto Gil,1237073,"['bossa nova', 'mpb', 'samba', 'tropicalia', 'violao']",61
+6201,Vasco Rossi,3421069,"['classic italian pop', 'italian adult pop']",63
+6211,Héctor Lavoe,1812288,"['salsa', 'salsa puertorriquena', 'tropical']",63
+6221,Kingpin Skinny Pimp,55643,"['crunk', 'memphis hip hop', 'phonk']",56
+6231,Silvio Rodríguez,1340597,"['cantautor', 'latin alternative', 'nueva cancion', 'trova']",61
+6241,Andrés Cepeda,3160815,['colombian pop'],61
+6251,Franz Schubert,1060754,"['classical', 'classical era', 'early romantic era']",61
+6261,La Ley,1512118,"['chilean rock', 'latin alternative', 'latin pop', 'latin rock', 'rock en espanol']",62
+6271,Barbra Streisand,1421240,"['adult standards', 'operatic pop', 'soft rock']",61
+6281,Donna Summer,1863666,"['disco', 'hi-nrg', 'new wave pop', 'soft rock']",60
+6291,Edvard Grieg,515815,"['classical', 'late romantic era', 'norwegian classical']",61
+6301,Diego Torres,2125176,"['latin pop', 'pop argentino']",62
+6311,Zé Ramalho,2534733,['mpb'],61
+6321,Luciano Pereyra,2151277,"['argentine telepop', 'folklore argentino']",60
+6331,Faith Evans,1589673,"['contemporary r&b', 'hip pop', 'r&b', 'urban contemporary']",62
+6341,Lulu Santos,1975938,"['brazilian rock', 'mpb', 'pop nacional']",62
+6351,Shakin' Stevens,137723,"['classic uk pop', 'rockabilly']",59
+6361,Jota Quest,2261595,"['brazilian rock', 'mpb', 'pop rock brasileiro', 'rock mineiro', 'rock nacional brasileiro']",61
+6371,Víctor Manuelle,1851808,"['latin pop', 'modern salsa', 'salsa', 'salsa peruana', 'salsa puertorriquena', 'tropical']",61
+6381,Javier Solís,2136090,"['bolero', 'bolero mexicano', 'mariachi', 'ranchera']",61
+6391,Vedo,437135,['pop r&b'],58
+6401,Exaltasamba,1761697,"['axe', 'pagode', 'pagode novo', 'samba paulista', 'sertanejo universitario']",62
+6411,Faith Hill,1795247,"['contemporary country', 'country', 'country dawn', 'country road']",60
+6421,Mr.Children,3185462,"['classic j-pop', 'j-pop', 'j-rock']",62
+6431,Redman,1164004,"['east coast hip hop', 'hardcore hip hop', 'new jersey rap', 'wu fam']",61
+6441,Los Rehenes,1118285,"['grupera', 'gruperas inmortales', 'musica mexicana', 'norteno']",63
+6451,LX,44551,[],65
+6461,Joe,3242235,"['conscious hip hop', 'hip hop', 'rap']",70
+6471,Ebru Gündeş,2490850,"['arabesk', 'turkish folk', 'turkish pop']",64
+6481,Vijay Yesudas,2325423,['filmi'],63
+6491,The Velvet Underground,1815291,"['alternative rock', 'melancholia', 'permanent wave', 'protopunk', 'rock']",60
+6501,The Cinematic Orchestra,643986,"['compositional ambient', 'downtempo', 'nu jazz']",61
+6511,Cultura Profética,1771728,"['latin alternative', 'latin rock', 'reggae en espanol', 'rock en espanol']",60
+6521,Staind,2436436,"['alternative metal', 'nu metal', 'post-grunge']",62
+6531,"Grover Washington, Jr.",326808,['soul jazz'],60
+6541,Stan Getz,408571,"['bebop', 'bossa nova', 'cool jazz', 'jazz', 'jazz saxophone', 'latin jazz', 'samba-jazz', 'vocal jazz']",62
+6551,Dave Matthews Band,1944054,"['jam band', 'neo mellow', 'pop rock']",61
+6561,Alphaville,759934,"['new romantic', 'new wave pop', 'synthpop']",62
+6571,Lifehouse,1983594,"['neo mellow', 'pop rock', 'post-grunge']",61
+6581,BUMP OF CHICKEN,1126913,"['j-pop', 'j-rock']",58
+6591,Martin Solveig,1213783,"['disco house', 'edm', 'electro house', 'filter house', 'house', 'pop dance', 'vocal house']",60
+6601,El Canto Del Loco,997036,"['latin arena pop', 'spanish pop', 'spanish pop rock']",61
+6611,Alice Cooper,3593285,"['album rock', 'classic rock', 'detroit rock', 'glam metal', 'glam rock', 'hard rock', 'metal', 'protopunk', 'rock']",61
+6621,Meat Loaf,1091998,['album rock'],59
+6631,Savage Garden,1226374,"['boy band', 'dance pop', 'pop rock']",61
+6641,ATB,371553,"['german dance', 'german techno', 'german trance', 'trance']",61
+6651,Alexandre Desplat,311664,"['french soundtrack', 'orchestral soundtrack', 'soundtrack']",61
+6661,Kris Kristofferson,565952,"['country', 'country rock', 'outlaw country', 'singer-songwriter']",60
+6671,Gavin Greenaway,12113,"['british soundtrack', 'soundtrack']",61
+6681,Lisa Gerrard,171532,"['ethereal wave', 'neoclassical darkwave', 'oceania soundtrack', 'soundtrack']",62
+6691,Danny Elfman,387104,"['orchestral soundtrack', 'soundtrack']",63
+6701,Los Pericos,1300316,"['argentine reggae', 'argentine rock', 'latin alternative', 'latin rock', 'mexican rock', 'rock en espanol', 'ska argentino']",59
+6711,George Benson,746771,"['jazz funk', 'jazz guitar', 'smooth jazz', 'soul jazz', 'yacht rock']",61
+6721,Kenny G,1042922,"['smooth jazz', 'smooth saxophone']",62
+6731,Carly Simon,1082674,"['classic rock', 'folk', 'folk rock', 'heartland rock', 'mellow gold', 'singer-songwriter', 'soft rock']",60
+6741,Böhse Onkelz,1078229,"['german hard rock', 'german rock']",62
+6751,Stephen Cleobury,8497,"['cambridge choir', 'choral']",55
+6761,DENNIS,2159672,"['funk carioca', 'funk das antigas', 'sertanejo universitario']",69
+6771,Antonio Orozco,1376755,"['pop flamenco', 'spanish pop']",58
+6781,Three 6 Mafia,1266186,"['crunk', 'dirty south rap', 'gangster rap', 'memphis hip hop', 'southern hip hop', 'tennessee hip hop', 'trap']",61
+6791,Sergei Rachmaninoff,665384,"['classical', 'post-romantic era', 'russian romanticism', 'ukrainian classical']",61
+6801,Engenheiros Do Hawaii,2362102,"['brazilian rock', 'pop rock brasileiro', 'rock gaucho', 'rock nacional brasileiro']",62
+6811,Luther Vandross,2882009,"['quiet storm', 'soul']",61
+6821,Cocteau Twins,857786,"['alternative rock', 'art pop', 'dream pop', 'ethereal wave', 'melancholia', 'scottish indie', 'shoegaze', 'synthpop']",61
+6831,Laxmikant–Pyarelal,387557,"['classic bollywood', 'filmi']",62
+6841,Mark Morrison,90444,['british soul'],60
+6851,Randy Travis,1680901,"['contemporary country', 'country', 'country gospel', 'country road']",61
+6861,Daniel Barenboim,123580,"['classical', 'classical performance', 'israeli classical piano']",61
+6871,Travis Tritt,1348639,"['contemporary country', 'country', 'country road', 'outlaw country']",61
+6881,Lilly Goodman,1821931,['latin christian'],60
+6891,Marcos Witt,1822539,['latin christian'],62
+6901,Niro,1030452,"['french hip hop', 'pop urbaine', 'rap francais']",61
+6911,Mi Banda El Mexicano,746632,"['banda', 'musica mexicana', 'norteno', 'tecnobanda']",61
+6921,ARASHI,2280510,['j-pop'],60
+6931,Banda Machos,1748301,"['banda', 'banda jalisciense', 'musica mexicana', 'tecnobanda']",62
+6941,Salim–Sulaiman,1924989,"['filmi', 'indian folk', 'modern bollywood']",63
+6951,Harish Raghavendra,1535556,"['filmi', 'tamil pop']",61
+6961,Glenn Fredly,2998226,"['indonesian jazz', 'indonesian pop']",61
+6971,Sertab Erener,1638700,"['turkish jazz', 'turkish pop', 'turkish singer-songwriter']",61
+6981,Ramon Ayala Y Sus Bravos Del Norte,479876,"['musica mexicana', 'norteno']",61
+6991,Ace of Base,730353,"['eurodance', 'europop', 'new wave pop']",62
+7001,Tom Jones,904377,"['adult standards', 'british invasion']",62
+7011,Michael Bolton,2007683,['soft rock'],61
+7021,James Brown,2096813,"['funk', 'motown', 'soul']",60
+7031,João Gilberto,586580,"['bossa nova', 'brazilian jazz', 'cool jazz', 'jazz guitar', 'samba', 'violao']",60
+7041,Soft Cell,654961,"['new romantic', 'new wave', 'new wave pop', 'synthpop']",62
+7051,KC & The Sunshine Band,952987,"['disco', 'mellow gold', 'new wave pop', 'soft rock', 'soul']",62
+7061,Jorge Ben Jor,925860,"['bossa nova', 'manguebeat', 'mpb', 'samba', 'samba-rock', 'tropicalia']",60
+7071,Blue Öyster Cult,1491877,"['album rock', 'classic rock', 'glam metal', 'hard rock', 'progressive rock', 'rock']",60
+7081,Björk,1936548,"['alternative rock', 'art pop', 'electronica', 'experimental pop', 'experimental vocal', 'icelandic experimental', 'icelandic pop', 'icelandic singer-songwriter', 'metropopolis', 'permanent wave', 'trip hop']",60
+7091,Don McLean,931239,"['classic rock', 'folk', 'folk rock', 'heartland rock', 'mellow gold', 'singer-songwriter', 'soft rock']",60
+7101,Gloria Gaynor,980693,"['disco', 'soft rock']",61
+7111,Blackstreet,758498,"['boy band', 'contemporary r&b', 'new jack swing', 'r&b']",60
+7121,Claudio Abbado,51786,"['classical', 'classical performance', 'orchestral performance']",60
+7131,Charles Aznavour,1302926,['chanson'],60
+7141,Os Paralamas Do Sucesso,2197765,"['brazilian rock', 'latin alternative', 'latin rock', 'mpb', 'rock nacional brasileiro']",60
+7151,Vilma Palma e Vampiros,1569007,"['argentine rock', 'latin alternative', 'latin pop', 'latin rock', 'rock en espanol']",60
+7161,Mœnia,857510,"['latin alternative', 'latin arena pop', 'latin pop', 'mexican pop', 'mexican rock', 'rock en espanol']",61
+7171,Thomas Newman,235581,"['orchestral soundtrack', 'soundtrack']",61
+7181,Luciano Pavarotti,909495,"['canzone napoletana', 'classical tenor', 'italian tenor', 'opera', 'operatic pop']",60
+7191,Alceu Valença,1552874,"['manguebeat', 'mpb', 'nova musica pernambucana']",59
+7201,Third Eye Blind,1516778,"['alternative metal', 'alternative rock', 'pop rock', 'post-grunge']",61
+7211,John Powell,215612,"['british soundtrack', 'orchestral soundtrack', 'soundtrack']",62
+7221,Armand Van Helden,246860,"['big beat', 'classic house', 'deep house', 'disco house', 'filter house', 'house', 'speed garage', 'tribal house', 'uk dance', 'vocal house']",60
+7231,Rafaga,617524,"['cumbia chilena', 'cumbia villera']",61
+7241,Don Henley,1536808,"['album rock', 'classic rock', 'heartland rock', 'mellow gold', 'singer-songwriter', 'soft rock', 'yacht rock']",60
+7251,D.O.D,61358,"['electro house', 'house', 'pop dance', 'uk dance']",65
+7261,Toni Braxton,3956978,"['contemporary r&b', 'dance pop', 'r&b', 'urban contemporary']",61
+7271,Warren G,2342676,"['g funk', 'gangster rap', 'hardcore hip hop', 'hip hop', 'west coast rap']",61
+7281,Capital Inicial,2830019,"['brazilian rock', 'pop rock brasileiro', 'rock brasiliense', 'rock nacional brasileiro']",61
+7291,Kalash,645124,"['cloud rap francais', 'french hip hop', 'pop urbaine', 'rap antillais', 'trap antillais']",58
+7300,Marta Sánchez,412982,"['latin pop', 'spanish pop']",60
+7310,La Sonora Santanera,1167524,"['bolero', 'bolero mexicano', 'tropical']",60
+7320,Grupo 5,3074547,['cumbia peruana'],62
+7330,Kendo Kaponi,1165378,"['reggaeton', 'reggaeton flow', 'trap latino', 'urbano latino']",60
+7340,Shenseea,628573,"['dancehall', 'dancehall queen']",60
+7350,Diomedes Diaz,4209262,"['cumbia', 'vallenato']",61
+7360,Bombay Jayashri,501756,"['carnatic', 'carnatic vocal', 'filmi', 'indian classical']",61
+7370,Gene Autry,64691,"['classic oklahoma country', 'cowboy western', 'traditional country', 'western swing', 'yodeling']",57
+7380,Divya Kumar,323583,"['filmi', 'indian folk', 'modern bollywood']",58
+7390,Dino James,919056,"['desi emo rap', 'desi pop']",56
+7400,Grupo Yndio,366938,"['grupera', 'mexican rock-and-roll', 'norteno', 'ranchera']",56
+7410,Rionegro & Solimões,1458498,"['sertanejo', 'sertanejo tradicional', 'sertanejo universitario']",61
+7420,Mano,955031,"['comic metal', 'hard rock', 'metal', 'power metal', 'speed metal', 'us power metal']",54
+7430,Leonardo,109301,[],61
+7440,Saindhavi,493353,"['filmi', 'tamil pop']",62
+7450,Swarnalatha,1170555,['filmi'],62
+7460,Roger,163228,"['funk', 'new jack swing', 'p funk', 'post-disco', 'quiet storm']",61
+7470,Ananya Bhat,104082,['sandalwood'],57
+7477,Serdar Ortaç,1525983,['turkish pop'],61
+7487,Janis Joplin,3220731,"['album rock', 'classic rock', 'hard rock', 'psychedelic rock', 'rock']",60
+7497,Fatboy Slim,1174188,"['big beat', 'electronica']",60
+7507,Cream,2263202,"['album rock', 'blues rock', 'british blues', 'classic rock', 'folk rock', 'hard rock', 'psychedelic rock', 'rock', 'singer-songwriter', 'supergroup']",61
+7517,Dropkick Murphys,1206029,"['boston punk', 'boston rock', 'celtic punk', 'celtic rock', 'punk']",58
+7527,Stevie Ray Vaughan,2391741,"['album rock', 'blues', 'blues rock', 'classic rock', 'electric blues', 'hard rock', 'heartland rock', 'instrumental rock', 'rock', 'texas blues']",59
+7537,Eiffel 65,346791,"['eurodance', 'europop', 'italian adult pop', 'italo dance']",58
+7547,Take That,1266234,"['boy band', 'europop', 'talent show']",62
+7557,Mindless Self Indulgence,851400,"['dance-punk', 'pov: indie']",60
+7567,Thin Lizzy,1213971,"['album rock', 'blues rock', 'classic rock', 'glam metal', 'hard rock', 'irish rock', 'metal', 'rock']",59
+7577,Jovanotti,2525571,"['italian adult pop', 'italian pop']",58
+7587,Four Tops,1088707,"['classic soul', 'disco', 'motown', 'quiet storm', 'soul']",61
+7597,Julio Jaramillo,1198548,"['bolero', 'folklore ecuatoriano', 'musica popular colombiana']",61
+7607,Los Cafres,1378350,"['argentine reggae', 'argentine rock', 'latin alternative', 'latin rock', 'rock en espanol', 'ska argentino']",59
+7617,Rubén Blades,1531876,"['latin jazz', 'salsa', 'tipico', 'tropical']",60
+7627,Vengaboys,436348,"['bubblegum dance', 'eurodance', 'europop']",60
+7637,Killswitch Engage,1811980,"['alternative metal', 'boston metal', 'melodic metalcore', 'metalcore', 'nu metal', 'post-grunge']",60
+7647,Christopher Cross,978342,"['mellow gold', 'soft rock', 'yacht rock']",62
+7657,James Newton Howard,329847,"['orchestral soundtrack', 'soundtrack']",62
+7667,Die Ärzte,1094951,"['german alternative rock', 'german pop', 'german punk', 'german rock']",60
+7677,Poison,3145070,"['album rock', 'glam metal', 'hard rock', 'rock']",60
+7687,Franz Liszt,772164,"['classical', 'late romantic era']",59
+7697,Soprano,3345395,"['french hip hop', 'french pop', 'rap marseille']",60
+7707,Sarah McLachlan,840336,"['canadian pop', 'canadian singer-songwriter', 'ectofolk', 'lilith', 'permanent wave', 'pop rock']",59
+7717,Allman Brothers Band,1552505,"['album rock', 'blues rock', 'classic rock', 'country rock', 'folk rock', 'hard rock', 'heartland rock', 'jam band', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock', 'southern rock']",60
+7727,El Barrio,1191985,"['pop flamenco', 'rock andaluz', 'rumba', 'spanish pop']",58
+7737,Natalie Cole,584301,"['adult standards', 'disco', 'quiet storm', 'soul', 'vocal jazz']",60
+7747,Ronan Keating,1056434,"['europop', 'talent show']",60
+7757,Jackson Browne,1298586,"['album rock', 'classic rock', 'country rock', 'folk', 'folk rock', 'heartland rock', 'mellow gold', 'piano rock', 'singer-songwriter', 'soft rock']",58
+7767,Kelis,592677,"['dance pop', 'hip pop', 'neo soul', 'urban contemporary']",61
+7777,Fiona Apple,1300997,"['art pop', 'chamber pop', 'dark pop', 'lilith', 'permanent wave', 'piano rock', 'singer-songwriter']",61
+7787,Cássia Eller,2128177,"['brazilian rock', 'mpb']",60
+7797,Philharmonia Orchestra,65753,"['british orchestra', 'orchestra']",63
+7807,Kirk Franklin,1626432,"['gospel', 'gospel r&b']",61
+7817,Hector & Tito,1812288,"['salsa', 'salsa puertorriquena', 'tropical']",63
+7827,The Lyndhurst Orchestra,8171,['soundtrack'],60
+7837,The Pointer Sisters,1009265,"['disco', 'girl group', 'hi-nrg', 'motown', 'new wave pop', 'soft rock']",59
+7847,Gala,3380617,"['dance pop', 'edm', 'pop', 'pop dance']",67
+7857,Ying Yang Twins,1072631,"['atl hip hop', 'crunk', 'dirty south rap', 'old school atlanta hip hop', 'southern hip hop']",60
+7867,Mayday,1368052,"['neon pop punk', 'pop emo', 'pop punk']",57
+7877,The Supremes,1645042,"['classic girl group', 'classic soul', 'disco', 'motown', 'soul']",61
+7887,Kool Savas,606583,"['german hip hop', 'turkish hip hop']",63
+7897,Vince Gill,566174,"['classic oklahoma country', 'country', 'country road']",58
+7907,GZA,521890,"['east coast hip hop', 'hardcore hip hop']",60
+7917,Pezet,379054,['polish hip hop'],58
+7927,Mahalakshmi Iyer,40794,['modern bollywood'],62
+7937,M. M. Keeravani,2249663,['vintage tollywood'],57
+7947,Harini,657695,['filmi'],62
+7957,Aline Barros,4468362,['brazilian gospel'],62
+7967,Rolf Zuckowski,127292,['kindermusik'],58
+7977,South Park Mexican,962583,"['chicano rap', 'latin hip hop', 'texas latin rap']",59
+7987,Rammstein,8910012,"['german metal', 'industrial', 'industrial metal', 'industrial rock', 'neue deutsche harte']",76
+7997,Queen,48894684,"['classic rock', 'glam rock', 'rock']",82
+8007,Justin Timberlake,13470511,"['dance pop', 'pop']",78
+8017,Fall Out Boy,10386775,"['emo', 'modern rock', 'pop', 'rock']",77
+8027,David Guetta,26460778,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",85
+8037,Akon,4108200,['dance pop'],78
+8047,Don Omar,10545153,"['latin hip hop', 'puerto rican pop', 'reggaeton', 'trap latino', 'urbano latino']",79
+8057,Miguel,4863275,"['r&b', 'urban contemporary']",77
+8067,TWICE,19286303,"['k-pop', 'k-pop girl group', 'pop']",76
+8077,Logic,5967536,"['conscious hip hop', 'hip hop', 'pop rap', 'rap']",72
+8087,Nickelback,6598028,"['alternative metal', 'canadian rock', 'post-grunge']",74
+8097,RM,15482439,['k-rap'],68
+8107,Kelly Clarkson,10264987,"['dance pop', 'pop', 'talent show']",74
+8117,Badshah,25711580,"['desi hip hop', 'desi trap', 'filmi', 'modern bollywood']",72
+8127,Depeche Mode,5934121,"['dance rock', 'new romantic', 'new wave', 'permanent wave', 'rock', 'synthpop']",72
+8137,The Strokes,5297388,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",73
+8147,T.I.,4708878,"['atl hip hop', 'dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",71
+8157,The Police,5744879,"['album rock', 'classic rock', 'permanent wave', 'rock']",74
+8167,Juan Luis Guerra 4.40,4570857,"['bachata', 'latin pop', 'tropical']",73
+8177,BONES,1431215,"['cloud rap', 'dark trap']",71
+8187,Carlos Vives,6145722,"['colombian pop', 'latin pop', 'vallenato']",70
+8197,Christopher von Uckermann,140430,['mexican pop'],72
+8207,Los Bukis,3820869,"['grupera', 'gruperas inmortales', 'musica mexicana']",72
+8217,KISS,9068106,"['glam rock', 'hard rock', 'rock']",69
+8227,Avenged Sevenfold,6674815,['alternative metal'],73
+8237,will.i.am,4147589,"['dance pop', 'pop']",70
+8247,Zoé,5532485,"['latin alternative', 'latin rock', 'mexican rock', 'morelos indie', 'rock en espanol']",69
+8257,Daryl Hall & John Oates,2262038,"['album rock', 'classic rock', 'heartland rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock', 'yacht rock']",71
+8267,Kate Bush,1768823,"['art pop', 'art rock', 'baroque pop', 'new wave pop', 'permanent wave', 'piano rock', 'singer-songwriter']",66
+8277,Pusha T,2882525,"['gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap', 'virginia hip hop']",69
+8287,Blake Shelton,7246323,"['classic oklahoma country', 'contemporary country', 'country', 'country road', 'modern country rock']",68
+8297,DJ Nelson,1202081,"['reggaeton', 'urbano latino']",69
+8307,The Cranberries,3729452,"['irish rock', 'pop rock', 'rock']",71
+8317,Pixies,2716984,"['alternative rock', 'boston rock', 'permanent wave', 'rock']",68
+8327,Almighty,623202,"['reggaeton flow', 'trap latino', 'urbano latino']",68
+8337,Jelly Roll,2789883,"['country rap', 'nashville hip hop', 'tennessee hip hop']",74
+8347,Germ,164454,['dark trap'],64
+8357,Manu Chao,1600773,"['latin alternative', 'world']",67
+8367,M83,2320321,"['french shoegaze', 'french synthpop', 'indietronica', 'metropopolis', 'neo-synthpop']",68
+8377,Rise Against,2672142,"['alternative metal', 'chicago hardcore', 'chicago punk', 'hardcore punk', 'modern rock', 'post-grunge', 'punk']",68
+8387,INXS,2517544,"['australian rock', 'dance rock', 'funk rock', 'new romantic', 'new wave', 'rock']",68
+8397,Travis Barker,437156,['rap rock'],65
+8407,Nile Rodgers,118411,['disco'],68
+8417,Roxette,2107747,"['europop', 'swedish pop', 'synthpop']",68
+8427,Annie Lennox,1449163,"['new romantic', 'new wave', 'new wave pop', 'singer-songwriter', 'soft rock', 'synthpop']",67
+8437,Oliver Heldens,1015078,"['dutch house', 'edm', 'electro house', 'future house', 'house', 'pop dance', 'progressive electro house', 'progressive house']",65
+8447,Tego Calderón,4490352,"['latin hip hop', 'rap boricua', 'reggaeton', 'trap latino', 'urbano latino']",68
+8457,David Bisbal,4549605,"['latin arena pop', 'latin pop', 'spanish pop', 'spanish pop rock']",67
+8467,Booba,2851724,"['french hip hop', 'old school rap francais', 'pop urbaine', 'rap conscient']",67
+8477,Gloria Trevi,4935937,"['latin arena pop', 'latin pop', 'mexican pop']",71
+8487,Keith Urban,5218627,"['australian country', 'australian pop', 'contemporary country', 'country', 'country road', 'modern country rock']",66
+8497,Xavier Wulf,791737,"['cloud rap', 'dark trap', 'memphis hip hop', 'underground hip hop']",68
+8507,Dhanush,8658073,"['filmi', 'kollywood']",66
+8517,ZZ Top,4168571,"['album rock', 'blues rock', 'classic rock', 'hard rock', 'rock']",66
+8527,TOOL,3384366,"['alternative metal', 'art rock', 'nu metal', 'post-grunge', 'progressive metal', 'progressive rock', 'rock']",68
+8537,Billy Idol,1809573,"['album rock', 'classic rock', 'dance rock', 'hard rock', 'new romantic', 'new wave', 'new wave pop', 'rock', 'soft rock']",67
+8547,Natiruts,3289458,"['brazilian reggae', 'brazilian rock', 'reggae tuga']",65
+8557,Estopa,1824741,"['pop flamenco', 'rumba', 'spanish pop']",66
+8567,Belinda,1916809,"['latin arena pop', 'latin pop', 'mexican pop']",64
+8577,Brooks & Dunn,2777823,"['contemporary country', 'country', 'country road']",67
+8587,Cardenales De Nuevo León,2054468,"['banda', 'musica mexicana', 'norteno']",68
+8597,Bobby Helms,34426,[],64
+8607,Beastie Boys,2667196,"['alternative rock', 'east coast hip hop', 'golden age hip hop', 'hip hop', 'old school hip hop', 'rap', 'rap rock', 'rock']",66
+8617,Chicago,3875519,"['album rock', 'classic rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",66
+8627,Legião Urbana,6135437,"['brazilian rock', 'mpb', 'rock brasiliense', 'rock nacional brasileiro']",65
+8637,Abel Pintos,3527674,"['argentine telepop', 'folklore argentino', 'pop argentino']",65
+8647,Tchakabum,196943,"['axe', 'pagode']",51
+8657,LP,62406,['house'],60
+8667,LMFAO,4251786,"['dance pop', 'pop', 'pop rap']",63
+8677,America,1685458,"['album rock', 'classic rock', 'folk rock', 'heartland rock', 'mellow gold', 'soft rock']",65
+8687,The National,1565990,"['chamber pop', 'indie folk', 'indie rock', 'indietronica', 'modern rock']",66
+8697,I Virtuosi Italiani,8891,"['chamber orchestra', 'classical performance', 'string orchestra']",64
+8707,Slayer,3717516,"['alternative metal', 'death metal', 'groove metal', 'hard rock', 'metal', 'old school thrash', 'rock', 'speed metal', 'thrash metal']",64
+8717,Kaskade,933671,"['edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house', 'vocal house']",63
+8727,Jimmy Eat World,1476215,"['alternative metal', 'alternative rock', 'emo', 'modern power pop', 'modern rock', 'neon pop punk', 'pop punk', 'pop rock', 'post-grunge', 'punk', 'rock']",65
+8737,Manuel Carrasco,2152426,"['carnaval cadiz', 'pop flamenco', 'spanish pop']",64
+8747,Banda Los Recoditos,4437795,"['banda', 'musica mexicana', 'norteno']",65
+8757,Ramones,2530229,"['alternative rock', 'early us punk', 'permanent wave', 'punk', 'rock']",64
+8767,Rob Zombie,2738074,"['alternative metal', 'hard rock', 'industrial metal', 'industrial rock', 'nu metal', 'post-grunge', 'rock']",65
+8777,Benny Benassi,553059,"['edm', 'electro house', 'pop dance']",64
+8787,Stone Temple Pilots,3373453,"['alternative metal', 'alternative rock', 'classic rock', 'grunge', 'hard rock', 'nu metal', 'post-grunge', 'rock']",65
+8797,New Order,2053538,"['alternative rock', 'dance rock', 'madchester', 'new romantic', 'new wave', 'permanent wave', 'post-punk', 'synthpop', 'uk post-punk']",63
+8807,Simple Minds,1896810,"['album rock', 'dance rock', 'new romantic', 'new wave', 'new wave pop', 'rock', 'scottish new wave', 'soft rock']",64
+8816,Damas Gratis,2054844,"['cumbia 420', 'cumbia pop', 'cumbia villera']",63
+8826,Elefante,1994576,"['latin alternative', 'latin arena pop', 'latin pop', 'mexican pop', 'mexican rock', 'rock en espanol']",65
+8836,Bacilos,1778551,"['colombian pop', 'latin alternative', 'latin pop', 'rock en espanol']",66
+8846,Camilo Sesto,3998429,"['bolero', 'latin pop', 'ranchera']",64
+8856,Youjeen,8768,[],57
+8866,Bread,1589499,"['folk rock', 'mellow gold', 'singer-songwriter', 'soft rock']",62
+8876,Mario,3311041,"['dance pop', 'hip pop', 'r&b', 'southern hip hop', 'urban contemporary']",63
+8886,Kelly Rowland,3520338,"['atl hip hop', 'dance pop', 'hip pop', 'r&b', 'urban contemporary']",66
+8896,Eraserheads,3758590,"['opm', 'pinoy reggae']",61
+8906,Vijay Prakash,3979523,['filmi'],64
+8916,Damian Marley,1496975,"['reggae', 'reggae fusion']",63
+8926,Hoobastank,2462383,"['alternative metal', 'funk metal', 'nu metal', 'pop rock', 'post-grunge']",64
+8936,PSY,1651658,"['k-rap', 'korean old school hip hop']",60
+8946,SEGA SOUND TEAM,214577,"['japanese vgm', 'sound team']",61
+8956,Jimmy Buffett,943363,['trop rock'],65
+8966,Vanesa Martín,1114429,"['latin arena pop', 'pop flamenco', 'spanish pop', 'spanish pop rock']",61
+8976,Jeet Gannguli,1108630,"['filmi', 'modern bollywood', 'west bengali pop']",64
+8986,Molotov,2173881,"['latin alternative', 'latin hip hop', 'latin rock', 'mexican hip hop', 'mexican rock', 'rock en espanol']",63
+8996,O Rappa,3548511,"['brazilian hip hop', 'brazilian reggae', 'brazilian rock', 'latin alternative', 'rock nacional brasileiro']",63
+9006,Fito y Fitipaldis,1950797,"['latin rock', 'spanish pop', 'spanish rock']",62
+9016,The Kinks,2497249,"['album rock', 'art rock', 'british invasion', 'classic rock', 'folk rock', 'glam rock', 'protopunk', 'psychedelic rock', 'rock', 'singer-songwriter']",63
+9026,Aphex Twin,1247893,"['ambient', 'braindance', 'electronica', 'intelligent dance music', 'uk experimental electronic']",62
+9036,Yiruma,1085352,"['korean instrumental', 'neo-classical', 'new age piano']",63
+9046,Tiziano Ferro,2092971,"['italian adult pop', 'italian pop']",61
+9056,Nando Reis,2945801,"['brazilian rock', 'mpb', 'pop rock brasileiro']",61
+9066,Fernandinho,4587110,"['brazilian gospel', 'rock gospel brasileiro']",66
+9076,Ana Bárbara,1331864,"['grupera', 'mexican pop', 'musica mexicana']",61
+9086,Yoko Ono,130902,"['experimental', 'experimental pop']",59
+9096,Diego Verdaguer,1445690,"['latin pop', 'ranchera']",62
+9106,Darlene Love,53496,[],60
+9116,Ben E. King,558846,"['rock-and-roll', 'soul']",62
+9126,Rick Astley,1144234,"['new romantic', 'new wave pop', 'soft rock', 'sophisti-pop', 'synthpop']",62
+9136,Diana Krall,1074538,"['contemporary vocal jazz', 'jazz pop', 'vocal jazz']",60
+9146,Los Prisioneros,2009657,"['chilean hardcore', 'chilean rock', 'latin rock', 'rock en espanol', 'ska chileno']",61
+9156,Majestic,57189,['uk dance'],59
+9166,Raffi,150099,"[""canadian children's music"", ""children's folk"", ""children's music""]",62
+9176,Miel San Marcos,1670508,"['latin christian', 'latin worship']",62
+9186,Ajay-Atul,2761903,['filmi'],63
+9196,Ahmet Kaya,5790506,[],61
+9206,Los Amables Del Norte,87968,['norteno'],63
+9216,The Kiboomers,66012,"[""children's music"", 'nursery', ""preschool children's music""]",63
+9226,Liberación,1208225,"['banda', 'grupera', 'gruperas inmortales', 'grupero romantico', 'musica mexicana', 'norteno', 'tejano']",63
+9236,Massive Attack,2088474,"['downtempo', 'electronica', 'trip hop']",62
+9246,Yann Tiersen,1010103,"['compositional ambient', 'french soundtrack']",62
+9256,Wings,1027595,"['album rock', 'art rock', 'classic rock', 'folk rock', 'heartland rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock']",62
+9266,Lang Lang,255761,"['chinese classical performance', 'chinese classical piano', 'classical performance', 'classical piano']",61
+9276,Joan Jett & the Blackhearts,749301,"['glam punk', 'rock']",61
+9286,Alex Ubago,2282546,"['latin arena pop', 'latin pop', 'spanish pop', 'spanish pop rock']",62
+9296,Ivy Queen,2383519,"['latin hip hop', 'rap latina', 'reggaeton', 'trap latino', 'urbano latino']",61
+9306,La Factoria,372481,[],59
+9316,Aleks Syntek,1498946,"['latin arena pop', 'latin pop', 'mexican pop']",61
+9326,Cedric Gervais,104174,"['dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house']",62
+9336,Olivia,30034694,['pop'],87
+9346,Ocean Sounds,33400,"['environmental', 'sleep', 'water']",65
+9356,Ocean Waves For Sleep,46363,"['environmental', 'sleep']",63
+9366,Akhil,4567678,"['desi hip hop', 'desi pop', 'punjabi pop']",61
+9376,Misfits,1236934,"['horror punk', 'new jersey hardcore', 'new jersey punk', 'punk']",62
+9386,Seal,1770624,"['british soul', 'new wave pop']",60
+9396,Huey Lewis & The News,1537251,"['album rock', 'classic rock', 'hard rock', 'mellow gold', 'new romantic', 'new wave pop', 'rock', 'singer-songwriter', 'soft rock']",60
+9406,I Monster,207273,['downtempo'],56
+9416,Sub Focus,417207,"['dancefloor dnb', 'drum and bass', 'uk dance']",61
+9426,Jeff Beck,719585,"['album rock', 'blues', 'blues rock', 'british blues', 'classic rock', 'electric blues', 'hard rock', 'instrumental rock', 'jazz fusion', 'progressive rock']",52
+9436,Chevelle,1793334,"['alternative metal', 'christian rock', 'nu metal', 'post-grunge']",61
+9446,Vybz Kartel,1250292,"['dancehall', 'jamaican dancehall', 'reggae fusion']",62
+9456,Steve Edwards,3317,[],61
+9466,Timbiriche,1641458,"['latin pop', 'mexican pop']",61
+9476,Alabama,1320802,"['contemporary country', 'country', 'country road', 'country rock']",61
+9486,Milionário & José Rico,2621922,"['sertanejo', 'sertanejo tradicional', 'sertanejo universitario']",62
+9496,Stereophonics,1493953,"['britpop', 'modern rock', 'welsh rock']",60
+9506,Nick Cave & The Bad Seeds,1330541,"['alternative rock', 'chamber pop', 'permanent wave', 'singer-songwriter']",59
+9516,Los Bunkers,1082607,"['chilean rock', 'concepcion indie', 'latin alternative', 'latin rock', 'rock en espanol']",62
+9526,surrenderdorothy,95919,['cloud rap'],52
+9536,Cassie,1525569,"['dance pop', 'hip pop', 'pop rap', 'r&b', 'urban contemporary']",61
+9546,Yovie & Nuno,1380053,"['indonesian pop', 'indonesian pop rock']",63
+9556,Nirvana,18528432,"['grunge', 'permanent wave', 'rock']",78
+9566,Maroon 5,41729321,['pop'],82
+9576,Romeo Santos,20318591,"['bachata', 'latin hip hop', 'latin pop', 'urbano latino']",79
+9586,Michael Bublé,6035544,"['adult standards', 'canadian pop', 'jazz pop', 'lounge']",77
+9596,Yandel,7380855,"['latin hip hop', 'reggaeton', 'trap latino', 'urbano latino']",76
+9606,Gusttavo Lima,20880005,"['agronejo', 'arrocha', 'sertanejo', 'sertanejo universitario']",78
+9616,Grupo Marca Registrada,3370781,"['corrido', 'norteno', 'sad sierreno']",77
+9626,Foo Fighters,11418228,"['alternative metal', 'alternative rock', 'modern rock', 'permanent wave', 'post-grunge', 'rock']",75
+9636,My Chemical Romance,8070209,"['emo', 'modern rock', 'pop punk', 'pov: indie', 'rock']",75
+9646,Cartel De Santa,15758457,"['latin hip hop', 'mexican hip hop']",74
+9656,Rick Ross,7118169,"['dirty south rap', 'gangster rap', 'hip hop', 'rap', 'southern hip hop', 'trap']",75
+9666,Zion & Lennox,4011177,"['reggaeton', 'urbano latino']",71
+9676,DJ Khaled,10699619,"['hip hop', 'miami hip hop', 'pop rap', 'rap']",73
+9686,Megan Thee Stallion,8169575,"['houston rap', 'pop', 'r&b', 'rap', 'trap queen']",75
+9696,Yuridia,4131817,"['latin arena pop', 'latin pop', 'mexican pop']",70
+9706,Luciano,909495,"['canzone napoletana', 'classical tenor', 'italian tenor', 'opera', 'operatic pop']",60
+9716,Avril Lavigne,10476308,"['canadian pop', 'candy pop', 'dance pop', 'pop']",73
+9726,PNAU,219764,"['alternative dance', 'aussietronica', 'australian dance', 'australian electropop']",69
+9736,Wisin,6862971,"['electro latino', 'reggaeton', 'trap latino', 'urbano latino']",76
+9746,2 Chainz,8064705,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",74
+9756,Natalia Lafourcade,4267018,"['cantautora mexicana', 'latin alternative', 'latin pop', 'mexican pop', 'rock en espanol', 'veracruz indie']",71
+9766,B.o.B,2118715,"['atl hip hop', 'dance pop', 'pop rap', 'rap', 'southern hip hop']",70
+9776,Max Richter,926161,"['compositional ambient', 'post-minimalism']",69
+9786,Jason Mraz,7282258,"['acoustic pop', 'dance pop', 'neo mellow', 'pop']",69
+9796,Afrojack,4015727,"['big room', 'dance pop', 'dutch house', 'edm', 'electro house', 'pop dance']",68
+9806,Danna Paola,4888039,"['latin pop', 'latin viral pop', 'mexican pop']",69
+9816,Mohit Chauhan,8517391,"['filmi', 'modern bollywood']",71
+9826,Diljit Dosanjh,18313292,"['filmi', 'modern bollywood', 'punjabi pop']",74
+9836,Van Halen,5709972,"['album rock', 'classic rock', 'hard rock', 'rock']",70
+9846,Sorriso Maroto,2777930,"['pagode', 'pagode novo', 'sertanejo universitario']",71
+9856,Tulsi Kumar,8432875,"['filmi', 'modern bollywood']",70
+9866,The Goo Goo Dolls,2655075,"['neo mellow', 'permanent wave', 'pop rock', 'post-grunge']",69
+9876,Breaking Benjamin,4499844,"['alternative metal', 'nu metal', 'post-grunge']",68
+9886,Dina Rae,7367,[],64
+9896,Duelo,1820745,"['banda', 'musica mexicana', 'norteno', 'tejano']",68
+9906,Sublime,2659887,"['rap rock', 'reggae fusion', 'ska mexicano', 'ska punk']",67
+9916,Miranda!,3591714,"['contemporary country', 'country', 'country dawn', 'country road']",66
+9926,Def Leppard,4681136,"['album rock', 'classic rock', 'glam metal', 'hard rock', 'nwobhm', 'rock']",66
+9936,Haricharan,2596679,['filmi'],66
+9946,Audioslave,4331834,"['alternative metal', 'alternative rock', 'grunge', 'hard rock', 'nu metal', 'permanent wave', 'post-grunge', 'rock', 'supergroup']",65
+9956,Seether,3313974,"['alternative metal', 'nu metal', 'post-grunge', 'south african rock']",66
+9966,Simple Plan,3510104,"['canadian pop punk', 'canadian punk', 'canadian rock', 'modern rock', 'neon pop punk', 'pop punk', 'pop rock']",65
+9976,Dave Stewart,31085,"['new wave pop', 'rock keyboard']",65
+9986,"Tito ""El Bambino""",3841941,"['latin hip hop', 'reggaeton', 'urbano latino']",66
+9996,Gibbs,1216193,"['alternative hip hop', 'hip hop', 'indiana hip hop', 'rap', 'underground hip hop']",63
+10006,No Te Va Gustar,2188912,"['latin alternative', 'reggae uruguayo', 'rock en espanol', 'rock uruguayo']",65
+10016,Alanis Morissette,2671789,"['canadian pop', 'canadian singer-songwriter', 'lilith', 'neo mellow', 'pop rock', 'singer-songwriter']",65
+10026,Adolescent's Orquesta,929022,"['salsa', 'salsa venezolana', 'tropical']",66
+10036,Duman,5276515,"['anadolu rock', 'karadeniz turkuleri', 'turkish alternative', 'turkish alternative rock', 'turkish rock']",63
+10046,Racionais MC's,6568107,"['boom bap brasileiro', 'brazilian hip hop']",66
+10056,Thirty Seconds To Mars,3454502,"['modern rock', 'post-grunge']",68
+10066,Nko,1578271,['pov: indie'],82
+10076,Summer Cem,1102425,['german hip hop'],63
+10086,Rekha Bhardwaj,2704628,"['filmi', 'modern bollywood']",62
+10096,Ice Nine Kills,808827,['metalcore'],64
+10106,John Travolta,117060,['hollywood'],61
+10116,Pixote,2221168,"['funk carioca', 'pagode', 'pagode novo', 'sertanejo universitario']",63
+10126,Los Caminantes,1927227,"['grupera', 'gruperas inmortales', 'musica mexicana', 'norteno', 'ranchera']",64
+10136,Meet Bros.,1668299,"['desi pop', 'filmi', 'modern bollywood']",63
+10146,Yeah Yeah Yeahs,1269274,"['alternative dance', 'alternative rock', 'art pop', 'dance-punk', 'garage rock', 'indie rock', 'modern rock', 'neo-synthpop', 'new rave']",63
+10156,N.W.A.,5351773,"['conscious hip hop', 'gangster rap', 'golden age hip hop', 'hip hop', 'old school hip hop', 'rap', 'west coast rap']",62
+10166,The Cars,1718800,"['album rock', 'classic rock', 'hard rock', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'permanent wave', 'power pop', 'rock', 'singer-songwriter', 'soft rock', 'synthpop']",63
+10176,Rush,2203013,"['album rock', 'canadian metal', 'classic canadian rock', 'classic rock', 'hard rock', 'progressive rock', 'rock']",62
+10186,Jeremy Soule,140104,"['orchestral soundtrack', 'scorecore', 'video game music']",63
+10196,Silvestre Dangond,4567055,"['colombian pop', 'vallenato', 'vallenato moderno']",65
+10206,Grey,73643,['pop edm'],63
+10216,Los Huracanes del Norte,2013030,"['musica mexicana', 'norteno']",62
+10226,Panteon Rococo,2564008,"['latin alternative', 'latin rock', 'mexican rock', 'rock en espanol', 'ska mexicano']",62
+10236,La Quinta Estacion,2857129,"['latin arena pop', 'latin pop', 'spanish pop rock']",64
+10246,Nick Jonas,9568002,"['dance pop', 'pop']",62
+10256,Curren$y,1049843,"['dirty south rap', 'new orleans rap', 'rap', 'southern hip hop']",59
+10266,Little Big Town,2765224,"['contemporary country', 'country', 'country dawn', 'country road']",60
+10276,Parokya Ni Edgar,3467263,"['opm', 'pinoy reggae']",63
+10286,The Prodigy,2357919,"['big beat', 'breakbeat', 'dance rock', 'hardcore techno', 'rave']",62
+10296,Fabri Fibra,1400141,"['italian hip hop', 'italian pop', 'rap napoletano']",63
+10306,Chris Isaak,469095,['mellow gold'],62
+10316,Interpol,1624036,"['alternative dance', 'alternative rock', 'indie rock', 'indietronica', 'modern rock', 'rock']",61
+10326,Angel Y Khriz,1025240,"['latin hip hop', 'reggaeton']",61
+10336,Inspector,1332010,"['latin alternative', 'latin rock', 'mexican rock', 'rock en espanol', 'ska mexicano']",62
+10346,Alexis y Fido,5295812,"['latin hip hop', 'reggaeton', 'trap latino', 'urbano latino']",62
+10356,MK,283623,"['house', 'pop dance']",67
+10366,Boosie Badazz,2336605,"['baton rouge rap', 'dirty south rap', 'memphis hip hop', 'southern hip hop', 'trap']",61
+10376,Meryl Streep,92611,"['hollywood', 'show tunes']",61
+10386,"Héctor ""El Father""",650316,"['reggaeton', 'urbano latino']",62
+10396,Stone Sour,2827828,"['alternative metal', 'nu metal', 'post-grunge']",61
+10406,Carlos Baute,1906353,"['latin pop', 'spanish pop']",62
+10416,Chris Lake,296593,"['bass house', 'edm', 'electro house', 'house', 'melbourne bounce', 'pop dance', 'progressive house', 'tech house']",62
+10426,Descemer Bueno,50141,['cubaton'],61
+10436,Ruger,1907057,['afrobeats'],61
+10446,Shafqat Amanat Ali,2361925,"['classic pakistani pop', 'filmi', 'modern bollywood', 'sufi']",62
+10456,Simone & Simaria,594155,['sertanejo'],75
+10466,Harshdeep Kaur,4681629,"['filmi', 'modern bollywood', 'sufi']",55
+10476,Redimi2,2254778,"['latin christian', 'rap conciencia', 'rap cristiano']",62
+10486,t.A.T.u.,796680,"['dance pop', 'girl group']",59
+10496,Plain White T's,1211916,"['modern rock', 'neo mellow', 'neon pop punk', 'pop punk', 'pop rock']",60
+10506,First Aid Kit,1188036,"['swedish americana', 'swedish country']",59
+10516,Robin Thicke,1954458,"['dance pop', 'neo soul', 'pop rap', 'r&b', 'urban contemporary']",60
+10526,Theory of a Deadman,2058773,"['alternative metal', 'canadian metal', 'canadian rock', 'nu metal', 'post-grunge']",60
+10536,Los Caligaris,1054016,"['argentine rock', 'latin alternative', 'latin rock', 'rock en espanol', 'ska argentino']",59
+10546,Juelz Santana,837296,"['gangster rap', 'harlem hip hop', 'hip pop', 'nyc rap', 'pop rap', 'trap']",60
+10556,Bushido,297749,"['russian drill', 'russian hip hop', 'russian trap']",54
+10566,Raí Saia Rodada,2289056,"['arrocha', 'forro']",64
+10576,"Sergio Vega ""El Shaka""",1181546,"['banda', 'musica mexicana', 'musica sonorense', 'norteno']",62
+10586,Gunna,6238399,"['atl hip hop', 'melodic rap', 'rap', 'trap']",82
+10596,Arijit Singh,95664222,"['filmi', 'modern bollywood']",87
+10606,Led Zeppelin,13903595,"['album rock', 'classic rock', 'hard rock', 'rock']",74
+10616,John Legend,6628244,"['neo soul', 'pop', 'pop soul', 'urban contemporary']",73
+10626,The Killers,7161557,"['alternative rock', 'dance rock', 'modern rock', 'permanent wave', 'rock']",74
+10636,Diplo,2584866,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop dance']",75
+10646,Reik,8621454,"['latin arena pop', 'latin pop', 'mexican pop', 'reggaeton', 'urbano latino']",75
+10656,Amy Winehouse,8585466,"['british soul', 'neo soul']",73
+10666,Dire Straits,7106917,"['album rock', 'classic rock', 'mellow gold', 'rock']",73
+10676,Three Days Grace,5888261,"['alternative metal', 'canadian metal', 'canadian rock', 'nu metal', 'post-grunge', 'rock']",71
+10686,Mark Ronson,1048287,['pop soul'],71
+10696,Alfonso Herrera,5891,[],72
+10702,La K'onga,2197479,['cuarteto'],70
+10712,YG,3197848,"['cali rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",71
+10722,Dulce María,733958,['latin arena pop'],72
+10732,Vishal Dadlani,9797886,"['filmi', 'modern bollywood']",71
+10742,Christian Chávez,179265,['mexican pop'],72
+10752,Kings of Leon,5299157,"['modern rock', 'rock']",72
+10762,Thundercat,1220354,"['afrofuturism', 'escape room', 'indie soul']",69
+10772,Pentatonix,3638804,"['a cappella', 'viral pop']",70
+10782,Ha*Ash,8156735,"['latin arena pop', 'latin pop', 'mexican pop']",71
+10792,Tony Dize,3670211,"['reggaeton', 'urbano latino']",69
+10801,Zion,4011177,"['reggaeton', 'urbano latino']",71
+10811,Keane,3172083,"['neo mellow', 'piano rock', 'pop rock']",70
+10821,Melendi,3670145,"['spanish pop', 'spanish pop rock']",72
+10831,Kany García,2434368,"['latin pop', 'puerto rican pop']",72
+10841,Carrie Underwood,5907515,"['classic oklahoma country', 'contemporary country', 'country', 'country dawn', 'country road', 'dance pop', 'pop']",68
+10851,Evanescence,4166234,['alternative metal'],71
+10861,Idina Menzel,442927,"['broadway', 'hollywood', 'movie tunes', 'show tunes']",67
+10871,Miranda Lambert,3591714,"['contemporary country', 'country', 'country dawn', 'country road']",66
+10881,Turma do Pagode,3131070,"['pagode', 'pagode novo', 'sertanejo universitario']",68
+10891,Shinedown,3990400,"['alternative metal', 'nu metal', 'post-grunge']",67
+10901,Jeezy,2405029,"['atl hip hop', 'crunk', 'dirty south rap', 'gangster rap', 'old school atlanta hip hop', 'rap', 'southern hip hop', 'trap']",69
+10911,Sleeping At Last,1401607,"['ambient worship', 'chamber pop']",67
+10921,Talking Heads,2289730,"['alternative rock', 'art punk', 'dance rock', 'funk rock', 'new wave', 'permanent wave', 'post-punk', 'rock', 'zolo']",66
+10931,Supertramp,3274971,"['album rock', 'art rock', 'classic rock', 'glam rock', 'mellow gold', 'piano rock', 'progressive rock', 'rock', 'soft rock', 'symphonic rock']",68
+10941,The Fray,4014850,"['neo mellow', 'piano rock', 'pop', 'pop rock']",67
+10951,Soulja Boy,1921291,"['atl hip hop', 'chicago bop', 'dance pop', 'pop rap', 'rap', 'southern hip hop', 'trap']",66
+10961,Dierks Bentley,3079579,"['contemporary country', 'country', 'country road', 'modern country rock']",65
+10971,Benny Dayal,4276213,"['filmi', 'modern bollywood']",68
+10981,Kyla,15989,['uk funky'],67
+10991,Cherish,621015,"['atl hip hop', 'girl group', 'hip pop', 'r&b', 'southern hip hop', 'urban contemporary']",61
+11001,Franz Ferdinand,2531118,"['alternative rock', 'dance rock', 'indie rock', 'modern rock', 'rock', 'scottish rock']",63
+11011,Gotye,2323179,['australian pop'],65
+11021,Christian Rode,1061,[],63
+11031,Sagopa Kajmer,3747288,"['turkish hip hop', 'turkish trap']",68
+11041,Vince Guaraldi Trio,136777,['jazz trio'],62
+11050,Willy William,233617,['pop dance'],62
+11060,Bob Seger,2236877,"['album rock', 'classic rock', 'country rock', 'detroit rock', 'hard rock', 'heartland rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock']",65
+11070,Simply Red,2250188,"['british soul', 'new romantic', 'new wave', 'new wave pop', 'soft rock', 'sophisti-pop']",64
+11080,Gregory Alan Isakov,822505,"['indie folk', 'pop folk', 'stomp and flutter', 'stomp and holler']",67
+11090,Freshlyground,64107,"['african rock', 'afropop', 'kwaito', 'south african jazz', 'south african pop', 'south african pop dance']",58
+11100,Hugh Jackman,583514,"['hollywood', 'show tunes']",63
+11110,Eduardo Costa,3268457,"['sertanejo', 'sertanejo pop', 'sertanejo universitario']",65
+11120,Aloe Blacc,713986,"['pop soul', 'r&b']",62
+11130,Lupe Fiasco,1887734,"['chicago rap', 'conscious hip hop', 'hip hop', 'political hip hop', 'pop rap', 'rap', 'southern hip hop']",63
+11140,Tribo da Periferia,3425478,['rap df'],66
+11150,Jay Sean,1764463,"['dance pop', 'pop', 'pop rap', 'post-teen pop']",63
+11160,Madvillain,593538,"['abstract hip hop', 'alternative hip hop', 'hip hop', 'psychedelic hip hop']",62
+11170,Arcade Fire,2241530,"['alternative rock', 'baroque pop', 'canadian indie', 'chamber pop', 'indie rock', 'indietronica', 'modern rock', 'permanent wave', 'quebec indie', 'rock']",63
+11180,Michael Giacchino,326146,"['orchestral soundtrack', 'soundtrack']",62
+11190,JJ Lin,2875496,"['mandopop', 'singaporean mandopop', 'singaporean pop']",63
+11200,Belanova,1447284,"['latin arena pop', 'latin pop', 'mexican pop']",67
+11210,Kailash Kher,6964404,"['filmi', 'indian folk', 'modern bollywood', 'sufi']",63
+11220,Randy,1680901,"['contemporary country', 'country', 'country gospel', 'country road']",61
+11230,Phil Wickham,814982,"['ccm', 'christian alternative rock', 'christian indie', 'christian music']",63
+11240,Kavita Seth,592537,"['filmi', 'hindi indie', 'modern bollywood', 'sufi']",62
+11250,Claptone,505984,"['german house', 'german techno', 'progressive house']",61
+11260,José González,1105327,"['chamber pop', 'gothenburg indie', 'indie folk', 'stomp and holler', 'swedish indie folk', 'swedish indie pop', 'swedish singer-songwriter']",63
+11270,Billy Talent,1239204,['canadian punk'],62
+11280,Aaron Smith,307796,['chicago house'],62
+11290,Lamp,857935,['japanese alternative pop'],62
+11300,Vicentico,1598254,"['argentine rock', 'latin alternative', 'latin rock', 'rock en espanol']",61
+11310,Billy Currington,2611776,"['contemporary country', 'country', 'country road']",63
+11320,Casting Crowns,1983260,"['ccm', 'christian alternative rock', 'christian music']",62
+11330,Nightcrawlers,52070,"['disco house', 'hip house', 'uk dance', 'vocal house']",59
+11340,Josh Turner,2643757,"['contemporary country', 'country', 'country road']",62
+11350,Daughtry,2109719,"['alternative metal', 'neo mellow', 'pop rock', 'post-grunge']",62
+11360,Tommee Profitt,221986,"['anthem worship', 'bossbeat']",60
+11370,Maelo Ruiz,1774904,"['salsa', 'salsa puertorriquena', 'tropical']",62
+11380,The Animals,2313492,"['album rock', 'british invasion', 'classic rock', 'hard rock', 'protopunk', 'psychedelic rock', 'rock']",62
+11390,Benny Sings,167331,"['dutch pop', 'indie soul']",60
+11400,Eric Prydz,593574,"['edm', 'electro house', 'house', 'pop dance', 'progressive electro house', 'progressive house']",61
+11410,WWE,504176,['wrestling'],61
+11420,Guns N' Roses,30301276,"['glam metal', 'hard rock', 'rock']",77
+11430,Ñengo Flow,5118313,"['reggaeton', 'trap latino', 'urbano latino']",78
+11440,Young Thug,9161968,"['atl hip hop', 'atl trap', 'gangster rap', 'melodic rap', 'rap', 'trap']",81
+11450,Bring Me The Horizon,5190561,"['melodic metalcore', 'metalcore', 'modern rock', 'rock', 'uk metalcore']",76
+11460,Flo Rida,8860312,"['dance pop', 'miami hip hop', 'pop', 'pop rap']",76
+11470,Guè,26460778,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",85
+11480,Gucci Mane,5139580,"['atl hip hop', 'dirty south rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",74
+11490,Wizkid,4520438,"['afrobeats', 'afropop', 'azonto', 'azontobeats', 'nigerian hip hop', 'nigerian pop']",74
+11500,RBD,1867628,['latin pop'],73
+11510,Maite Perroni,1262465,"['latin pop', 'latin viral pop', 'mexican pop']",72
+11520,RAF Camora,1710922,['german hip hop'],72
+11530,Sachin-Jigar,1842900,"['filmi', 'gujarati pop', 'modern bollywood']",73
+11540,Jowell & Randy,4396290,"['reggaeton', 'urbano latino']",70
+11550,Shilpa Rao,1937806,"['filmi', 'modern bollywood']",74
+11560,Maren Morris,775343,"['classic texas country', 'contemporary country']",68
+11570,11:11 Music Group,23727,"['sad lo-fi', 'slowed and reverb', 'sped up']",63
+11580,creamy,31722,"['sad lo-fi', 'slowed and reverb', 'sped up']",61
+11590,Trey Songz,7449214,"['dance pop', 'r&b', 'southern hip hop', 'trap', 'urban contemporary']",67
+11600,Gemitaiz,2069644,['italian hip hop'],64
+11610,James Blunt,2891882,['neo mellow'],69
+11620,The Pussycat Dolls,5548092,"['dance pop', 'girl group', 'pop']",66
+11630,Gurlez Akhtar,214722,['punjabi pop'],65
+11640,Calle 13,2900771,"['latin afrobeat', 'latin alternative', 'latin hip hop', 'puerto rican rock', 'rap conciencia', 'reggaeton', 'rock en espanol']",65
+11650,Ramin Djawadi,595445,"['german soundtrack', 'orchestral soundtrack', 'scorecore', 'soundtrack']",64
+11660,Lady A,3805565,"['contemporary country', 'country', 'country dawn', 'country pop', 'country road']",64
+11669,Davido,3876270,"['afrobeats', 'afropop', 'azontobeats', 'ghanaian hip hop', 'nigerian pop']",71
+11679,Bullet For My Valentine,2882022,"['alternative metal', 'melodic metalcore', 'nu metal', 'post-grunge', 'uk metalcore', 'welsh metal']",64
+11689,Juan Magán,1762329,"['electro latino', 'spanish pop']",64
+11699,Keri Hilson,1977167,"['dance pop', 'hip pop', 'r&b', 'urban contemporary']",65
+11709,J Alvarez,5411149,"['reggaeton', 'urbano latino']",65
+11719,Thomas Karallus,481,[],58
+11729,Palak Muchhal,5797726,"['filmi', 'modern bollywood']",64
+11739,M.I.A.,1279824,"['escape room', 'indietronica', 'neo-synthpop', 'new rave']",65
+11749,Survivor,1049887,"['album rock', 'glam metal', 'hard rock', 'soft rock']",64
+11759,Ratatat,594209,['indietronica'],62
+11769,Sara Bareilles,1928296,"['acoustic pop', 'ectofolk', 'lilith', 'neo mellow', 'pop rock', 'post-teen pop']",62
+11779,Fuego,279784,"['electro latino', 'rap dominicano', 'reggaeton', 'trap latino']",59
+11788,Bas,529338,"['canadian hip hop', 'queens hip hop', 'rap', 'sudanese hip hop', 'sudanese pop', 'underground hip hop']",63
+11798,The Verve,2236097,"['britpop', 'permanent wave', 'rock', 'shoegaze']",63
+11808,Mazzy Star,1088365,"['dream pop', 'melancholia', 'shoegaze', 'slowcore']",65
+11818,Cascada,501246,"['eurodance', 'europop', 'german techno', 'melbourne bounce international']",63
+11828,Lloyd,2256474,"['hip pop', 'r&b', 'southern hip hop', 'trap', 'urban contemporary']",63
+11838,Lecrae,1193394,['christian hip hop'],64
+11848,Steve Miller Band,2908436,"['album rock', 'classic rock', 'hard rock', 'heartland rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock']",65
+11858,SDP,960180,"['german pop', 'german reggae']",64
+11868,Alex Zurdo,1796310,"['latin christian', 'rap cristiano', 'reggaeton cristiano']",64
+11878,Marcela Gandara,1841160,['latin christian'],62
+11888,Natasha Bedingfield,1661578,"['dance pop', 'pop', 'post-teen pop']",63
+11898,Emis Killa,1550262,"['italian hip hop', 'italian pop']",62
+11908,Starship,996576,"['album rock', 'classic rock', 'mellow gold', 'new romantic', 'new wave pop', 'soft rock', 'synthpop']",63
+11918,Estelle,270635,"['neo soul', 'r&b']",62
+11928,D.O.E.,2233,[],63
+11938,Espinoza Paz,3521172,"['banda', 'musica mexicana', 'norteno', 'ranchera']",63
+11948,Capo,45586,"['cali rap', 'oakland hip hop', 'westcoast flow']",39
+11958,Reyli Barba,1852153,"['latin pop', 'mexican pop']",61
+11968,Arctic Monkeys,22391929,"['garage rock', 'modern rock', 'permanent wave', 'rock', 'sheffield indie']",84
+11978,Rihanna,58623404,"['barbadian pop', 'pop', 'urban contemporary']",87
+11988,Arcángel,12599788,"['latin hip hop', 'reggaeton', 'trap latino', 'urbano latino']",81
+11998,De La Ghetto,7267116,"['reggaeton', 'reggaeton flow', 'trap latino', 'urbano latino']",75
+12008,Jul,428278,"['ambient folk', 'indie pop', 'indie rock']",67
+12018,Macklemore,2134608,"['pop rap', 'seattle hip hop']",75
+12028,Panic! At The Disco,12049078,"['modern rock', 'pop']",74
+12038,Paramore,8163028,"['candy pop', 'modern rock', 'pixie', 'pop', 'pop emo', 'pop punk', 'rock']",75
+12048,Ne-Yo,8425403,"['dance pop', 'pop', 'r&b', 'urban contemporary']",76
+12058,Gesaffelstein,539884,['dark clubbing'],70
+12068,Atif Aslam,19139451,"['classic pakistani pop', 'filmi', 'modern bollywood', 'sufi']",74
+12078,Steve Aoki,3785008,"['edm', 'electro house', 'pop dance']",69
+12088,Jason Aldean,6392620,"['contemporary country', 'country', 'country road', 'modern country rock']",72
+12098,Adam Levine,1006023,['deep talent show'],69
+12108,1nonly,900181,['aesthetic rap'],68
+12118,Marracash,2230903,"['italian hip hop', 'italian pop', 'italian underground hip hop', 'rap napoletano']",72
+12128,Dread Mar I,2622721,"['argentine reggae', 'rock en espanol']",67
+12138,RADWIMPS,3679988,"['j-pop', 'j-rock', 'japanese emo', 'visual kei']",69
+12148,Cosculluela,5782562,"['latin hip hop', 'reggaeton', 'trap latino', 'urbano latino']",70
+12158,Zac Brown Band,3726673,"['contemporary country', 'country', 'country road', 'modern country rock']",69
+12168,Thiaguinho,3634836,"['pagode', 'pagode novo', 'sertanejo universitario']",69
+12178,Volbeat,2448145,"['danish metal', 'danish rock']",67
+12188,Camila,32075766,"['dance pop', 'pop']",77
+12198,Gente De Zona,1561976,"['cubaton', 'electro latino', 'latin hip hop', 'latin pop']",66
+12208,A Day To Remember,2282716,"['alternative metal', 'metalcore', 'neon pop punk', 'pop punk', 'screamo']",67
+12218,Wale,4182787,"['pop rap', 'r&b', 'rap', 'southern hip hop', 'trap']",68
+12228,Gym Class Heroes,1474261,"['dance pop', 'pop rap']",66
+12238,Foreigner,2991523,"['album rock', 'classic rock', 'glam metal', 'hard rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock']",67
+12248,Fonseca,2918318,"['colombian pop', 'latin pop']",65
+12258,Caralisa Monteiro,18331,['modern bollywood'],62
+12268,deadmau5,2816882,"['canadian electronic', 'complextro', 'edm', 'electro house', 'pop dance', 'progressive house']",65
+12278,Lorenzo,610206,"['banda', 'grupera', 'musica mexicana', 'norteno']",50
+12288,The Ronettes,264164,"['brill building pop', 'classic girl group', 'motown', 'rock-and-roll']",64
+12298,The Kooks,2492862,"['brighton indie', 'garage rock', 'modern rock', 'rock']",65
+12308,Cem Adrian,3386273,"['turkish rock', 'turkish singer-songwriter']",63
+12318,Teufelskicker,63039,['hoerspiel'],63
+12328,Lindsey Stirling,2130475,"['bow pop', 'pop violin']",62
+12338,Westside Gunn,483582,"['alternative hip hop', 'boom bap', 'buffalo hip hop', 'drumless hip hop', 'hip hop', 'upstate ny rap']",66
+12348,Kollegah,1467016,['german hip hop'],65
+12358,Shweta Mohan,1121696,['filmi'],64
+12368,Janelle Monáe,1420872,"['afrofuturism', 'alternative r&b', 'atl hip hop', 'neo soul', 'r&b']",65
+12378,Klaas,119306,['german dance'],61
+12388,Yelawolf,2252619,['alabama rap'],62
+12398,Far East Movement,1145954,"['asian american hip hop', 'dance pop', 'pop rap']",62
+12408,Mc Lipi,1244353,"['funk consciente', 'funk paulista']",64
+12418,Bootie Brown,6514,[],57
+12419,Luvli,4947,[],62
+12429,Brandi Carlile,784711,"['acoustic pop', 'ectofolk', 'folk', 'indie folk', 'lilith', 'modern folk rock', 'new americana']",63
+12439,Vierra,1059046,['indonesian pop'],62
+12449,Ed Sheeran,115510566,"['pop', 'singer-songwriter pop', 'uk pop']",86
+12459,Miley Cyrus,22682874,['pop'],82
+12469,Wiz Khalifa,11201845,"['hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",78
+12479,Calvin Harris,23447732,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'pop dance', 'progressive house', 'uk dance']",82
+12489,Taylor Swift,93162122,['pop'],100
+12499,Future,15322240,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",87
+12509,Anirudh Ravichander,24143052,"['desi hip hop', 'filmi', 'tamil hip hop']",84
+12519,Banda MS de Sergio Lizárraga,17755618,"['banda', 'musica mexicana', 'norteno']",76
+12529,The Smiths,4732082,"['madchester', 'new wave', 'permanent wave', 'rock', 'uk post-punk']",75
+12539,French Montana,5245531,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",72
+12549,Tainy,1826061,"['pop reggaeton', 'reggaeton', 'trap latino', 'urbano latino']",77
+12559,Neha Kakkar,43774357,"['filmi', 'modern bollywood']",72
+12569,Beach House,1993863,"['art pop', 'baltimore indie', 'dream pop', 'dreamo', 'indie pop', 'indie rock', 'indietronica', 'modern dream pop', 'pov: indie']",70
+12579,Jonas Brothers,7315249,"['boy band', 'pop']",74
+12589,Luke Bryan,8571456,"['contemporary country', 'country', 'country road', 'modern country rock']",73
+12599,Amitabh Bhattacharya,233187,['modern bollywood'],77
+12609,Cage The Elephant,3447400,"['modern alternative rock', 'modern rock', 'pov: indie', 'punk blues', 'rock']",71
+12619,Jesse & Joy,8295868,"['latin arena pop', 'latin pop', 'mexican pop']",73
+12629,Canserbero,8595567,"['boom bap espanol', 'rap conciencia', 'rap politico', 'trap latino', 'venezuelan hip hop']",72
+12639,Cuco,2551693,"['bedroom pop', 'dream pop']",67
+12649,Passenger,3264994,"['folk-pop', 'neo mellow']",69
+12659,Orelsan,2339729,"['french hip hop', 'old school rap francais', 'rap conscient']",63
+12669,Jon Z,6075641,"['reggaeton', 'trap latino', 'urbano latino']",68
+12679,Eric Church,3858501,"['contemporary country', 'country', 'country road', 'modern country rock']",70
+12689,Jay Rock,1456708,"['conscious hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",69
+12699,All Time Low,3000900,"['modern rock', 'neon pop punk', 'pop emo', 'pop punk']",67
+12709,Mithoon,7277696,"['filmi', 'modern bollywood']",67
+12719,Taio Cruz,2262753,"['dance pop', 'pop', 'pop rap']",66
+12729,Cali Y El Dandee,3998327,"['colombian pop', 'electro latino', 'latin pop', 'reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",66
+12739,La Maquinaria Norteña,487985,"['musica mexicana', 'norteno', 'norteno-sax']",62
+12749,Coez,2093438,"['italian adult pop', 'italian pop', 'rap napoletano', 'rome indie']",67
+12759,Lily Allen,2021398,"['dance pop', 'electropop']",64
+12769,Freddie Gibbs,1216193,"['alternative hip hop', 'hip hop', 'indiana hip hop', 'rap', 'underground hip hop']",63
+12779,Leona Lewis,3565240,"['british soul', 'dance pop', 'pop', 'talent show']",64
+12789,El Komander,3675957,"['banda', 'corrido', 'musica mexicana', 'norteno', 'sierreno']",68
+12799,Prashant Katheriya,77401,[],41
+12809,Paolo Nutini,1364629,"['british soul', 'neo mellow', 'scottish singer-songwriter']",63
+12819,W&W,11201845,"['hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",78
+12829,Chris Young,2785347,"['contemporary country', 'country', 'country road', 'modern country rock']",63
+12839,Código FN,885489,"['corrido', 'corridos tumbados', 'musica mexicana', 'norteno', 'sad sierreno']",68
+12849,Neeraj Shridhar,2217552,"['filmi', 'modern bollywood']",64
+12859,Peter Fox,897312,"['german pop', 'german rock']",61
+12869,India Martinez,939883,"['latin arena pop', 'pop flamenco', 'spanish pop']",62
+12879,Nipsey Hussle,3342139,"['conscious hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",64
+12889,MIKA,1347379,['electropop'],63
+12899,The Temper Trap,698414,"['indietronica', 'modern rock', 'shimmer pop']",63
+12909,Maneva,1611449,"['brazilian hip hop', 'brazilian reggae', 'pop nacional']",65
+12919,Helene Fischer,1859431,['schlager'],61
+12929,DJ Drama,1482907,"['dirty south rap', 'philly rap', 'southern hip hop', 'trap']",58
+12939,Angus & Julia Stone,1245829,"['australian indie folk', 'indie folk']",63
+12949,Bear McCreary,162812,"['orchestral soundtrack', 'scorecore', 'soundtrack']",59
+12959,Brooke Ligertwood,78453,"['ccm', 'world worship', 'worship']",64
+12969,The Wombats,1058712,"['liverpool indie', 'modern alternative rock', 'modern rock']",59
+12979,BIGBANG,5138976,"['k-pop', 'k-pop boy group']",62
+12989,Konshens,458519,"['dancehall', 'traphall']",61
+12999,Ramirez,343087,"['cloud rap', 'dark trap', 'phonk']",64
+13009,J. Cole,21963405,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",84
+13019,J Balvin,37878150,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",83
+13029,Katy Perry,30462395,['pop'],81
+13039,OneRepublic,16488664,"['piano rock', 'pop']",80
+13049,Tyga,6917983,"['hip hop', 'pop rap', 'rap', 'trap']",77
+13059,Jorge & Mateus,104961,[],53
+13069,Jason Derulo,11977089,"['dance pop', 'pop']",76
+13079,Big Sean,11179172,"['detroit hip hop', 'hip hop', 'pop rap', 'r&b', 'rap', 'trap']",74
+13089,Julión Álvarez y su Norteño Banda,4061649,"['banda', 'musica mexicana', 'norteno', 'sad sierreno', 'sierreno']",74
+13099,Chris Stapleton,6347561,"['contemporary country', 'outlaw country']",79
+13109,Five Finger Death Punch,6259278,"['alternative metal', 'groove metal', 'nu metal']",71
+13119,Bon Iver,3508012,"['chamber pop', 'eau claire indie', 'indie folk', 'melancholia', 'modern rock']",74
+13129,Meek Mill,7680610,"['hip hop', 'philly rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",73
+13139,Armaan Malik,20030456,"['filmi', 'modern bollywood']",70
+13149,Mother Mother,3605892,"['pov: indie', 'vancouver indie']",69
+13159,benny blanco,1082285,['pop'],68
+13169,Carlos Rivera,4432837,"['latin arena pop', 'latin pop', 'mexican pop', 'musica tlaxcalteca']",70
+13179,Gerardo Ortiz,7531080,"['banda', 'corrido', 'musica mexicana', 'norteno', 'sierreno']",71
+13189,Pierce The Veil,2686169,"['pop punk', 'screamo']",70
+13199,Skepta,1171212,"['birmingham grime', 'grime', 'instrumental grime', 'uk hip hop']",70
+13209,TAEYANG,1300994,"['k-pop', 'korean r&b']",63
+13219,ONE OK ROCK,5197108,"['j-pop', 'j-rock', 'japanese emo']",68
+13229,Kacey Musgraves,1257779,"['classic texas country', 'contemporary country', 'country dawn']",74
+13239,Lee Brice,2180115,"['contemporary country', 'country', 'country road', 'modern country rock']",67
+13249,Crystal Castles,1966920,"['alternative dance', 'bitpop', 'digital hardcore', 'indietronica', 'neo-synthpop', 'new rave', 'nintendocore']",68
+13259,Owl City,2395205,"['indietronica', 'pop']",66
+13269,Motionless In White,1454988,"['alternative metal', 'metalcore', 'screamo']",66
+13279,Fabrizio Paterlini,127096,['compositional ambient'],64
+13289,Sean Kingston,3202513,"['dance pop', 'miami hip hop', 'pop']",67
+13299,Lucenzo,135492,['reggaeton'],65
+13309,Hamza,1038663,"['belgian hip hop', 'cloud rap francais', 'french hip hop', 'pop urbaine', 'rap belge']",67
+13319,Lykke Li,1901190,"['electropop', 'indietronica', 'neo-synthpop', 'swedish electropop', 'swedish indie pop', 'swedish pop']",66
+13329,Pedro Capó,1663908,"['latin pop', 'puerto rican pop']",66
+13339,Mike Perry,1531128,"['pop dance', 'swedish tropical house']",61
+13349,Money Man,568847,"['memphis hip hop', 'southern hip hop', 'trap']",67
+13359,Colbie Caillat,2508213,"['dance pop', 'neo mellow', 'pop']",66
+13369,Zac Efron,797821,"['hollywood', 'movie tunes', 'post-teen pop']",65
+13379,María José,2680386,"['latin pop', 'mexican pop']",64
+13389,TAEYEON,2819945,['k-pop'],63
+13399,Peter Groeger,2710,[],63
+13409,Sherlock Holmes,90609,"['hoerspiel', 'writing']",64
+13419,Soundgarden,4196901,"['alternative metal', 'alternative rock', 'classic rock', 'grunge', 'hard rock', 'nu metal', 'rock']",65
+13429,Flowdan,71909,['grime'],65
+13439,DJ Alex,815150,"['cumbia 420', 'cumbia pop', 'previa']",56
+13449,Girls' Generation,2500501,"['k-pop', 'k-pop girl group']",60
+13459,Sam Smith,23373333,"['pop', 'uk pop']",82
+13469,Adele,52649190,"['british soul', 'pop', 'pop soul', 'uk pop']",83
+13479,"Tyler, The Creator",13162982,"['hip hop', 'rap']",82
+13489,Lady Gaga,28517734,"['art pop', 'dance pop', 'pop']",82
+13499,Drake,82201449,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",95
+13509,Nicki Minaj,30126326,"['hip pop', 'pop', 'queens hip hop', 'rap']",84
+13519,Selena Gomez,46621750,"['pop', 'post-teen pop']",81
+13529,Frank Ocean,12217763,"['lgbtq+ hip hop', 'neo soul']",82
+13539,Ariana Grande,95007497,['pop'],86
+13549,Tame Impala,7082519,"['australian psych', 'modern rock', 'neo-psychedelic', 'rock']",77
+13559,Avicii,23211510,"['dance pop', 'edm', 'pop', 'pop dance']",78
+13569,Kid Cudi,6752993,"['hip hop', 'ohio hip hop', 'pop rap', 'rap']",77
+13579,Demi Lovato,26354431,"['pop', 'post-teen pop']",76
+13589,Skrillex,8107893,"['brostep', 'complextro', 'edm', 'electro', 'pop dance']",74
+13599,R3HAB,2524499,"['dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'slap house']",73
+13609,Bonez MC,2170501,"['german hip hop', 'hamburg hip hop']",73
+13619,Bomba Estéreo,1064767,"['cumbia', 'latin alternative', 'latin rock', 'pop electronico', 'tropical alternativo']",67
+13629,G-Eazy,5213215,"['indie pop rap', 'oakland hip hop', 'pop rap', 'rap']",73
+13639,Kesha,7702070,"['dance pop', 'pop']",73
+13649,Charli XCX,3019114,"['art pop', 'candy pop', 'metropopolis', 'pop', 'uk pop']",73
+13659,Major Lazer,6331076,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop', 'pop dance']",74
+13669,Florence + The Machine,6575555,"['baroque pop', 'electropop', 'modern rock', 'uk alternative pop']",73
+13679,Thaman S,6554846,"['new beat', 'tamil pop']",68
+13689,Stromae,3146755,"['belgian pop', 'g-house']",68
+13699,The Script,8084677,"['celtic rock', 'pop']",71
+13709,Ryan Lewis,21191,['pop rap'],71
+13719,Carly Rae Jepsen,5173616,"['canadian pop', 'dance pop', 'pop']",69
+13729,Tazzy,34568,"['slowed and reverb', 'sped up']",69
+13739,Mustard,1121239,"['cali rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",69
+13749,Amit Trivedi,8493732,"['filmi', 'modern bollywood']",65
+13759,Elevation Worship,2791650,"['ccm', 'christian music', 'world worship', 'worship']",71
+13769,Kontra K,2235802,"['german hip hop', 'german pop']",71
+13779,Lin-Manuel Miranda,593824,"['broadway', 'show tunes']",70
+13789,Bo Burnham,1803557,"['comic', 'pov: indie']",66
+13799,RÜFÜS DU SOL,1475817,"['australian electropop', 'indietronica']",68
+13809,Alan Gomez,1054917,"['cumbia 420', 'cumbia pop', 'previa']",65
+13819,Kizzy,15898,['trap brasileiro'],63
+13829,IU,8275540,"['k-pop', 'pop']",69
+13839,White Noise for Babies,6423,['sleep'],69
+13849,Empire of the Sun,1364517,"['australian dance', 'australian electropop', 'dance rock', 'indietronica', 'neo-synthpop']",72
+13859,Hollywood Undead,2344609,"['alternative metal', 'modern rock', 'post-grunge', 'rap metal', 'rap rock']",65
+13869,Boyce Avenue,3164109,"['acoustic cover', 'neo mellow', 'viral pop']",66
+13879,Maldy,87938,"['perreo', 'reggaeton flow', 'urbano latino']",60
+13889,Siddhartha,949634,"['latin rock', 'mexican indie']",65
+13899,Colby O'Donis,156271,[],64
+13909,Last Child,5482092,"['indonesian pop punk', 'indonesian rock']",68
+13919,Kimbra,411652,"['bergen indie', 'electropop', 'nz pop']",65
+13929,Gaab,1689024,"['funk carioca', 'r&b brasileiro']",63
+13939,K.Flay,556732,"['escape room', 'hip pop', 'modern alternative rock']",61
+13949,City Girls,2406008,"['scam rap', 'trap queen']",64
+13959,James Blake,1387869,"['art pop', 'indie soul', 'indietronica', 'uk alternative pop']",68
+13969,Set It Off,885105,"['electropowerpop', 'otacore', 'pixie', 'pov: indie']",63
+13979,accelerate,61497,['sped up'],56
+13989,Brantley Gilbert,2974845,"['contemporary country', 'country', 'country road', 'modern country rock']",63
+13999,Enigma Norteño,1036910,"['banda', 'corrido', 'musica mexicana', 'norteno']",60
+14009,Afgan,2205201,"['indonesian pop', 'malaysian pop']",66
+14019,Jaani,155730,['punjabi pop'],71
+14029,Imagine Dragons,51152394,"['modern rock', 'pop', 'rock']",84
+14039,Bruno Mars,52305779,"['dance pop', 'pop']",86
+14049,Steve Lacy,3874690,['afrofuturism'],79
+14059,Playboi Carti,9210262,"['atl hip hop', 'plugg', 'pluggnb', 'rage rap', 'rap']",82
+14069,Justin Bieber,74713042,"['canadian pop', 'pop']",87
+14079,Carin Leon,8888452,"['corrido', 'musica mexicana', 'sad sierreno', 'sierreno']",84
+14089,Twenty One Pilots,24113320,"['modern rock', 'pop', 'pov: indie', 'rock']",77
+14099,Alok,12099107,"['electro house', 'pop nacional', 'sertanejo universitario', 'slap house']",76
+14109,Chencho Corleone,621174,"['reggaeton', 'reggaeton flow', 'trap latino', 'urbano latino']",78
+14119,Quavo,7044423,"['atl hip hop', 'melodic rap', 'rap', 'trap']",76
+14129,Ty Dolla $ign,4810927,"['hip hop', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'trap soul']",77
+14139,Burna Boy,7237760,"['afrobeats', 'azontobeats', 'dancehall', 'nigerian hip hop', 'nigerian pop']",78
+14149,Ellie Goulding,12380596,"['indietronica', 'metropopolis', 'pop', 'uk pop']",77
+14159,King,3520514,['chicago rap'],74
+14169,H.E.R.,6959117,"['r&b', 'rap']",72
+14179,Swedish House Mafia,3790166,"['edm', 'pop dance', 'progressive electro house']",73
+14189,Filipe Ret,5218749,['pop rap brasileiro'],72
+14199,Die drei !!!,269183,['hoerspiel'],73
+14209,Chief Keef,4253135,"['chicago bop', 'chicago drill', 'chicago rap', 'drill', 'hip hop', 'rap', 'southern hip hop', 'trap']",73
+14219,Luan Santana,7515493,"['arrocha', 'sertanejo', 'sertanejo universitario']",75
+14229,Jeremih,6582221,"['chicago rap', 'pop rap', 'r&b', 'trap', 'urban contemporary']",71
+14239,MARINA,5051542,"['metropopolis', 'pop', 'pov: indie', 'uk alternative pop']",70
+14249,La Santa Grifa,4764716,"['mexican hip hop', 'sad sierreno', 'tamaulipas rap']",71
+14259,Kevin Gates,6084500,"['baton rouge rap', 'rap', 'southern hip hop', 'trap']",70
+14269,Cody Johnson,1014460,"['classic texas country', 'contemporary country']",73
+14279,SDM,687515,"['french hip hop', 'pop urbaine', 'r&b francais']",68
+14289,back number,4212230,"['j-pop', 'j-rock']",70
+14299,Mumford & Sons,6518312,"['modern folk rock', 'modern rock', 'neo mellow', 'stomp and holler', 'uk americana']",69
+14309,Timmy Trumpet,1083151,"['australian dance', 'big room', 'dutch house', 'melbourne bounce', 'melbourne bounce international']",68
+14319,Yo Yo Honey Singh,14415518,"['filmi', 'hindi hip hop', 'modern bollywood']",74
+14329,Neeti Mohan,3250291,"['filmi', 'modern bollywood']",68
+14339,Mr.Kitty,638916,['weirdcore'],65
+14349,Glee Cast,1517967,"['glee club', 'post-teen pop']",67
+14359,Bradley Cooper,236509,['hollywood'],66
+14369,Paloma Faith,1214100,"['british soul', 'talent show', 'uk pop']",64
+14379,Popcaan,994624,"['dancehall', 'jamaican hip hop', 'reggae fusion', 'traphall']",63
+14389,Indila,1506656,['french pop'],66
+14399,Mike Posner,1374778,"['dance pop', 'pop', 'pop dance', 'pop rap']",66
+14409,Clayton & Romário,230988,"['agronejo', 'arrocha', 'sertanejo pop']",64
+14419,BK,194957,['pluggnb'],51
+14429,Jory Boy,1881258,"['reggaeton', 'reggaeton flow', 'trap latino', 'urbano latino']",65
+14439,Selena Gomez & The Scene,46621750,"['pop', 'post-teen pop']",81
+14449,Two Door Cinema Club,2352773,"['indie rock', 'indietronica', 'irish rock', 'modern alternative rock', 'modern rock', 'northern irish indie']",66
+14459,Phantogram,796063,"['indietronica', 'metropopolis', 'neo-synthpop', 'shimmer pop']",63
+14469,Kid Ink,3022987,"['pop rap', 'rap', 'southern hip hop', 'trap']",63
+14479,Nakash Aziz,208672,['tollywood'],62
+14488,Haftbefehl,734941,['german hip hop'],61
+14498,Murda,136258,"['canadian hip hop', 'canadian trap']",56
+14508,fun.,3418456,"['baroque pop', 'metropopolis']",64
+14518,Mikky Ekko,130710,['nashville indie'],63
+14528,Maher Zain,4487604,"['nasheed', 'rif', 'sholawat']",64
+14538,Mac Miller,9748999,"['hip hop', 'pittsburgh rap', 'pop rap', 'rap']",80
+14548,Kendrick Lamar,26003686,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",86
+14558,BTS,71125016,"['k-pop', 'k-pop boy group', 'pop']",84
+14568,One Direction,33919170,"['boy band', 'pop', 'post-teen pop', 'talent show']",81
+14578,Charlie Puth,21792221,"['pop', 'viral pop']",79
+14588,Anitta,13003436,"['funk pop', 'funk rj', 'pagode baiano', 'pop', 'pop nacional']",75
+14598,Labrinth,3095859,"['indie poptimism', 'pop']",76
+14608,Offset,3256076,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",78
+14618,Alfredo Olivas,6899618,"['banda', 'corrido', 'musica mexicana', 'norteno', 'sad sierreno', 'sierreno']",79
+14628,Prince Royce,7956687,"['bachata', 'latin hip hop', 'latin pop', 'urbano latino']",72
+14638,El Alfa,3181871,"['dembow', 'rap dominicano', 'reggaeton', 'trap latino', 'urbano latino']",75
+14648,Calibre 50,10822440,"['banda', 'corrido', 'musica mexicana', 'norteno', 'sierreno']",72
+14658,Ghost,2815725,"['hard rock', 'metal']",72
+14668,Pablo Alborán,5027686,"['latin arena pop', 'latin pop', 'spanish pop']",71
+14678,Julia Michaels,5099757,['pop'],71
+14688,Mambo Kingz,245261,"['reggaeton', 'reggaeton flow', 'trap latino', 'urbano latino']",75
+14698,Florida Georgia Line,5427204,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock']",71
+14708,MC Hariel,5178754,"['funk carioca', 'funk consciente', 'funk paulista']",72
+14718,Cults,794033,"['experimental pop', 'indie surf', 'pov: indie']",68
+14728,WILLOW,2357872,"['afrofuturism', 'pop', 'post-teen pop', 'pov: indie']",68
+14738,Kenshi Yonezu,5471064,"['anime', 'j-pop']",69
+14748,Stormzy,2870270,"['grime', 'uk hip hop']",68
+14758,Young Dolph,2710754,"['memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",69
+14768,La Adictiva,5612271,"['banda', 'musica mexicana', 'norteno']",70
+14778,El Fantasma,6015274,"['banda', 'corrido', 'musica mexicana', 'norteno']",72
+14788,Macklemore & Ryan Lewis,2134608,"['pop rap', 'seattle hip hop']",75
+14798,Xand Avião,3100770,"['arrocha', 'forro', 'forro de favela', 'funk carioca']",64
+14808,Asees Kaur,2256949,"['desi pop', 'filmi', 'modern bollywood']",69
+14818,Disclosure,2148521,"['edm', 'house', 'indietronica', 'uk dance']",69
+14828,Vintage Culture,1789261,['brazilian edm'],69
+14838,Lord Huron,1377208,"['indie folk', 'stomp and holler']",73
+14848,Noah Cyrus,1229152,"['alt z', 'pop']",68
+14858,ScHoolboy Q,4624932,"['gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",69
+14868,Rita Ora,8356439,"['dance pop', 'pop', 'uk pop']",70
+14878,James Bay,3981296,"['neo mellow', 'pop', 'uk pop']",68
+14888,Jessie J,11695127,"['dance pop', 'pop']",68
+14898,Die Kita-Frösche,16743,['kindermusik'],70
+14908,Ufo361,1926989,"['german cloud rap', 'german hip hop']",67
+14918,Karsten Glück,9962,['kindermusik'],70
+14928,Simone Sommerland,239497,['kindermusik'],70
+14938,C418,755816,['pixel'],69
+14948,Foster The People,3765407,"['indietronica', 'modern alternative rock', 'modern rock', 'rock']",68
+14958,Purple Disco Machine,595297,"['deep house', 'house']",70
+14968,Carla Morrison,3992843,"['cantautora mexicana', 'mexican pop']",69
+14978,Christina Perri,3738794,['pop'],69
+14988,Nanpa Básico,2344822,"['colombian hip hop', 'mexican hip hop']",68
+14998,Alex G,1269358,"['philly indie', 'pov: indie']",72
+15008,Kevin Roldan,5819563,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",68
+15018,Fran C,92879,['reggaeton chileno'],62
+15028,Andy Grammer,1183153,"['neo mellow', 'post-teen pop', 'viral pop']",65
+15038,Shouse,126471,['aussietronica'],64
+15048,Rvssian,2557078,"['reggaeton', 'reggaeton flow', 'trap latino', 'urbano latino']",64
+15058,MAX,926161,"['compositional ambient', 'post-minimalism']",69
+15068,Ana Mena,769457,['spanish pop'],66
+15078,Daya,1533301,"['alt z', 'pop']",66
+15088,Jacquees,2623382,"['atl hip hop', 'pop r&b', 'pop rap', 'r&b', 'rap', 'trap']",65
+15098,Bethel Music,1670577,"['ambient worship', 'ccm', 'deep ccm', 'world worship', 'worship']",67
+15108,Luchè,1147657,"['italian hip hop', 'italian pop', 'rap napoletano']",63
+15118,Grimes,2183298,"['art pop', 'canadian electropop', 'grave wave', 'indietronica', 'metropopolis', 'neo-synthpop']",65
+15128,Super Simple Songs,384137,"[""children's music""]",68
+15138,C-Kan,2697536,"['latin hip hop', 'mexican hip hop', 'rap conciencia', 'trap mexicano']",69
+15148,Jaden,1897089,"['pop rap', 'rap']",64
+15158,Skylar Grey,586726,"['piano rock', 'viral pop']",65
+15168,Leo Santana,2110890,"['arrocha', 'axe', 'forro', 'pagode baiano', 'pop nacional']",66
+15178,Shilpi Raj,414683,['bhojpuri pop'],70
+15188,Rudimental,1374304,"['pop dance', 'uk dance', 'uk funky']",65
+15198,Millonario,1806902,['mexican hip hop'],63
+15208,Shashaa Tirupati,174188,"['filmi', 'modern bollywood']",62
+15218,Jay Park,2037192,"['k-pop', 'k-rap', 'korean r&b']",63
+15228,Brett Eldredge,1462498,"['contemporary country', 'country', 'country road', 'modern country rock']",61
+15238,Lana Del Rey,29797024,"['art pop', 'pop']",88
+15248,The Weeknd,74712543,"['canadian contemporary r&b', 'canadian pop', 'pop']",92
+15258,Maluma,34559707,"['latin pop', 'reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",83
+15268,Feid,8306084,"['colombian pop', 'pop reggaeton', 'reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",88
+15278,Anuel AA,33692593,"['reggaeton', 'reggaeton flow', 'trap boricua', 'trap latino', 'urbano latino']",85
+15288,Robin Schulz,3102647,"['deep euro house', 'deep house', 'edm', 'german dance', 'pop dance', 'tropical house']",74
+15298,Meghan Trainor,14238862,"['hip pop', 'pop']",75
+15308,A$AP Rocky,13085916,"['east coast hip hop', 'hip hop', 'rap', 'trap']",79
+15318,Childish Gambino,11751918,"['atl hip hop', 'hip hop', 'rap']",76
+15328,Anderson .Paak,2417580,"['escape room', 'hip hop', 'indie soul', 'neo soul']",74
+15338,blackbear,4898967,['pop'],73
+15348,Justin Quiles,4300947,"['reggaeton', 'trap latino', 'urbano latino']",75
+15358,Sabrina Carpenter,6418086,['pop'],78
+15368,PARTYNEXTDOOR,5909823,"['r&b', 'rap', 'urban contemporary']",76
+15378,Russ,4996975,"['hawaiian hip hop', 'pop rap']",74
+15388,DJ Snake,8756119,"['dance pop', 'edm', 'electronic trap', 'pop', 'pop dance']",76
+15398,Migos,13612782,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",74
+15408,Tyler Childers,2110813,"['kentucky indie', 'kentucky roots', 'outlaw country']",75
+15418,Little Mix,11770959,"['girl group', 'pop', 'talent show', 'uk pop']",72
+15428,Israel & Rodolffo,507648,['hawaiian'],58
+15438,Sid Sriram,13970807,['filmi'],74
+15448,TV Girl,3847873,['pov: indie'],78
+15458,Darell,4102244,"['latin hip hop', 'reggaeton', 'trap latino', 'urbano latino']",77
+15468,Takeoff,1552766,"['atl hip hop', 'rap', 'trap']",68
+15478,Troye Sivan,8032028,"['australian pop', 'pop', 'viral pop']",78
+15488,Tulus,13759946,"['indonesian jazz', 'indonesian pop', 'indonesian singer-songwriter']",73
+15498,AJR,3106728,['pov: indie'],73
+15508,Bastille,5493403,"['metropopolis', 'modern rock', 'pop']",72
+15518,C. Tangana,2571754,['urbano espanol'],69
+15528,Clean Bandit,5342848,"['pop', 'uk dance', 'uk funky']",71
+15538,Aleman,5159320,"['mexican hip hop', 'trap mexicano']",71
+15548,Chance the Rapper,5952285,"['chicago rap', 'conscious hip hop', 'hip hop', 'pop rap', 'rap']",71
+15558,Natti Natasha,9660536,"['latin pop', 'rap latina', 'reggaeton', 'urbano latino']",70
+15568,Topic,221572,"['german dance', 'pop dance', 'pop edm', 'uk dance']",70
+15578,Mabel Matiz,3689685,['turkish pop'],67
+15588,White Noise Baby Sleep,33551,['sleep'],73
+15598,Mon Laferte,6362342,['latin alternative'],71
+15608,GIMS,4175486,"['french hip hop', 'french pop', 'r&b francais', 'rap conscient']",71
+15618,Lomepal,2051042,"['french hip hop', 'rap conscient']",64
+15628,MNEK,282055,"['house', 'pop dance', 'uk contemporary r&b', 'uk dance', 'uk pop']",66
+15638,A$AP Ferg,3702613,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",68
+15648,Flume,2418133,"['australian dance', 'australian electropop', 'australian indie', 'downtempo', 'edm', 'indietronica']",68
+15658,Lukas Graham,2151972,"['danish pop', 'scandipop']",69
+15668,Nekfeu,2596516,"['french hip hop', 'pop urbaine', 'rap conscient']",67
+15678,Birdy,3766985,"['neo mellow', 'uk pop']",68
+15688,Lasso,695750,['pop venezolano'],64
+15698,Gzuz,1373317,"['deep german hip hop', 'german hip hop', 'hamburg hip hop']",68
+15708,Salmo,2417451,"['italian hip hop', 'italian pop', 'italian underground hip hop', 'rap sardegna']",71
+15718,Ernia,875089,"['italian hip hop', 'italian pop', 'milan indie']",64
+15728,Zendaya,4366922,"['pop', 'post-teen pop']",67
+15738,Khruangbin,1585884,"['indie soul', 'neo-psychedelic']",67
+15748,Falling In Reverse,2858952,"['alternative metal', 'pop punk', 'rap metal']",69
+15758,Aimer,2372736,"['anime', 'anime rock', 'j-pixie', 'j-pop', 'j-poprock']",63
+15768,Leslie Odom Jr.,233519,"['broadway', 'show tunes', 'vocal jazz']",68
+15778,FLETCHER,828678,"['alt z', 'pop']",61
+15788,Tom Rosenthal,528348,['british singer-songwriter'],64
+15798,Kina,800274,"['sad lo-fi', 'slowed and reverb']",63
+15808,Iggy Azalea,6511349,"['australian hip hop', 'dance pop', 'pop']",65
+15818,JP Cooper,884112,['uk pop'],64
+15828,Brett Young,1039796,"['contemporary country', 'country', 'country road', 'modern country rock']",63
+15838,Río Roma,2868727,"['latin arena pop', 'latin pop', 'latin viral pop', 'mexican pop']",65
+15848,Santhosh Narayanan,1860070,"['filmi', 'tamil pop']",68
+15858,The Paper Kites,719422,"['acoustic pop', 'australian indie folk', 'indie anthem-folk', 'indie folk', 'stomp and flutter', 'stomp and holler']",67
+15868,WALK THE MOON,2115221,"['dance rock', 'modern alternative rock', 'modern rock', 'neo mellow', 'pop rock']",65
+15878,Vince Staples,1811155,"['conscious hip hop', 'hip hop', 'rap', 'underground hip hop']",64
+15888,Ronnie Flex,593961,"['dutch hip hop', 'dutch rap pop']",64
+15898,Of Monsters and Men,3519994,"['folk-pop', 'metropopolis', 'modern rock', 'stomp and holler']",65
+15908,Boef,1267959,['dutch hip hop'],64
+15918,Stephanie Beatriz,42268,"['hollywood', 'movie tunes']",62
+15928,Ankit Tiwari,13510166,"['filmi', 'modern bollywood']",63
+15938,The Neighbourhood,14323284,"['modern alternative rock', 'modern rock', 'pop', 'pov: indie']",81
+15948,Duki,9769147,"['argentine hip hop', 'trap argentino', 'trap latino', 'trap triste', 'urbano latino']",80
+15958,Travis Scott,25178770,"['hip hop', 'rap', 'slap house']",90
+15968,KAROL G,41739118,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",88
+15978,Metro Boomin,6093222,['rap'],85
+15988,Mac DeMarco,4842684,"['edmonton indie', 'lo-fi indie', 'pov: indie']",77
+15998,Cigarettes After Sex,8794850,"['ambient pop', 'dream pop', 'el paso indie', 'shoegaze']",79
+16008,Rema,3515911,"['afrobeats', 'nigerian pop']",77
+16018,The 1975,6980637,"['modern alternative rock', 'modern rock', 'pop', 'pov: indie', 'rock']",75
+16028,Halsey,21174284,"['electropop', 'etherpop', 'indie poptimism', 'pop']",79
+16038,Bebe Rexha,8679783,"['dance pop', 'pop']",77
+16048,James Arthur,14383865,"['pop', 'talent show', 'uk pop']",79
+16058,Lil Durk,6558342,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'rap', 'trap']",80
+16068,Henrique & Juliano,20484714,"['agronejo', 'arrocha', 'sertanejo', 'sertanejo universitario']",80
+16078,Tom Odell,3561926,['chill pop'],75
+16088,Mitski,5764315,"['brooklyn indie', 'pov: indie']",81
+16098,The Chainsmokers,20467903,['pop'],77
+16108,Kygo,8432020,"['edm', 'pop', 'pop dance', 'tropical house']",75
+16118,5 Seconds of Summer,9763832,"['boy band', 'pop']",74
+16128,Matheus & Kauan,11312760,"['agronejo', 'arrocha', 'pop nacional', 'sertanejo', 'sertanejo universitario']",75
+16138,Glass Animals,3939689,"['gauze pop', 'indietronica', 'modern rock', 'pov: indie', 'shiver pop']",72
+16148,The Lumineers,5279870,"['folk-pop', 'modern rock', 'stomp and holler']",76
+16158,Martin Garrix,15740361,"['dutch edm', 'edm', 'pop', 'pop dance', 'progressive house']",73
+16168,Melanie Martinez,18751892,"['alt z', 'electropop', 'pop']",77
+16178,Becky G,14182696,"['latin pop', 'latin viral pop', 'rap latina', 'reggaeton', 'trap latino', 'urbano latino']",77
+16188,Lorde,10000283,"['art pop', 'metropopolis', 'nz pop', 'pop']",74
+16198,Becky Hill,711049,"['pop dance', 'pop house', 'uk dance', 'uk pop']",71
+16208,Wesley Safadão,12179469,"['arrocha', 'forro', 'sertanejo', 'sertanejo universitario']",73
+16218,Kumaar,38768,['modern bollywood'],73
+16228,Tove Lo,3529516,"['dance pop', 'metropopolis', 'pop', 'swedish electropop', 'swedish pop', 'swedish synthpop']",71
+16238,Zara Larsson,10435099,"['pop', 'scandipop', 'swedish electropop', 'swedish pop']",74
+16248,Piso 21,9250992,"['colombian pop', 'latin pop', 'reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",73
+16258,AURORA,3288679,"['art pop', 'norwegian pop']",70
+16268,Joey Bada$$,3242235,"['conscious hip hop', 'hip hop', 'rap']",70
+16278,Ray Dalton,59761,['pop dance'],70
+16288,Galantis,3380617,"['dance pop', 'edm', 'pop', 'pop dance']",67
+16298,Denzel Curry,2421474,"['dark trap', 'drill', 'hip hop', 'miami hip hop', 'pop rap', 'rap', 'trap', 'underground hip hop']",67
+16308,Eyedress,1519283,"['noise pop', 'pov: indie']",72
+16318,Ángela Aguilar,848335,"['mariachi', 'musica mexicana', 'ranchera']",69
+16328,Zé Neto & Cristiano,19195519,"['agronejo', 'arrocha', 'sertanejo', 'sertanejo universitario']",77
+16338,Thomas Rhett,4666202,"['contemporary country', 'country', 'country road', 'modern country rock']",70
+16348,G Herbo,1964240,"['chicago drill', 'chicago rap', 'drill', 'trap']",67
+16358,Nardo Wick,892195,"['florida drill', 'florida rap', 'southern hip hop']",66
+16368,Lenin Ramírez,2961294,"['banda', 'corrido', 'musica mexicana', 'norteno', 'sad sierreno', 'sierreno']",66
+16378,Novo Amor,981202,"['ambient folk', 'indie folk', 'modern indie folk']",70
+16388,Maes,10757,[],61
+16398,Ezhel,6030381,"['turkish hip hop', 'turkish trap']",69
+16408,Dadju,5551072,"['french hip hop', 'pop urbaine', 'r&b francais']",68
+16418,Jon Pardi,1839401,"['contemporary country', 'country', 'country road', 'modern country rock']",71
+16428,The Living Tombstone,3103196,"['otacore', 'pixel', 'pov: indie']",72
+16438,CRO,396724,"['ccm', 'christian alternative rock', 'christian music']",56
+16448,alt-J,3218131,"['indie rock', 'indietronica', 'modern alternative rock', 'modern rock', 'rock']",67
+16458,Kodaline,3006167,"['irish pop', 'modern rock']",66
+16468,ODESZA,1556647,"['chillwave', 'edm', 'indietronica']",67
+16478,Matisse,1010912,"['latin arena pop', 'latin pop', 'mexican pop']",65
+16488,MØ,7702596,['contemporary country'],85
+16498,Earl Sweatshirt,2134950,"['alternative hip hop', 'drumless hip hop', 'experimental hip hop', 'hip hop', 'rap', 'underground hip hop']",67
+16508,Pouya,1103464,"['aesthetic rap', 'cloud rap', 'dark trap', 'miami hip hop', 'underground hip hop']",67
+16518,Mabel,1915811,"['pop', 'uk pop']",63
+16528,Miky Woodz,4070415,"['reggaeton', 'trap latino', 'urbano latino']",66
+16538,Lauren Daigle,2571564,"['ccm', 'christian alternative rock', 'christian music']",67
+16548,BIA,523089,"['rap latina', 'trap queen']",68
+16558,Rag'n'Bone Man,1747138,['neo soul'],65
+16568,Dawid Podsiadło,2007341,"['polish pop', 'talent show']",65
+16578,Blueface,6484176,"['cali rap', 'rap']",64
+16588,John Newman,720517,['dance pop'],66
+16598,Rich The Kid,3178511,"['atl hip hop', 'melodic rap', 'plugg', 'rap', 'trap']",65
+16608,Tinashe,2681850,"['alternative r&b', 'dance pop', 'metropopolis', 'pop', 'r&b', 'urban contemporary']",65
+16618,Fiersa Besari,5362461,"['bandung indie', 'indonesian folk pop', 'indonesian indie', 'indonesian pop', 'indonesian pop punk']",66
+16628,Ozuna,37958927,"['puerto rican pop', 'reggaeton', 'trap latino', 'urbano latino']",84
+16638,Oliver Tree,2370076,['alternative hip hop'],71
+16648,Sebastian Yatra,22626493,"['colombian pop', 'latin pop', 'reggaeton', 'reggaeton colombiano', 'urbano latino']",78
+16658,NF,9218706,"['hip hop', 'pop rap']",77
+16668,Alan Walker,39683843,['electro house'],78
+16678,NLE Choppa,7074191,"['memphis hip hop', 'rap']",77
+16688,Bryson Tiller,7658673,"['kentucky hip hop', 'r&b', 'rap']",77
+16698,Tanishk Bagchi,3590741,"['desi pop', 'filmi', 'modern bollywood']",74
+16708,Hozier,6127286,"['irish singer-songwriter', 'modern rock', 'pov: indie']",80
+16718,Lizzo,5672942,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']",70
+16728,Daniel Caesar,4773458,['canadian contemporary r&b'],78
+16738,Jay Wheeler,3574809,"['reggaeton', 'trap latino', 'urbano latino']",75
+16748,Lazza,1840694,"['italian hip hop', 'italian pop', 'rap genovese', 'trap italiana']",71
+16758,Alec Benjamin,4680002,"['alt z', 'pop', 'pov: indie']",73
+16768,Vance Joy,2936688,"['folk-pop', 'modern rock']",72
+16778,Imanbek,200913,"['electro house', 'pop dance', 'slap house']",69
+16788,DJ Luian,2137617,"['reggaeton', 'reggaeton flow', 'trap latino', 'urbano latino']",75
+16798,Dalex,4869310,"['r&b en espanol', 'reggaeton', 'trap latino', 'urbano latino']",71
+16808,George Ezra,4140882,"['folk-pop', 'neo-singer-songwriter', 'talent show']",70
+16818,Felix Jaehn,1298719,"['edm', 'german dance', 'pop dance', 'tropical house']",71
+16828,LUDMILLA,6845825,"['funk carioca', 'funk pop', 'funk rj', 'pagode baiano', 'pop nacional']",73
+16838,Niska,5247252,"['french hip hop', 'pop urbaine', 'r&b francais']",68
+16848,Rae Sremmurd,7374763,"['melodic rap', 'mississippi hip hop', 'pop rap', 'rap', 'trap']",69
+16858,ILLENIUM,1455310,"['edm', 'melodic dubstep', 'pop dance']",69
+16868,Dilsinho,4221471,"['pagode', 'pagode novo', 'sertanejo', 'sertanejo universitario']",71
+16878,LUCKI,683863,['plugg'],73
+16888,X Ambassadors,2958727,"['modern alternative rock', 'modern rock', 'stomp pop']",69
+16898,Madison Beer,6051704,['pop'],70
+16908,Dove Cameron,4522140,['pop'],69
+16918,Sam Feldt,774594,"['edm', 'pop dance', 'tropical house']",68
+16928,Darshan Raval,14810702,"['desi pop', 'filmi', 'gujarati pop', 'modern bollywood']",74
+16938,Milky Chance,1855437,"['german pop', 'modern rock']",69
+16948,Jess Glynne,3044246,"['dance pop', 'pop', 'uk pop']",70
+16958,Capo Plaza,3672566,"['italian hip hop', 'italian pop', 'trap italiana']",68
+16968,Dan + Shay,3092699,"['contemporary country', 'country', 'country road']",69
+16978,Mc Kevin,3135737,"['funk 150 bpm', 'funk carioca', 'funk rj']",74
+16988,Jonita Gandhi,1016439,"['filmi', 'modern bollywood']",69
+16998,Jaymes Young,905583,['indie poptimism'],66
+17008,The Walters,573239,"['chicago indie', 'pov: indie']",67
+17018,Beach Weather,486235,['pov: indie'],67
+17028,Latto,1306089,['trap queen'],81
+17038,Justine Skye,811578,"['pop r&b', 'r&b']",64
+17048,Tion Wayne,942369,"['london rap', 'uk hip hop']",65
+17058,Miggy Dela Rosa,5752,"['dance pop', 'pop dance']",62
+17065,Ovi,1116779,"['corrido', 'corridos tumbados', 'sad sierreno', 'trap latino', 'urbano latino']",66
+17075,Ferrugem,5473428,"['pagode', 'pagode novo', 'sertanejo universitario']",71
+17085,Rochak Kohli,733814,"['desi pop', 'modern bollywood']",69
+17095,Omar Varela,44588,['gaming dubstep'],65
+17105,Sam Hunt,2314133,"['contemporary country', 'country', 'country pop', 'modern country rock']",67
+17115,EXO,9779226,"['k-pop', 'k-pop boy group']",68
+17125,Nikhita Gandhi,433040,"['desi pop', 'modern bollywood']",70
+17135,Masego,1234929,"['alternative r&b', 'indie soul']",67
+17145,Rainbow Kitten Surprise,1028189,['pov: indie'],66
+17155,KAYTRANADA,1323502,"['alternative r&b', 'escape room', 'indie soul', 'lgbtq+ hip hop']",67
+17165,Charles Ans,1545150,"['mexican hip hop', 'rap conciencia']",66
+17175,Jairo Vera,859334,"['mambo chileno', 'urbano chileno']",68
+17185,Sofía Reyes,3121373,"['latin pop', 'latin viral pop', 'mexican pop', 'reggaeton']",66
+17195,Fifth Harmony,16245923,"['girl group', 'pop', 'talent show']",66
+17205,The Vamps,5843234,"['boy band', 'pop']",64
+17215,XXXTENTACION,43584862,"['emo rap', 'miami hip hop']",83
+17225,Doja Cat,27329412,"['dance pop', 'pop']",86
+17235,Lil Uzi Vert,16219308,"['hip hop', 'melodic rap', 'philly rap', 'rage rap', 'rap']",83
+17245,SZA,15801837,"['pop', 'r&b', 'rap']",87
+17255,$uicideboy$,6316230,"['cloud rap', 'dark trap', 'new orleans rap', 'underground hip hop']",84
+17265,Morgan Wallen,7702596,['contemporary country'],85
+17275,Lil Peep,11008472,"['cloud rap', 'emo rap', 'lgbtq+ hip hop']",80
+17285,Shawn Mendes,42773244,"['canadian pop', 'pop', 'viral pop']",80
+17295,Luke Combs,9601597,"['contemporary country', 'country']",81
+17305,Sech,12021216,"['panamanian pop', 'reggaeton', 'trap latino', 'urbano latino']",76
+17315,Brent Faiyaz,4947176,"['r&b', 'rap']",82
+17325,Kodak Black,9928628,"['florida drill', 'florida rap', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']",79
+17335,Marília Mendonça,33452173,"['arrocha', 'sertanejo', 'sertanejo universitario']",77
+17345,Kali Uchis,5653563,['colombian pop'],81
+17355,Chase Atlantic,5991457,['alternative r&b'],77
+17365,League of Legends,1736684,"['speedrun', 'video game music']",77
+17375,Sfera Ebbasta,5802858,"['italian hip hop', 'italian pop', 'trap italiana', 'trap latino']",79
+17385,Dean Lewis,2831052,"['australian pop', 'pop']",73
+17395,Ninho,8975359,"['french hip hop', 'pop urbaine']",76
+17405,Lenny Tavárez,2405215,"['reggaeton', 'trap argentino', 'trap latino', 'urbano latino']",75
+17415,Maiara & Maraisa,13425968,"['sertanejo', 'sertanejo pop', 'sertanejo universitario']",73
+17425,Lost Frequencies,2763739,"['belgian edm', 'edm', 'pop dance', 'tropical house']",75
+17435,Anne-Marie,11415545,['pop'],76
+17445,Swae Lee,1892623,"['melodic rap', 'rap', 'trap']",77
+17455,Santa Fe Klan,8671198,['mexican hip hop'],74
+17465,Kehlani,7336413,"['pop', 'r&b', 'rap']",71
+17475,Mc Don Juan,5257709,"['arrocha', 'batidao romantico', 'funk carioca', 'funk mtg', 'funk paulista']",76
+17485,Gera MX,4559673,"['mexican hip hop', 'rap conciencia']",74
+17495,beabadoobee,2740507,"['bedroom pop', 'bubblegrunge', 'indie pop', 'pov: indie']",74
+17505,Sigala,1581184,"['dance pop', 'edm', 'pop dance', 'uk dance', 'uk pop']",67
+17515,Brytiago,6749190,"['reggaeton', 'trap latino', 'urbano latino']",73
+17525,Red Velvet,8881291,"['k-pop', 'k-pop girl group']",72
+17535,Kane Brown,5226037,"['black americana', 'contemporary country', 'country', 'country road']",70
+17545,LANY,5685165,['la pop'],71
+17555,Ella Henderson,1606822,"['dance pop', 'pop dance', 'talent show', 'uk pop']",70
+17565,Diego & Victor Hugo,1445690,"['latin pop', 'ranchera']",62
+17575,James Hype,295238,"['deep groove house', 'house', 'pop dance', 'uk dance']",67
+17585,Jax Jones,1149447,"['dance pop', 'edm', 'house', 'pop dance', 'uk dance', 'uk pop']",70
+17595,Seafret,898220,['folk-pop'],67
+17605,Zé Felipe,4826248,"['agronejo', 'arrocha', 'arrochadeira', 'sertanejo', 'sertanejo universitario']",64
+17615,Bedoes 2115,1504404,"['polish hip hop', 'polish trap']",65
+17625,Ghostemane,3321333,"['cloud rap', 'dark trap', 'florida rap']",69
+17635,Young Nudy,1353250,"['pluggnb', 'rap', 'trap']",70
+17645,B Praak,8682429,"['desi pop', 'filmi', 'punjabi pop']",71
+17655,Neo Beats,89954,['trap brasileiro'],63
+17665,Pinguini Tattici Nucleari,1653735,"['bergamo indie', 'italian indie pop', 'italian pop', 'milan indie']",68
+17675,Saweetie,1954479,"['cali rap', 'trap queen']",66
+17685,Gryffin,945103,"['edm', 'pop dance']",65
+17695,Hailee Steinfeld,8911658,['pop'],67
+17705,Blxst,441594,"['pop rap', 'westcoast flow']",67
+17715,Mc Davi,3788213,"['funk carioca', 'funk mtg', 'funk paulista']",72
+17725,Lainey Wilson,406917,"['contemporary country', 'modern country pop']",70
+17735,Men I Trust,1506421,"['indie pop', 'pov: indie']",70
+17745,Hungria Hip Hop,9241161,"['brazilian hip hop', 'rap df']",70
+17755,Fetty Wap,4570896,"['new jersey rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",68
+17765,Naps,2866645,"['french hip hop', 'pop urbaine', 'rap marseille']",67
+17775,Kelsea Ballerini,1105894,"['contemporary country', 'country']",68
+17785,Night Lovell,1330481,"['aesthetic rap', 'canadian hip hop', 'canadian trap', 'cloud rap', 'dark trap', 'ottawa rap']",65
+17795,The Score,1365196,"['modern alternative rock', 'pov: indie']",66
+17805,Ofenbach,554347,['pop dance'],67
+17815,Smino,865457,['alternative r&b'],64
+17825,Joyner Lucas,2112252,"['boston hip hop', 'hip hop', 'pop rap', 'rap']",67
+17835,Chelsea Cutler,699229,['alt z'],66
+17845,Moira Dela Torre,9695313,['opm'],64
+17855,Los Gemelos De Sinaloa,677815,"['corrido', 'corridos tumbados', 'sad sierreno', 'sierreno']",63
+17865,Angèle,2687555,"['belgian pop', 'french pop', 'variete francaise']",63
+17875,Loud Luxury,653306,"['edm', 'pop dance']",67
+17885,I Prevail,1308674,"['alternative metal', 'nu-metalcore']",66
+17895,DIVINE,5370500,"['desi hip hop', 'desi trap', 'hindi hip hop']",63
+17905,Ricky Montgomery,1629368,"['la indie', 'pop', 'pov: indie']",65
+17915,Matheus Fernandes,788546,"['arrocha', 'forro']",68
+17925,Vishal Mishra,1387817,"['desi pop', 'filmi', 'modern bollywood']",71
+17935,Post Malone,42756805,"['dfw rap', 'melodic rap', 'pop', 'rap']",86
+17945,Dua Lipa,42193911,"['dance pop', 'pop', 'uk pop']",85
+17955,Bad Bunny,76861782,"['reggaeton', 'trap latino', 'urbano latino']",95
+17965,Rauw Alejandro,19400344,"['puerto rican pop', 'reggaeton', 'trap latino', 'urbano latino']",85
+17975,Myke Towers,13258698,"['reggaeton', 'trap latino', 'urbano latino']",84
+17985,Marshmello,35123846,"['brostep', 'edm', 'pop', 'progressive electro house']",82
+17995,BLACKPINK,46978546,"['k-pop', 'k-pop girl group', 'pop']",80
+18005,Morat,10050742,"['colombian pop', 'latin viral pop']",79
+18015,Eladio Carrion,5457495,"['trap boricua', 'trap latino', 'trap triste', 'urbano latino']",80
+18025,A Boogie Wit da Hoodie,7836556,"['melodic rap', 'rap', 'trap']",78
+18035,Rels B,6095532,"['r&b en espanol', 'spanish hip hop', 'trap latino', 'urbano espanol', 'urbano latino']",79
+18045,Camila Cabello,32075766,"['dance pop', 'pop']",77
+18055,RAYE,1068955,"['uk contemporary r&b', 'uk pop']",78
+18065,Cardi B,22644473,"['pop', 'rap']",77
+18075,Jack Harlow,3118816,"['deep underground hip hop', 'kentucky hip hop', 'pop rap', 'rap']",82
+18085,Freddie Dredd,1678820,"['aesthetic rap', 'meme rap', 'phonk']",71
+18095,Lil Yachty,9448988,"['atl hip hop', 'melodic rap', 'rap', 'trap']",76
+18105,Phoebe Bridgers,2050971,"['indie pop', 'la indie', 'pov: indie']",76
+18115,SEVENTEEN,10566534,"['k-pop', 'k-pop boy group']",78
+18125,Shiloh Dynasty,1657595,"['lo-fi chill', 'sad lo-fi']",73
+18135,JID,1408587,"['hip hop', 'pop rap', 'rap', 'underground hip hop']",74
+18145,Danny Ocean,5305763,"['pop venezolano', 'reggaeton', 'trap latino', 'urbano latino']",74
+18155,Orochi,4219256,"['brazilian hip hop', 'trap brasileiro']",71
+18165,Jubin Nautiyal,14420668,"['filmi', 'hare krishna', 'modern bollywood']",73
+18175,Damso,4883987,"['belgian hip hop', 'french hip hop', 'pop urbaine', 'r&b francais', 'rap belge', 'rap conscient']",71
+18185,Lauv,6051269,['pop'],74
+18195,Bryant Myers,10031507,"['reggaeton', 'reggaeton flow', 'trap latino', 'urbano latino']",78
+18205,Moneybagg Yo,4141076,"['memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",73
+18215,6LACK,4536998,"['atl hip hop', 'melodic rap', 'r&b', 'rap', 'trap']",72
+18225,Joel Corry,377681,"['dance pop', 'pop dance', 'uk dance']",71
+18235,Dermot Kennedy,1447905,"['folk-pop', 'irish pop', 'uk pop']",70
+18245,Alessia Cara,11904710,"['canadian contemporary r&b', 'canadian pop', 'pop']",71
+18255,Ruth B.,3172656,"['alt z', 'canadian contemporary r&b', 'canadian pop', 'pop']",70
+18265,PNL,7863536,"['french hip hop', 'pop urbaine']",70
+18275,NAV,3413966,"['canadian hip hop', 'canadian trap', 'melodic rap', 'rap', 'trap']",71
+18285,Gabito Ballesteros,1316567,"['corrido', 'sierreno']",81
+18295,Murilo Huff,829520,"['arrocha', 'sertanejo', 'sertanejo universitario']",70
+18305,Cavetown,3854668,"['bedroom pop', 'indie pop', 'pov: indie']",68
+18315,Jessie Reyez,1377268,"['canadian contemporary r&b', 'canadian pop']",66
+18325,Vacations,770466,"['newcastle nsw indie', 'pov: indie']",70
+18335,OFFICIAL HIGE DANDISM,6119530,"['anime', 'anime rock', 'j-pop']",69
+18345,Montell Fish,1106327,['pittsburgh rap'],72
+18355,Jonas Blue,3835355,"['pop', 'pop dance', 'tropical house', 'uk dance']",72
+18365,Gustavo Mioto,5630536,"['arrocha', 'sertanejo', 'sertanejo universitario']",72
+18375,White 2115,1169075,"['polish hip hop', 'polish trap']",66
+18385,Mc IG,2157121,"['funk carioca', 'funk consciente', 'funk mtg', 'funk paulista']",77
+18395,Jeremy Zucker,2228805,"['alt z', 'electropop', 'pop']",68
+18405,Jimin,6904697,['k-pop'],81
+18408,Nio Garcia,5300619,"['reggaeton', 'trap latino', 'urbano latino']",68
+18418,Original Broadway Cast of Hamilton,426104,"['broadway', 'show tunes']",70
+18428,SYML,691371,"['indie anthem-folk', 'modern indie pop']",69
+18438,Leon Bridges,1591536,"['modern blues', 'neo soul', 'soul']",69
+18448,Tom Grennan,510116,['uk pop'],65
+18458,Louis Tomlinson,7053011,['pop'],65
+18468,Mrs. GREEN APPLE,3137226,"['anime rock', 'j-pop', 'j-rock']",73
+18478,Rashmi Virag,30931,"['desi pop', 'modern bollywood']",66
+18488,Lil Tracy,733680,"['cloud rap', 'melodic rap']",69
+18498,Cheat Codes,2185157,"['edm', 'pop', 'pop dance']",64
+18508,Toby Fox,1165275,"['indie game soundtrack', 'otacore', 'pixel']",68
+18518,PnB Rock,4044110,"['melodic rap', 'rap', 'trap']",65
+18528,SAINt JHN,1011628,"['melodic rap', 'slap house']",65
+18538,Sasha Alex Sloan,1383110,['alt z'],67
+18548,Ashe,1518122,['alt z'],68
+18558,Capital Bra,4391242,['german hip hop'],66
+18568,Billie Eilish,88962629,"['art pop', 'pop']",86
+18578,Joji,9098547,['viral pop'],78
+18588,ROSALÍA,8020891,"['latin viral pop', 'pop', 'r&b en espanol']",78
+18598,Central Cee,4350878,['melodic drill'],80
+18608,Manuel Turizo,13275189,"['colombian pop', 'reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",80
+18618,Olivia Rodrigo,30034694,['pop'],87
+18628,Trippie Redd,9155869,"['melodic rap', 'rap', 'trap']",78
+18638,YoungBoy Never Broke Again,12070556,"['baton rouge rap', 'rap']",80
+18648,DaBaby,11381433,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']",77
+18658,Christian Nodal,14086749,"['mariachi', 'musica mexicana', 'ranchera']",77
+18668,Conan Gray,8650925,"['bedroom pop', 'pop', 'pov: indie']",76
+18678,070 Shake,500607,['new jersey rap'],69
+18688,TINI,7183574,"['latin pop', 'latin viral pop', 'pop argentino']",76
+18698,MC Cabelinho,6220528,"['funk consciente', 'trap brasileiro', 'trap funk']",73
+18708,Grupo Firme,11380159,"['musica mexicana', 'norteno', 'sierreno']",78
+18718,Sidhu Moose Wala,26074909,"['desi hip hop', 'pakistani hip hop', 'punjabi hip hop', 'punjabi pop']",76
+18728,Hugo & Guilherme,60591,['thai folk'],44
+18738,Rex Orange County,5725563,"['bedroom pop', 'pov: indie']",72
+18748,Elley Duhé,476137,['alt z'],72
+18758,Calum Scott,5423473,['pop'],73
+18768,Shiva,1790066,"['italian hip hop', 'italian pop', 'trap italiana']",73
+18778,ZAYN,22863124,"['pop', 'uk pop']",73
+18788,Lyanno,1237763,"['reggaeton', 'reggaeton flow', 'trap boricua', 'trap latino', 'urbano latino']",69
+18798,La Joaqui,1308090,"['argentine hip hop', 'rap latina']",66
+18808,Niall Horan,9857577,['pop'],74
+18818,Dave,3980454,['uk hip hop'],77
+18828,Clairo,4282162,"['bedroom pop', 'indie pop', 'pov: indie']",74
+18838,Brray,330406,"['reggaeton', 'reggaeton flow', 'trap latino', 'urbano latino']",73
+18848,Ski Mask The Slump God,5592149,"['hip hop', 'miami hip hop', 'pop rap', 'rap', 'trap']",70
+18858,Noriel,7516743,"['reggaeton', 'trap latino', 'urbano latino']",73
+18868,Grupo Arriesgado,881626,"['corrido', 'corridos tumbados', 'norteno', 'sad sierreno', 'sierreno']",65
+18878,Matuê,9559494,"['r&b brasileiro', 'rap cearense', 'trap brasileiro']",72
+18888,NCT DREAM,7370336,['k-pop boy group'],70
+18898,Karan Aujla,7129181,"['desi hip hop', 'punjabi pop']",75
+18908,NEFFEX,2426112,[],69
+18918,bbno$,1292699,"['canadian hip hop', 'dark trap', 'meme rap']",69
+18928,Dominic Fike,1404631,"['alternative pop rock', 'pov: indie']",74
+18938,Aya Nakamura,4323096,"['basshall', 'pop urbaine', 'r&b francais']",67
+18948,Pineapple StormTv,8891225,"['rap baiano', 'trap baiano']",69
+18958,CKay,1378700,"['afro r&b', 'afrobeats']",66
+18968,Mau y Ricky,6849034,"['latin pop', 'pop venezolano', 'reggaeton', 'urbano latino']",68
+18978,Young Cister,410150,"['trap chileno', 'urbano chileno']",64
+18988,Yung Gravy,1626657,"['meme rap', 'minnesota hip hop']",66
+18998,Bazzi,5538009,['pop'],68
+19008,Soolking,4948087,"['french hip hop', 'pop urbaine', 'r&b francais', 'rap algerien']",69
+19018,Pablo Chill-E,1101738,"['trap chileno', 'urbano chileno', 'urbano latino']",67
+19028,NCT 127,7257057,"['k-pop', 'k-pop boy group']",69
+19038,Two Feet,1897572,"['indie poptimism', 'modern rock']",68
+19048,Jorja Smith,3305411,"['r&b', 'uk contemporary r&b']",71
+19058,Bad Omens,946036,['american metalcore'],70
+19068,Beret,2925811,"['electro latino', 'spanish hip hop', 'spanish pop']",67
+19078,James Carter,37695,"['pop dance', 'uk dance']",65
+19088,JIN,7192151,['k-pop'],68
+19096,Ben&Ben,1082285,['pop'],68
+19106,Marca MP,2119386,"['corrido', 'corridos tumbados', 'musica mexicana', 'norteno', 'sad sierreno', 'sierreno']",66
+19116,Bizarrap,13303937,"['argentine hip hop', 'pop venezolano', 'trap argentino', 'trap latino', 'urbano latino']",83
+19126,Harry Styles,30208907,['pop'],83
+19136,Lil Baby,15889614,"['atl hip hop', 'atl trap', 'rap', 'trap']",84
+19146,Måneskin,8134099,"['indie rock italiano', 'italian pop']",78
+19156,Stray Kids,13436788,"['k-pop', 'k-pop boy group', 'pop']",82
+19166,Mora,3279110,"['trap latino', 'urbano latino']",84
+19176,Fuerza Regida,5787619,"['corrido', 'corridos tumbados', 'sad sierreno', 'sierreno']",86
+19186,Lewis Capaldi,11933834,"['pop', 'uk pop']",78
+19196,Ava Max,6216853,['pop'],76
+19206,Yeat,3540465,"['pluggnb', 'rage rap']",81
+19216,Kim Petras,1005738,"['alt z', 'pop', 'transpop']",73
+19226,Jhayco,7019203,"['reggaeton', 'trap latino', 'urbano latino']",81
+19236,Roddy Ricch,10020530,"['melodic rap', 'rap', 'trap']",75
+19246,Tate McRae,4072673,"['alt z', 'pop']",82
+19256,Paulo Londra,22737245,"['argentine hip hop', 'trap argentino', 'trap latino', 'urbano latino']",73
+19266,Rod Wave,5914331,['florida rap'],79
+19276,Xamã,2705506,"['brazilian hip hop', 'trap brasileiro']",69
+19286,Ovy On The Drums,263231,"['colombian pop', 'reggaeton colombiano', 'urbano latino']",72
+19296,L7NNON,3630855,"['funk rj', 'pop rap brasileiro', 'trap brasileiro']",70
+19306,Aitana,2822760,"['latin talent show', 'latin viral pop', 'spanish pop']",72
+19316,Sleepy Hallow,1637525,"['brooklyn drill', 'nyc rap']",74
+19326,WIU,1537145,['trap brasileiro'],68
+19336,Em Beihold,392023,"['alt z', 'gen z singer-songwriter']",70
+19346,YSY A,2300255,"['argentine hip hop', 'trap argentino']",74
+19356,King Von,3520514,['chicago rap'],74
+19366,Luísa Sonza,4998265,"['funk carioca', 'pop nacional']",75
+19376,Noah Kahan,1578271,['pov: indie'],82
+19386,keshi,3190815,['chill r&b'],72
+19396,HARDY,583054,"['contemporary country', 'modern country pop']",72
+19406,KHEA,5309881,"['argentine hip hop', 'trap argentino', 'trap latino', 'trap triste', 'urbano latino']",72
+19416,Key Glock,1781502,"['memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",74
+19426,D-Block Europe,1231431,"['melodic drill', 'uk hip hop']",76
+19436,Trueno,5244595,"['argentine hip hop', 'bases de freestyle', 'trap argentino', 'trap latino', 'urbano latino']",72
+19446,Ryan Castro,1987475,"['reggaeton', 'trap colombiano', 'trap latino', 'urbano latino']",77
+19456,Omar Apollo,895811,"['bedroom pop', 'bedroom soul']",66
+19466,NIKI,3084270,['indonesian r&b'],73
+19476,WOS,4034469,"['argentine indie', 'trap argentino']",68
+19486,YNW Melly,9799172,"['melodic rap', 'rap']",71
+19496,LIT killah,5156212,"['argentine hip hop', 'trap argentino', 'trap latino', 'trap triste', 'urbano latino']",72
+19506,Aitch,1075971,"['manchester hip hop', 'uk hip hop']",65
+19516,$NOT,1440793,"['aesthetic rap', 'cloud rap', 'florida rap', 'underground hip hop']",67
+19526,Cazzu,6597763,"['argentine hip hop', 'rap latina', 'reggaeton', 'trap argentino', 'trap latino', 'urbano latino']",70
+19536,Tayc,93162122,['pop'],100
+19546,Jordan Davis,1078411,['contemporary country'],71
+19556,6ix9ine,6964850,['emo rap'],67
+19566,dazy,11527,[],64
+19573,42 Dugg,923800,"['detroit trap', 'southern hip hop', 'trap']",68
+19583,Tony Aguirre,349872,"['corrido', 'corridos tumbados', 'sierreno']",68
+19593,Juice WRLD,31428170,"['chicago rap', 'melodic rap', 'rap']",84
+19603,Polo G,10390337,"['chicago rap', 'rap']",79
+19613,Luis R Conriquez,3823673,"['corrido', 'corridos tumbados', 'norteno', 'sad sierreno', 'sierreno']",78
+19623,The Kid LAROI,4896116,['australian hip hop'],81
+19633,Lil Nas X,12486412,['lgbtq+ hip hop'],74
+19643,Maria Becerra,5260384,['pop argentino'],80
+19653,MC Ryan SP,3491850,['funk paulista'],80
+19663,Natanael Cano,9514550,"['corrido', 'corridos tumbados', 'musica mexicana', 'sad sierreno', 'sierreno']",85
+19673,JVKE,3417469,"['modern indie pop', 'pov: indie', 'singer-songwriter pop']",75
+19683,Lil Tjay,7466381,"['brooklyn drill', 'melodic rap', 'nyc rap', 'rap']",77
+19693,Summer Walker,5666728,"['r&b', 'rap']",77
+19703,Baby Keem,1842610,"['hip hop', 'rap']",75
+19713,Giveon,3311030,['r&b'],75
+19723,Tiago PZK,4253359,"['trap argentino', 'trap latino', 'urbano latino']",75
+19733,Geolier,1605420,"['italian hip hop', 'italian pop', 'rap napoletano', 'trap italiana']",74
+19743,Lil Tecca,6566298,"['melodic rap', 'pluggnb', 'rap']",79
+19753,Polimá Westcoast,528583,"['trap chileno', 'trap triste', 'urbano chileno']",67
+19763,Kevin Kaarl,6199847,['indie triste'],71
+19773,Lofi Fruits Music,933913,"['lo-fi cover', 'lo-fi product']",68
+19783,Chill Fruits Music,91317,"['lo-fi cover', 'lo-fi product']",67
+19793,girl in red,6580075,"['bedroom pop', 'indie pop', 'norwegian indie', 'pov: indie']",73
+19803,(G)I-DLE,7868594,['k-pop girl group'],73
+19813,Tems,1306427,"['afro r&b', 'alte', 'nigerian pop']",72
+19823,Connor Price,943291,['singer-songwriter pop'],69
+19833,Ke Personajes,2991923,['cumbia pop'],77
+19843,Edgardo Nuñez,1078366,"['corrido', 'corridos tumbados', 'sad sierreno', 'sierreno']",69
+19853,iann dior,1792454,['melodic rap'],69
+19863,Grupo Menos É Mais,3029313,"['pagode', 'pagode novo']",73
+19873,Dallass,76946,['trap brasileiro'],70
+19883,Apache 207,2637940,['german hip hop'],70
+19893,24kGoldn,2117389,"['cali rap', 'pop rap']",68
+19903,Kenia OS,3943152,"['latin viral pop', 'reggaeton mexicano', 'urbano mexicano']",70
+19913,Mc Poze do Rodo,5083124,['funk carioca'],68
+19923,ATEEZ,3343551,"['k-pop', 'k-pop boy group']",69
+19933,Coi Leray,669620,"['new jersey underground rap', 'trap queen']",72
+19943,Callejero Fino,1428266,['rkt'],66
+19953,Ajaxx,26441,['trap brasileiro'],68
+19963,j-hope,16526460,"['k-pop', 'k-rap']",68
+19973,Los Dos Carnales,2676601,"['corrido', 'musica mexicana', 'norteno', 'sierreno']",70
+19983,Teto,3096711,"['trap baiano', 'trap brasileiro']",68
+19993,Marcianeke,965396,"['reggaeton chileno', 'urbano chileno']",62
+20003,Zack Tabudlo,3560257,"['acoustic opm', 'opm', 'p-pop']",69
+20013,Junior H,11585788,"['corrido', 'corridos tumbados', 'musica mexicana', 'sad sierreno', 'sierreno']",88
+20023,Zach Bryan,2600088,"['classic oklahoma country', 'modern country pop']",86
+20033,Pop Smoke,13249522,"['brooklyn drill', 'rap']",78
+20043,Peso Pluma,9124422,"['corridos tumbados', 'sad sierreno']",90
+20053,Cris Mj,1578733,"['mambo chileno', 'urbano chileno']",75
+20063,Nicki Nicole,5241696,"['argentine hip hop', 'r&b argentino', 'trap argentino', 'trap latino', 'urbano latino']",76
+20073,TOMORROW X TOGETHER,9050968,"['k-pop', 'k-pop boy group']",77
+20083,Guilherme & Benuto,760487,"['agronejo', 'arrocha', 'sertanejo', 'sertanejo universitario']",74
+20093,Fred again..,1075807,"['edm', 'house', 'stutter house']",75
+20103,AP Dhillon,4473809,"['desi pop', 'punjabi hip hop', 'punjabi pop']",74
+20113,Eslabon Armado,4965952,"['corrido', 'corridos tumbados', 'sad sierreno', 'sierreno']",77
+20123,Øneheart,436872,['hardwave'],72
+20133,Kotim,129997,['funk carioca'],66
+20143,YOASOBI,6748337,"['j-pop', 'japanese teen pop']",75
+20153,Blessd,2848151,"['reggaeton', 'urbano latino']",71
+20163,Ado,3391087,"['j-pop', 'japanese teen pop']",73
+20173,Tiakola,1487163,"['french hip hop', 'pop urbaine']",72
+20183,ITZY,6259201,"['k-pop', 'k-pop girl group']",70
+20193,sped up nightcore,143167,"['nightcore', 'sped up']",73
+20203,Morad,2278575,"['drill espanol', 'urbano espanol']",76
+20213,UZI,16219308,"['hip hop', 'melodic rap', 'philly rap', 'rage rap', 'rap']",83
+20223,Gazo,2077005,"['drill francais', 'french hip hop', 'pop urbaine', 'r&b francais', 'rap francais']",75
+20233,Vaundy,2001413,"['j-pop', 'japanese soul']",70
+20243,Felipe Amorim,1351528,"['arrocha', 'arrochadeira', 'forro']",74
+20253,NATTAN,2062885,['forro'],71
+20263,Gurinder Gill,558468,"['punjabi hip hop', 'punjabi pop']",68
+20273,Solfeggio Healing Frequencies MT,75008,"['healing hz', 'meditation', 'solfeggio product']",73
+20283,Kato,126517,['anime lo-fi'],63
+20293,Lvbel C5,1697583,"['turkce drill', 'turkish hip hop', 'turkish trap']",65
+20303,CoComelon,531867,"[""children's music"", 'nursery', ""preschool children's music""]",70
+20313,Quevedo,3326168,"['rap canario', 'trap latino', 'urbano latino']",83
+20323,Stephen Sanchez,972762,['gen z singer-songwriter'],73
+20333,Mc Paiva ZS,3554163,"['funk carioca', 'funk rj']",71
+20343,MEDUZA,688674,"['edm', 'pop dance', 'pop house', 'uk dance']",73
+20353,Standly,852438,['urbano chileno'],68
+20363,Pailita,1279579,"['drill chileno', 'urbano chileno', 'urbano latino']",69
+20373,Mainstreet,407328,"['trap carioca', 'trap funk']",72
+20383,Miracle Tones,137064,"['binaural', 'healing hz', 'meditation']",77
+20393,Ivan Cornejo,1898485,['sad sierreno'],73
+20403,Fujii Kaze,2772651,['japanese teen pop'],70
+20413,Hotel Ugly,443900,['modern indie pop'],73
+20423,ENHYPEN,7022203,"['anime', 'k-pop boy group']",76
+20433,Oscar Maydon,655529,"['corrido', 'corridos tumbados', 'sierreno']",74
+20443,DVRST,415955,"['chill phonk', 'drift phonk']",65
+20453,Nicky Youre,197024,['singer-songwriter pop'],65
+20462,Tz da Coronel,1967002,"['trap brasileiro', 'trap funk']",72
+20472,d4vd,1955263,"['bedroom pop', 'bedroom r&b']",76
+20482,Ana Castela,3622570,"['agronejo', 'sertanejo', 'sertanejo pop']",80
+20492,Kordhell,1013194,['drift phonk'],72
+20502,Mari Fernandez,2424276,"['agronejo', 'arrocha', 'arrochadeira', 'forro']",73
+20512,Rosa Linn,314854,['alt z'],67
+20522,PinkPantheress,2613293,['bedroom pop'],76
+20532,BoyWithUke,3815791,['sad rap'],73
+20542,FIFA Sound,173999,['football'],61
+20549,Eden Muñoz,893711,"['corrido', 'sierreno']",74
+20559,INTERWORLD,563248,['phonk brasileiro'],70
+20569,Silk Sonic,840280,['neo soul'],69
+20579,Rain Fruits Sounds,8828,['sleep'],55
+20589,João Gomes,6582662,"['forro', 'piseiro']",70
+20599,Oruam,2179636,['trap brasileiro'],69
+20609,Shubh,2333794,['punjabi hip hop'],74
+20615,Bailey Zimmerman,765472,"['contemporary country', 'modern country pop']",72
+20625,IVE,3152755,['k-pop girl group'],74
+20635,Arcane,160692,[],67
+20645,Sleepy Penguin,11261,['white noise'],46
+20655,Stars Music Chile,30956,['urbano chileno'],63
+20656,AYLIVA,1077302,['german pop'],74
+20666,NewJeans,6154709,"['k-pop', 'k-pop girl group']",80
+20672,Grupo Frontera,2347514,['musica chihuahuense'],83
+20682,Jung Kook,11278050,['k-pop'],89
+20689,LE SSERAFIM,3529497,['k-pop girl group'],75
+20699,ThxSoMch,307530,['bedroom r&b'],66
+20708,SICK LEGEND,179844,['gym hardstyle'],66
