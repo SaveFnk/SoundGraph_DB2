@@ -1,206 +1,194 @@
-award_id,award_name
-0,MOJO Awards
-1,Grammy Award for Best Rock Performance by a Duo or Group with Vocal
-2,MTV Europe Music Award for Best Album
-3,Grammy Award for Best Rock Album
-4,Grammy Award for Best Dance/Electronic Album
-5,Grammy Award for Album of the Year
-6,Grammy Award for Best Pop Duo/Group Performance
-7,MTV Europe Music Award for Best Group
-8,Grammy Award for Best Melodic Rap Performance
-9,Grammy Award for Record of the Year
-10,Grammy Award for Best Male Rock Vocal Performance
-11,Johnny Mercer Award
-12,Grammy Award for Best Male Pop Vocal Performance
-13,Grammy Lifetime Achievement Award
-14,Grammy Award for Best R&B Song
-15,Grammy Award for Best Music Video
-16,Grammy Award for Song of the Year
-17,Grammy Award for Best Pop Collaboration with Vocals
-18,Academy Award for Best Original Song
-19,Grammy Award for Best Pop Solo Performance
-20,Grammy Award for Best Progressive R&B Album
-21,Los Premios MTV Latinoamérica
-22,Latin Grammy Award for Best Female Pop Vocal Album
-23,Billboard Latin Music Awards
-24,Grammy Award for Best Pop Vocal Album
-25,Grammy Trustees Award
-26,American Music Award for Favorite Rap/Hip-Hop Artist
-27,Silver Harp
-28,Golden Harp
-29,Grammy Awards
-30,MTV Europe Music Award for Best Dutch Act
-31,MusiCares Person of the Year
-32,Golden Globe Award for Best Original Song
-33,Grammy Award for Best Rap Performance
-34,Latin Grammy Award for Best Ranchero/Mariachi Album
-35,Grammy Award for Best Contemporary R&B Album
-36,Grammy Award for Best Female R&B Vocal Performance
-37,Grammy Award for Best Traditional R&B Performance
-38,Grammy Award for Best R&B Performance by a Duo or Group with Vocals
-39,Grammy Award for Best Female Pop Vocal Performance
-40,Latin Grammy Award for Best Tropical Song
-41,Rockbjörnen
-42,Echo Music Prize
-43,VIVA Comet Awards
-44,American Music Award for Favorite Pop/Rock Female Artist
-45,MTV Europe Music Award for Best R&B
-46,Bollywood Movie Award – Best Music Director
-47,Broadcast Film Critics Association Award for Best Song
-48,Academy Award for Best Original Score
-49,BAFTA Award for Best Original Music
-50,Polar Music Prize
-51,Juno Award for International Entertainer of the Year
-52,"Grammy Award for Best Arrangement, Instrumental and Vocals"
-53,Latin Grammy Award for Best Rock Song
-54,Latin Grammy Award for Best Rock Album
-55,"Latin Grammy Award for Best Rock Vocal Album, Duo or Group"
-56,Gershwin Prize
-57,MTV Europe Music Award for Best Spanish Act
-58,ASCAP Latin Heritage Award
-59,Grammy Award for Best Solo Rock Vocal Performance
-60,Willie Nelson Lifetime Achievement Award
-61,Americana Award for Artist of the Year
-62,"""Spirit of Americana"" Free Speech Award"
-63,Grammy Award for Best Score Soundtrack for Visual Media
-64,Saturn Award for Best Music
-65,Academy Award for Best Original Song Score
-66,Academy Award for Best Original Dramatic Score
-67,Latin Grammy Lifetime Achievement Award
-68,International Dance Music Awards
-69,Latin Grammy Award for Best Reggaeton Performance
-70,Juno Award for Songwriter of the Year
-71,Juno International Achievement Award
-72,Jack Richardson Producer of the Year Award
-73,Q113081160
-74,Latin Grammy Award for Best Banda Album
-75,Georgia Music Hall of Fame
-76,Q113061396
-77,Q113060743
-78,Gramophone Award for Lifetime Achievement
-79,Grammy Award for Best Country Song
-80,Country Music Association Award for Entertainer of the Year
-81,American Music Award for Favorite Country Album
-82,QQ Music Awards
-83,Juno Award for Country Album of the Year
-84,Favorite Country New Artist
-85,Grammy Award for Best Country Album
-86,American Music Award for Favorite Country Female Artist
-87,Herbert von Karajan Music Prize
-88,Echo Klassik ensemble/orchestra of the year
-89,Grammy Award for Best Contemporary Folk Album
-90,Grammy Award for Best Americana Album
-91,Grammy Award for Best Traditional Folk Album
-92,Spellemann Award for pop record of the year
-93,Spellemann Award of the year
-94,Spellemann Award for the videoclip of l'any
-95,Jury Honorary Award in Spellemannprisen
-96,Shortlist Music Prize
-97,Americana Lifetime Achievement Award for Songwriting
-98,Grammy Award for Best Male Country Vocal Performance
-99,Favorite Country Male Artist
-100,Q113031066
-101,The Record of the Year
-102,Prêmio da Música Brasileira
-103,Glenn Gould Prize
-104,Avery Fisher Prize
-105,Léonie Sonning Music Prize
-106,Echo Klassik Award - Instrumentalist of the Year
-107,MOBO Awards
-108,Q24051798
-109,Hans von Bülow Medal
-110,Ernst von Siemens Music Prize
-111,Royal Philharmonic Society Gold Medal
-112,Grammy Award for Best Country & Western Recording
-113,Sibelius Medal
-114,Q113027229
-115,"Soul Train Music Award for Best R&B/Soul Album, Group Band or Duo"
-116,Covenant Awards
-117,European Film Award for Best Composer
-118,Juno Award for Video of the Year
-119,MTV Europe Music Award for Best Finnish Act
-120,ECHO Pop
-121,Muuvi
-122,Latin Grammy Award for Best Alternative Song
-123,Goya Award for Best Original Music
-124,Satellite Award for Best Original Song
-125,Pulitzer Prize for Music
-126,Latin Grammy Award for Best Pop/Rock Song
-127,Latin Grammy Award for Best Merengue/Bachata Album
-128,Spellemann Award for choir record of the year
-129,Icelandic Music Awards
-130,Soul Train Music Award for Best R&B/Soul or Rap New Artist
-131,Paul-Lincke-Ring
-132,Q113061906
-133,Juno Award for Best Selling Single
-134,GAFFA-Prisen
-135,Grammy Award for Best New Age Album
-136,Paul Acket Award
-137,Prize Franco Abbiati Italian Music
-138,Robert Schumann Prize of the City of Zwickau
-139,Latin Grammy Award for Best Christian Album (Spanish Language)
-140,Qwartz Electronic Music Awards
-141,Nordic Council Music Prize
-142,Gramophone Award for Recording of the Year
-143,Americana Trailblazer Award
-144,Latin Grammy Award for Best Cumbia/Vallenato Album
-145,Juno Award for Pop Album of the Year
-146,Juno Award for Single of the Year
-147,MTV Europe Music Award for Best German Act
-148,Q113081092
-149,Preis für Popkultur
-150,Golden Disk Awards
-151,Billboard Music Award for Digital Song of the Year
-152,LOS40 Music Awards
-153,MTV Europe Music Award for Best Italian Act
-154,Grammy Award for Best Rock Song
-155,Juno Award for Breakthrough Group of the Year
-156,Juno Award for Group of the Year
-157,YouTube Music Awards
-158,American Music Award for New Artist of the Year
-159,Kerrang! Awards
-160,South African Music Award for Group or Duo of the Year
-161,American Music Award for Favorite Contemporary Inspirational Artist
-162,All Africa Music Awards
-163,1 Live Krone
-164,Billboard Music Award for Top Christian Album
-165,Soul Train Music Best Gospel/Inspirational Award
-166,"Stellar Award for Rap, Hip Hop Gospel CD of the Year"
-167,Soul Train Music Award for Best Gospel/Inspirational Song
-168,Favorite Adult Contemporary New Artist
-169,Billboard 21 Under 21
-170,American Music Award for Single of the Year
-171,Q16682559
-172,MTV Europe Music Award for Best French Act
-173,Teen Choice Awards
-174,MTV Europe Music Award for Best Indian Act
-175,Q10680191
-176,Brit Award for British Female Solo Artist
-177,MTV Europe Music Award for Best US Act
-178,Edison Music Awards
-179,Americana Award for Emerging Act of the Year
-180,Premio Lo Nuestro
-181,iHeartRadio Music Awards
-182,Juno Award for Electronic Album of the Year
-183,Juno Award for Breakthrough Artist of the Year
-184,Kids' Choice Award for Favorite TV Actress
-185,GLAAD Media Award for Outstanding Music Artist
-186,Spellemannprisen for hit of the year
-187,the P3 award
-188,MTV Europe Music Award for Best Australian Act
-189,MTV Europe Music Award for Best Nordic Act
-190,MTV Europe Music Award for Best Swedish Act
-191,Spellemann Awards for best international success of the year
-192,Spellemann Award for singer of the year
-193,MTV MIAW Awards Brazil
-194,Latin Music Italian Awards
-195,Q51883034
-196,Soribada Best K-Music Awards
-197,Seoul Music Award for Rookie of the Year
-198,Latin Grammy Award for Best Rap/Hip Hop Song
-199,Latin Grammy Award for Best Recording Package
-200,First prize of the Eurovision Song Contest
-201,MTV Europe Music Award for Best Korean Act
-202,Q111705359
-203,P3 Gull for Artist of the Year
-204,Premios Musa
+award_id,award_name,award_type,award_category
+0,MOJO Awards,MOJO Awards,
+1,Grammy Award for Best Rock Performance by a Duo or Group with Vocal,Grammy Award,Best Rock Performance by a Duo or Group with Vocal
+2,MTV Europe Music Award for Best Album,MTV Europe Music Award,Best Album
+3,Grammy Award for Best Rock Album,Grammy Award,Best Rock Album
+4,Grammy Award for Best Dance/Electronic Album,Grammy Award,Best Dance/Electronic Album
+5,Grammy Award for Album of the Year,Grammy Award,Album of the Year
+6,Grammy Award for Best Pop Duo/Group Performance,Grammy Award,Best Pop Duo/Group Performance
+7,MTV Europe Music Award for Best Group,MTV Europe Music Award,Best Group
+8,Grammy Award for Best Melodic Rap Performance,Grammy Award,Best Melodic Rap Performance
+9,Grammy Award for Record of the Year,Grammy Award,Record of the Year
+10,Grammy Award for Best Male Rock Vocal Performance,Grammy Award,Best Male Rock Vocal Performance
+11,Johnny Mercer Award,Johnny Mercer Award,
+12,Grammy Award for Best Male Pop Vocal Performance,Grammy Award,Best Male Pop Vocal Performance
+13,Grammy Lifetime Achievement Award,Grammy Lifetime Achievement Award,
+14,Grammy Award for Best R&B Song,Grammy Award,Best R&B Song
+15,Grammy Award for Best Music Video,Grammy Award,Best Music Video
+16,Grammy Award for Song of the Year,Grammy Award,Song of the Year
+17,Grammy Award for Best Pop Collaboration with Vocals,Grammy Award,Best Pop Collaboration with Vocals
+18,Academy Award for Best Original Song,Academy Award,Best Original Song
+19,Grammy Award for Best Pop Solo Performance,Grammy Award,Best Pop Solo Performance
+20,Grammy Award for Best Progressive R&B Album,Grammy Award,Best Progressive R&B Album
+21,Los Premios MTV Latinoamérica,Los Premios MTV Latinoamérica,
+22,Latin Grammy Award for Best Female Pop Vocal Album,Latin Grammy Award,Best Female Pop Vocal Album
+23,Billboard Latin Music Awards,Billboard Latin Music Awards,
+24,Grammy Award for Best Pop Vocal Album,Grammy Award,Best Pop Vocal Album
+25,Grammy Trustees Award,Grammy Trustees Award,
+26,American Music Award for Favorite Rap/Hip-Hop Artist,American Music Award,Favorite Rap/Hip-Hop Artist
+27,Silver Harp,Silver Harp,
+28,Golden Harp,Golden Harp,
+29,Grammy Awards,Grammy Awards,
+30,MTV Europe Music Award for Best Dutch Act,MTV Europe Music Award,Best Dutch Act
+31,MusiCares Person of the Year,MusiCares Person of the Year,
+32,Golden Globe Award for Best Original Song,Golden Globe Award,Best Original Song
+33,Grammy Award for Best Rap Performance,Grammy Award,Best Rap Performance
+34,Latin Grammy Award for Best Ranchero/Mariachi Album,Latin Grammy Award,Best Ranchero/Mariachi Album
+35,Grammy Award for Best Contemporary R&B Album,Grammy Award,Best Contemporary R&B Album
+36,Grammy Award for Best Female R&B Vocal Performance,Grammy Award,Best Female R&B Vocal Performance
+37,Grammy Award for Best Traditional R&B Performance,Grammy Award,Best Traditional R&B Performance
+38,Grammy Award for Best R&B Performance by a Duo or Group with Vocals,Grammy Award,Best R&B Performance by a Duo or Group with Vocals
+39,Grammy Award for Best Female Pop Vocal Performance,Grammy Award,Best Female Pop Vocal Performance
+40,Latin Grammy Award for Best Tropical Song,Latin Grammy Award,Best Tropical Song
+41,Rockbjörnen,Rockbjörnen,
+42,Echo Music Prize,Echo Music Prize,
+43,VIVA Comet Awards,VIVA Comet Awards,
+44,American Music Award for Favorite Pop/Rock Female Artist,American Music Award,Favorite Pop/Rock Female Artist
+45,MTV Europe Music Award for Best R&B,MTV Europe Music Award,Best R&B
+46,Bollywood Movie Award – Best Music Director,Bollywood Movie Award – Best Music Director,
+47,Broadcast Film Critics Association Award for Best Song,Broadcast Film Critics Association Award,Best Song
+48,Academy Award for Best Original Score,Academy Award,Best Original Score
+49,BAFTA Award for Best Original Music,BAFTA Award,Best Original Music
+50,Polar Music Prize,Polar Music Prize,
+51,Juno Award for International Entertainer of the Year,Juno Award,International Entertainer of the Year
+52,"Grammy Award for Best Arrangement, Instrumental and Vocals",Grammy Award,"Best Arrangement, Instrumental and Vocals"
+53,Latin Grammy Award for Best Rock Song,Latin Grammy Award,Best Rock Song
+54,Latin Grammy Award for Best Rock Album,Latin Grammy Award,Best Rock Album
+55,"Latin Grammy Award for Best Rock Vocal Album, Duo or Group",Latin Grammy Award,"Best Rock Vocal Album, Duo or Group"
+56,Gershwin Prize,Gershwin Prize,
+57,MTV Europe Music Award for Best Spanish Act,MTV Europe Music Award,Best Spanish Act
+58,ASCAP Latin Heritage Award,ASCAP Latin Heritage Award,
+59,Grammy Award for Best Solo Rock Vocal Performance,Grammy Award,Best Solo Rock Vocal Performance
+60,Willie Nelson Lifetime Achievement Award,Willie Nelson Lifetime Achievement Award,
+61,Americana Award for Artist of the Year,Americana Award,Artist of the Year
+62,"""Spirit of Americana"" Free Speech Award","""Spirit of Americana"" Free Speech Award",
+63,Grammy Award for Best Score Soundtrack for Visual Media,Grammy Award,Best Score Soundtrack for Visual Media
+64,Saturn Award for Best Music,Saturn Award,Best Music
+65,Academy Award for Best Original Song Score,Academy Award,Best Original Song Score
+66,Academy Award for Best Original Dramatic Score,Academy Award,Best Original Dramatic Score
+67,Latin Grammy Lifetime Achievement Award,Latin Grammy Lifetime Achievement Award,
+68,International Dance Music Awards,International Dance Music Awards,
+69,Latin Grammy Award for Best Reggaeton Performance,Latin Grammy Award,Best Reggaeton Performance
+70,Juno Award for Songwriter of the Year,Juno Award,Songwriter of the Year
+71,Juno International Achievement Award,Juno International Achievement Award,
+72,Jack Richardson Producer of the Year Award,Jack Richardson Producer of the Year Award,
+73,Latin Grammy Award for Best Banda Album,Latin Grammy Award,Best Banda Album
+74,Georgia Music Hall of Fame,Georgia Music Hall of Fame,
+75,Gramophone Award for Lifetime Achievement,Gramophone Award,Lifetime Achievement
+76,Grammy Award for Best Country Song,Grammy Award,Best Country Song
+77,Country Music Association Award for Entertainer of the Year,Country Music Association Award,Entertainer of the Year
+78,American Music Award for Favorite Country Album,American Music Award,Favorite Country Album
+79,QQ Music Awards,QQ Music Awards,
+80,Juno Award for Country Album of the Year,Juno Award,Country Album of the Year
+81,Favorite Country New Artist,Favorite Country New Artist,
+82,Grammy Award for Best Country Album,Grammy Award,Best Country Album
+83,American Music Award for Favorite Country Female Artist,American Music Award,Favorite Country Female Artist
+84,Herbert von Karajan Music Prize,Herbert von Karajan Music Prize,
+85,Echo Klassik ensemble/orchestra of the year,Echo Klassik ensemble/orchestra of the year,
+86,Grammy Award for Best Contemporary Folk Album,Grammy Award,Best Contemporary Folk Album
+87,Grammy Award for Best Americana Album,Grammy Award,Best Americana Album
+88,Grammy Award for Best Traditional Folk Album,Grammy Award,Best Traditional Folk Album
+89,Spellemann Award for pop record of the year,Spellemann Award,pop record of the year
+90,Spellemann Award of the year,Spellemann Award of the year,
+91,Spellemann Award for the videoclip of l'any,Spellemann Award,the videoclip of l'any
+92,Jury Honorary Award in Spellemannprisen,Jury Honorary Award in Spellemannprisen,
+93,Shortlist Music Prize,Shortlist Music Prize,
+94,Americana Lifetime Achievement Award for Songwriting,Americana Lifetime Achievement Award,Songwriting
+95,Grammy Award for Best Male Country Vocal Performance,Grammy Award,Best Male Country Vocal Performance
+96,Favorite Country Male Artist,Favorite Country Male Artist,
+97,The Record of the Year,The Record of the Year,
+98,Prêmio da Música Brasileira,Prêmio da Música Brasileira,
+99,Glenn Gould Prize,Glenn Gould Prize,
+100,Avery Fisher Prize,Avery Fisher Prize,
+101,Léonie Sonning Music Prize,Léonie Sonning Music Prize,
+102,Echo Klassik Award - Instrumentalist of the Year,Echo Klassik Award - Instrumentalist of the Year,
+103,MOBO Awards,MOBO Awards,
+104,Hans von Bülow Medal,Hans von Bülow Medal,
+105,Ernst von Siemens Music Prize,Ernst von Siemens Music Prize,
+106,Royal Philharmonic Society Gold Medal,Royal Philharmonic Society Gold Medal,
+107,Grammy Award for Best Country & Western Recording,Grammy Award,Best Country & Western Recording
+108,Sibelius Medal,Sibelius Medal,
+109,"Soul Train Music Award for Best R&B/Soul Album, Group Band or Duo",Soul Train Music Award,"Best R&B/Soul Album, Group Band or Duo"
+110,Covenant Awards,Covenant Awards,
+111,European Film Award for Best Composer,European Film Award,Best Composer
+112,Juno Award for Video of the Year,Juno Award,Video of the Year
+113,MTV Europe Music Award for Best Finnish Act,MTV Europe Music Award,Best Finnish Act
+114,ECHO Pop,ECHO Pop,
+115,Muuvi,Muuvi,
+116,Latin Grammy Award for Best Alternative Song,Latin Grammy Award,Best Alternative Song
+117,Goya Award for Best Original Music,Goya Award,Best Original Music
+118,Satellite Award for Best Original Song,Satellite Award,Best Original Song
+119,Pulitzer Prize for Music,Pulitzer Prize,Music
+120,Latin Grammy Award for Best Pop/Rock Song,Latin Grammy Award,Best Pop/Rock Song
+121,Latin Grammy Award for Best Merengue/Bachata Album,Latin Grammy Award,Best Merengue/Bachata Album
+122,Spellemann Award for choir record of the year,Spellemann Award,choir record of the year
+123,Icelandic Music Awards,Icelandic Music Awards,
+124,Soul Train Music Award for Best R&B/Soul or Rap New Artist,Soul Train Music Award,Best R&B/Soul or Rap New Artist
+125,Paul-Lincke-Ring,Paul-Lincke-Ring,
+126,Juno Award for Best Selling Single,Juno Award,Best Selling Single
+127,GAFFA-Prisen,GAFFA-Prisen,
+128,Grammy Award for Best New Age Album,Grammy Award,Best New Age Album
+129,Paul Acket Award,Paul Acket Award,
+130,Prize Franco Abbiati Italian Music,Prize Franco Abbiati Italian Music,
+131,Robert Schumann Prize of the City of Zwickau,Robert Schumann Prize of the City of Zwickau,
+132,Latin Grammy Award for Best Christian Album (Spanish Language),Latin Grammy Award,Best Christian Album (Spanish Language)
+133,Qwartz Electronic Music Awards,Qwartz Electronic Music Awards,
+134,Nordic Council Music Prize,Nordic Council Music Prize,
+135,Gramophone Award for Recording of the Year,Gramophone Award,Recording of the Year
+136,Americana Trailblazer Award,Americana Trailblazer Award,
+137,Latin Grammy Award for Best Cumbia/Vallenato Album,Latin Grammy Award,Best Cumbia/Vallenato Album
+138,Juno Award for Pop Album of the Year,Juno Award,Pop Album of the Year
+139,Juno Award for Single of the Year,Juno Award,Single of the Year
+140,MTV Europe Music Award for Best German Act,MTV Europe Music Award,Best German Act
+141,Preis für Popkultur,Preis für Popkultur,
+142,Golden Disk Awards,Golden Disk Awards,
+143,Billboard Music Award for Digital Song of the Year,Billboard Music Award,Digital Song of the Year
+144,LOS40 Music Awards,LOS40 Music Awards,
+145,MTV Europe Music Award for Best Italian Act,MTV Europe Music Award,Best Italian Act
+146,Grammy Award for Best Rock Song,Grammy Award,Best Rock Song
+147,Juno Award for Breakthrough Group of the Year,Juno Award,Breakthrough Group of the Year
+148,Juno Award for Group of the Year,Juno Award,Group of the Year
+149,YouTube Music Awards,YouTube Music Awards,
+150,American Music Award for New Artist of the Year,American Music Award,New Artist of the Year
+151,Kerrang! Awards,Kerrang! Awards,
+152,South African Music Award for Group or Duo of the Year,South African Music Award,Group or Duo of the Year
+153,American Music Award for Favorite Contemporary Inspirational Artist,American Music Award,Favorite Contemporary Inspirational Artist
+154,All Africa Music Awards,All Africa Music Awards,
+155,1 Live Krone,1 Live Krone,
+156,Billboard Music Award for Top Christian Album,Billboard Music Award,Top Christian Album
+157,Soul Train Music Best Gospel/Inspirational Award,Soul Train Music Best Gospel/Inspirational Award,
+158,"Stellar Award for Rap, Hip Hop Gospel CD of the Year",Stellar Award,"Rap, Hip Hop Gospel CD of the Year"
+159,Soul Train Music Award for Best Gospel/Inspirational Song,Soul Train Music Award,Best Gospel/Inspirational Song
+160,Favorite Adult Contemporary New Artist,Favorite Adult Contemporary New Artist,
+161,Billboard 21 Under 21,Billboard 21 Under 21,
+162,American Music Award for Single of the Year,American Music Award,Single of the Year
+163,MTV Europe Music Award for Best French Act,MTV Europe Music Award,Best French Act
+164,Teen Choice Awards,Teen Choice Awards,
+165,MTV Europe Music Award for Best Indian Act,MTV Europe Music Award,Best Indian Act
+166,Brit Award for British Female Solo Artist,Brit Award,British Female Solo Artist
+167,MTV Europe Music Award for Best US Act,MTV Europe Music Award,Best US Act
+168,Edison Music Awards,Edison Music Awards,
+169,Americana Award for Emerging Act of the Year,Americana Award,Emerging Act of the Year
+170,Premio Lo Nuestro,Premio Lo Nuestro,
+171,iHeartRadio Music Awards,iHeartRadio Music Awards,
+172,Juno Award for Electronic Album of the Year,Juno Award,Electronic Album of the Year
+173,Juno Award for Breakthrough Artist of the Year,Juno Award,Breakthrough Artist of the Year
+174,Kids' Choice Award for Favorite TV Actress,Kids' Choice Award,Favorite TV Actress
+175,GLAAD Media Award for Outstanding Music Artist,GLAAD Media Award,Outstanding Music Artist
+176,Spellemannprisen for hit of the year,Spellemannprisen,hit of the year
+177,the P3 award,the P3 award,
+178,MTV Europe Music Award for Best Australian Act,MTV Europe Music Award,Best Australian Act
+179,MTV Europe Music Award for Best Nordic Act,MTV Europe Music Award,Best Nordic Act
+180,MTV Europe Music Award for Best Swedish Act,MTV Europe Music Award,Best Swedish Act
+181,Spellemann Awards for best international success of the year,Spellemann Awards,best international success of the year
+182,Spellemann Award for singer of the year,Spellemann Award,singer of the year
+183,MTV MIAW Awards Brazil,MTV MIAW Awards Brazil,
+184,Latin Music Italian Awards,Latin Music Italian Awards,
+185,Soribada Best K-Music Awards,Soribada Best K-Music Awards,
+186,Seoul Music Award for Rookie of the Year,Seoul Music Award,Rookie of the Year
+187,Latin Grammy Award for Best Rap/Hip Hop Song,Latin Grammy Award,Best Rap/Hip Hop Song
+188,Latin Grammy Award for Best Recording Package,Latin Grammy Award,Best Recording Package
+189,First prize of the Eurovision Song Contest,First prize of the Eurovision Song Contest,
+190,MTV Europe Music Award for Best Korean Act,MTV Europe Music Award,Best Korean Act
+191,P3 Gull for Artist of the Year,P3 Gull,Artist of the Year
+192,Premios Musa,Premios Musa,
