@@ -11,6 +11,7 @@
      xmlns:skos="http://www.w3.org/2004/02/skos/core#"
      xmlns:terms="http://purl.org/dc/terms/">
     <owl:Ontology rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph">
+        <owl:imports rdf:resource="http://eulersharp.sourceforge.net/2003/03swap/countries"/>
         <rdfs:comment>This ontology represents spotify track and related youtube video.
 Done as project for the Database 2 course, Master Degree in Computer Engineering @ UniPD.</rdfs:comment>
     </owl:Ontology>
@@ -785,6 +786,22 @@ Done as project for the Database 2 course, Master Degree in Computer Engineering
     
 
 
+    <!-- https://www.dei.unipd.it/db2/ontology/soundgraph#AmericanMusicAward -->
+
+    <owl:Class rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#AmericanMusicAward">
+        <rdfs:subClassOf rdf:resource="https://www.dei.unipd.it/db2/ontology/soundgraph#Award"/>
+    </owl:Class>
+    
+
+
+    <!-- https://www.dei.unipd.it/db2/ontology/soundgraph#AmericanaAward -->
+
+    <owl:Class rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#AmericanaAward">
+        <rdfs:subClassOf rdf:resource="https://www.dei.unipd.it/db2/ontology/soundgraph#Award"/>
+    </owl:Class>
+    
+
+
     <!-- https://www.dei.unipd.it/db2/ontology/soundgraph#Artist -->
 
     <owl:Class rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#Artist">
@@ -805,6 +822,14 @@ Done as project for the Database 2 course, Master Degree in Computer Engineering
     
 
 
+    <!-- https://www.dei.unipd.it/db2/ontology/soundgraph#BillboardAward -->
+
+    <owl:Class rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#BillboardAward">
+        <rdfs:subClassOf rdf:resource="https://www.dei.unipd.it/db2/ontology/soundgraph#Award"/>
+    </owl:Class>
+    
+
+
     <!-- https://www.dei.unipd.it/db2/ontology/soundgraph#Genre -->
 
     <owl:Class rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#Genre">
@@ -813,9 +838,49 @@ Done as project for the Database 2 course, Master Degree in Computer Engineering
     
 
 
+    <!-- https://www.dei.unipd.it/db2/ontology/soundgraph#GrammyAward -->
+
+    <owl:Class rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#GrammyAward">
+        <rdfs:subClassOf rdf:resource="https://www.dei.unipd.it/db2/ontology/soundgraph#Award"/>
+    </owl:Class>
+    
+
+
+    <!-- https://www.dei.unipd.it/db2/ontology/soundgraph#JunoAward -->
+
+    <owl:Class rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#JunoAward">
+        <rdfs:subClassOf rdf:resource="https://www.dei.unipd.it/db2/ontology/soundgraph#Award"/>
+    </owl:Class>
+    
+
+
+    <!-- https://www.dei.unipd.it/db2/ontology/soundgraph#MTVAward -->
+
+    <owl:Class rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#MTVAward">
+        <rdfs:subClassOf rdf:resource="https://www.dei.unipd.it/db2/ontology/soundgraph#Award"/>
+    </owl:Class>
+    
+
+
     <!-- https://www.dei.unipd.it/db2/ontology/soundgraph#Reception -->
 
     <owl:Class rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#Reception"/>
+    
+
+
+    <!-- https://www.dei.unipd.it/db2/ontology/soundgraph#SoulTrainAward -->
+
+    <owl:Class rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#SoulTrainAward">
+        <rdfs:subClassOf rdf:resource="https://www.dei.unipd.it/db2/ontology/soundgraph#Award"/>
+    </owl:Class>
+    
+
+
+    <!-- https://www.dei.unipd.it/db2/ontology/soundgraph#SpellemannAward -->
+
+    <owl:Class rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#SpellemannAward">
+        <rdfs:subClassOf rdf:resource="https://www.dei.unipd.it/db2/ontology/soundgraph#Award"/>
+    </owl:Class>
     
 
 
@@ -880,6 +945,19 @@ Done as project for the Database 2 course, Master Degree in Computer Engineering
             <rdf:Description rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#SpotifyTrack"/>
             <rdf:Description rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#YouTubeChannel"/>
             <rdf:Description rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#YouTubeVideo"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#AmericanMusicAward"/>
+            <rdf:Description rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#AmericanaAward"/>
+            <rdf:Description rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#BillboardAward"/>
+            <rdf:Description rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#GrammyAward"/>
+            <rdf:Description rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#JunoAward"/>
+            <rdf:Description rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#MTVAward"/>
+            <rdf:Description rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#SoulTrainAward"/>
+            <rdf:Description rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#SpellemannAward"/>
         </owl:members>
     </rdf:Description>
 </rdf:RDF>
