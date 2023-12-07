@@ -14,7 +14,7 @@ P!nk,1KCSPY1glIKqW2TotWuXOR,Pink,https://www.pinkspage.com/,1995,_,_,US
 Eminem,7dGJo4pcD2V6oG8kP0tJRR,Eminem,https://www.eminem.com/,1988,_,_,US
 Pharrell Williams,2RdwBSPQiwcmiDo9kixcl8,Pharrell Williams,https://pharrellwilliams.com,1990,_,_,US
 Khalid,6LuN9FCkKOj5PcnpouEgny,Khalid,https://www.khalidofficial.com/,2016,_,_,US
-Shakira,0EmeFodog0BfCgMzAIvKQp,Shakira,https://www.shakira.com,1990,_,_,ES+CO
+Shakira,0EmeFodog0BfCgMzAIvKQp,Shakira,https://www.shakira.com,1990,_,_,CO+ES
 Machine Gun Kelly,6TIYQ3jFPwQSRmorSezPxX,Machine Gun Kelly,http://www.machinegunkelly.com/,2006,_,_,US
 Nicky Jam,1SupJlEpv7RS2tPNRaHViT,Nicky Jam,https://nickyjam.com/,1995,_,_,US
 The Beatles,3WrFJ7ztbogyGnTHbHJFl2,The Beatles,https://thebeatles.com,1960,1970,1970,GB
@@ -29,7 +29,7 @@ Fleetwood Mac,08GQAI4eElDnROBrJRGE0X,Fleetwood Mac,https://www.fleetwoodmac.com/
 ABBA,0LcJLqbBmaGUft1e9Mm8HV,ABBA,https://abbasite.com,1972,1982,_,SE
 Frank Sinatra,1Mxqyy3pSjf8kZZL4QVxS0,Frank Sinatra,http://www.sinatra.com,1935,1995,_,US
 Tiësto,2o5jDhtHVPhrJdv3cEQ99Z,Tiësto,https://www.tiesto.com/,1994,_,_,NL
-Elton John,3PhoLpVuITZKcymswpck5b,Elton John,https://www.eltonjohn.com,1962,_,_,GB+US
+Elton John,3PhoLpVuITZKcymswpck5b,Elton John,https://www.eltonjohn.com,1962,_,_,US+GB
 JAY-Z,3nFkdlSjzX9mRTtwJOzDYB,Jay-Z,http://www.lifeandtimes.com,1996,_,_,US
 21 Savage,1URnnhqYAYcrqrcwql10ft,21 Savage,https://21savage.com/,2013,_,_,GB
 Kanye West,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,https://www.kanyewest.com,1996,_,_,US
@@ -49,7 +49,7 @@ A.R. Rahman,1mYsTxnqsietFxj1OgoGbG,A. R. Rahman,http://www.arrahman.com/,1985,_,
 Die drei ???,3meJIgRw7YleJrmbpbJK6S,Die drei ???,http://www.dreifragezeichen.de,_,_,_,_
 Pritam,1wRPtKGflJrBx9BmLsSwlU,Pritam Chakraborty,_,_,_,_,IN
 Shreya Ghoshal,0oOet2f43PA68X5RxKobEy,Shreya Ghoshal,_,1998,_,_,IN
-Pink Floyd,0k17h0D3J5VfsdmQ1iZtE9,Pink Floyd,https://pinkfloyd.com,1965,_,_,GB
+Pink Floyd,0k17h0D3J5VfsdmQ1iZtE9,Pink Floyd,https://pinkfloyd.com/,1965,_,_,GB
 System Of A Down,5eAWCfyUhZtHHtBdNk56l1,System of a Down,https://systemofadown.com/,1994,_,_,US
 Green Day,7oPftvlwr6VrsViSDV7fJY,Green Day,http://www.greenday.com/,1986,_,_,US
 Ludovico Einaudi,2uFUBdaVGtyMqckSeCl0Qj,Ludovico Einaudi,https://ludovicoeinaudi.com,1980,_,_,IT
@@ -61,7 +61,7 @@ The Rolling Stones,22bE4uQ6baNwSHPVcDxLCe,The Rolling Stones,https://rollingston
 Hans Zimmer,0YC192cP3KPCRWx8zr8MfZ,Hans Zimmer,https://www.hanszimmerlive.com/,1977,_,_,US+DE
 Deftones,6Ghvu1VvMGScGpOUJBAHNH,Deftones,http://www.deftones.com,1988,_,_,US
 blink-182,6FBDaR13swtiWwGhX1WQsP,Blink-182,https://www.blink182.com/,1992,_,_,US
-Bob Marley & The Wailers,2QsynagSdAqZj3U9HgDzjD,Boris jobson,http://www.bobmarley.com/,1962,1981,_,JM
+Bob Marley & The Wailers,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,http://www.bobmarley.com/,1963,_,_,JM
 David Bowie,0oSGxfWSnnOXhD2fKuz2Gy,David Bowie,https://www.davidbowie.com/,1964,_,_,GB
 Bon Jovi,58lV9VcRSjABbAbfWS6skp,Bon Jovi,https://www.bonjovi.com/,1983,_,_,US
 Dr. Dre,6DPYiyq5kWVQS4RGwxzPC7,Dr. Dre,https://drdre.com,1985,_,_,US
@@ -76,7 +76,7 @@ The Notorious B.I.G.,5me0Irg2ANcsgc93uaYrpb,The Notorious B.I.G.,_,1992,1997,_,U
 Enrique Iglesias,7qG3b048QCHVRO5Pv1T5lw,Enrique Iglesias,https://www.enriqueiglesias.com/,1995,_,_,ES
 Timbaland,5Y5TRrQiqgUO4S36tzjIRZ,Timbaland,https://timbaland.com,1990,_,_,US
 Alejandro Sanz,5sUrlPAHlS9NEirDB8SEbF,Alejandro Sanz,http://www.alejandrosanz.co,1989,_,_,ES
-Whitney Houston,6XpaIBNiVzIetEPCWDvAFP,Whitney Houston,https://www.whitneyhouston.com/,1976,2022,_,US
+Whitney Houston,6XpaIBNiVzIetEPCWDvAFP,Whitney Houston,https://www.whitneyhouston.com/,1976,2012,_,US
 Madonna,6tbjWDEIzxoDsBA1FuhfPW,Madonna,https://www.madonna.com/,1979,_,_,US
 Alicia Keys,3DiDSECUqqY1AuBP8qtaIa,Alicia Keys,https://aliciakeys.com,1996,_,_,US
 John Mayer,0hEurMDQu99nJRq8pTxO14,John Mayer,http://www.johnmayer.com,1998,_,_,US
@@ -84,9 +84,9 @@ Christina Aguilera,1l7ZsJRRS8wlW3WfJfPfNS,Christina Aguilera,https://www.christi
 Marc Anthony,4wLXwxDeWQ8mtUIRPxGiD6,Marc Anthony,http://www.marcanthonyonline.com/,1988,_,_,US
 Ricardo Arjona,0h1zs4CTlU9D2QtgPxptUD,Ricardo Arjona,http://www.ricardoarjona.com,1985,_,_,GT
 Stevie Wonder,7guDJrEfX3qb6FEbdPA5qi,Stevie Wonder,http://www.steviewonder.net,1961,_,_,US
-Ludacris,3ipn9JLAPI5GUEo4y4jcoi,Ludacris,http://www.ludaversal.com,1998,_,_,US+GA
+Ludacris,3ipn9JLAPI5GUEo4y4jcoi,Ludacris,http://www.ludaversal.com,1998,_,_,GA+US
 Plan B,2jSGzJw0ebJLu7OLVSOcBP,Plan B,_,1999,_,_,US
-Aventura,1qto4hHid1P71emI6Fd8xi,Aventura,_,1993,_,_,US+DO
+Aventura,1qto4hHid1P71emI6Fd8xi,Aventura,_,1993,_,_,DO+US
 Usher,23zg3TcAtWQy7J6upgbUnj,Usher,http://www.ushernow.com,1993,_,_,US
 Vicente Fernández,4PPoI9LuYeFX8V674Z1R6l,Vicente Fernández,https://www.vicentefernandez.mx,1965,2016,_,MX
 Alejandro Fernández,6sq1yF0OZEWA4xoXVKW1L9,Alejandro Fernández,http://www.alejandrofernandez.com/,1988,_,_,MX
@@ -94,7 +94,7 @@ T-Pain,3aQeKQSyrW4qWr35idm0cy,T-Pain,http://tpain.com,1999,_,_,US
 Johann Sebastian Bach,5aIqB5nVVvmFsvSdExz408,Johann Sebastian Bach,_,1710,_,_,_
 Jhené Aiko,5ZS223C6JyBfXasXxrRqOk,Jhené Aiko,http://www.jheneaiko.com,2002,_,_,US
 Alka Yagnik,3gBKY0y3dFFVRqicLnVZYz,Alka Yagnik,http://www.alkayagnik.co.in/,1980,_,_,IN
-Udit Narayan,70B80Lwx2sxti0M1Ng9e8K,Udit Narayan,_,1980,_,_,NP+IN
+Udit Narayan,70B80Lwx2sxti0M1Ng9e8K,Udit Narayan,_,1980,_,_,IN+NP
 Vishal-Shekhar,6Mv8GjQa7LKUGCAqa9qqdb,Vishal–Shekhar,_,1999,_,_,IN
 Bibi und Tina,2x8vG4f0HYXzMEo3xNsoiI,Bibi und Tina,https://www.bibiundtina.de/,_,_,_,_
 Yuvan Shankar Raja,6AiX12wXdXFoGJ2vk8zBjy,Yuvan Shankar Raja,_,1996,_,_,IN
@@ -117,7 +117,7 @@ Nas,20qISvAhX20dpIbOOzGK3q,Nas,https://www.nasirjones.com/,1991,_,_,US
 Luis Fonsi,4V8Sr092TqfHkfAA5fXXqG,Luis Fonsi,http://www.luisfonsi.com/,1968,_,_,_
 Backstreet Boys,5rSXSAkZ67PYJSvpUpkOr7,Backstreet Boys,http://www.backstreetboys.com/,1992,_,_,US
 Los Ángeles Azules,0ZCO8oVkMj897cKgFH7fRW,Los Ángeles Azules,http://losangelesazules.com.mx/,1980,_,_,MX
-Zedd,2qxJFvFYMEDqd7ui6kSAcq,Zedd,https://www.zedd.net,2002,_,_,RU+DE
+Zedd,2qxJFvFYMEDqd7ui6kSAcq,Zedd,https://www.zedd.net,2002,_,_,DE+RU
 Nat King Cole,7v4imS0moSyGdXyLgVTIV7,Nat King Cole,http://www.natkingcole.com/,1934,_,_,US
 Armin van Buuren,0SfsnGyD8FpIN4U4WCkBZ5,Armin van Buuren,http://www.arminvanbuuren.com/,1995,_,_,NL
 Juicy J,5gCRApTajqwbnHHPbr2Fpi,Juicy J,http://thejuicyj.com/,1991,_,_,US
@@ -128,7 +128,7 @@ José José,4mN0qcMxWX8oToqfDPM5yV,José José,_,1963,2012,_,MX
 Los Tigres Del Norte,3hYtANQYrE6pd2PbtEyTIy,Los Tigres del Norte,http://www.lostigresdelnorte.com,1968,_,_,MX
 Bryan Adams,3Z02hBLubJxuFJfhacLSDc,Bryan Adams,https://www.bryanadams.com,1975,2022,_,CA
 Dean Martin,49e4v89VmlDcFCMyDv9wQ9,Dean Martin,http://www.deanmartin.com/,1940,_,_,US
-Nelly Furtado,2jw70GZXlAI8QzWeY2bgRc,Nelly Furtado,https://nellyfurtado.com,1996,_,_,PT+CA
+Nelly Furtado,2jw70GZXlAI8QzWeY2bgRc,Nelly Furtado,https://nellyfurtado.com,1996,_,_,CA+PT
 Ricky Martin,7slfeZO9LsJbWgpkIoXBUJ,Ricky Martin,http://rickymartinmusic.com/,1984,_,_,US+ES
 Jennifer Lopez,2DlGxzQSjYe5N6G9nkYghR,Jennifer Lopez,https://jenniferlopez.com,1986,_,_,US
 Sido,4Yttlv9ndGjCDCVLqM7ACq,Sido,http://www.sido.de,1997,_,_,DE
@@ -145,7 +145,7 @@ S. P. Balasubrahmanyam,2ae6PxICSOZHvjqiCcgon8,S. P. Balasubrahmanyam,http://www.
 Sonu Nigam,1dVygo6tRFXC8CSWURQJq2,Sonu Nigam,http://www.sonunigam.in/,1990,_,_,IN
 Lata Mangeshkar,61JrslREXq98hurYL2hYoc,Lata Mangeshkar,_,1942,2022,_,IN
 La Arrolladora Banda El Limón De Rene Camacho,5bSfBBCxY8QAk4Pifveisz,La Arrolladora Banda El Limón,http://www.laarrolladora.com.mx/,1997,_,_,MX
-KK,4fEkbug6kZzzJ8eYX6Kbbp,KK,http://themesmerizer.com,1994,2022,_,IN
+KK,4fEkbug6kZzzJ8eYX6Kbbp,KK,_,_,_,_,_
 Anahí,0TeVa4xdLB8vdzjsvKH6Ri,Anahí,http://www.anbyanahi.com,1985,_,_,MX
 Shankar Mahadevan,1SJOL9HJ08YOn92lFcYf8a,Shankar Mahadevan,http://shankarmahadevan.com,1997,_,_,IN
 Kumar Sanu,4K6blSRoklNdpw4mzLxwfn,Kumar Sanu,http://www.kumarsanuworld.com,1989,_,_,IN
@@ -203,7 +203,7 @@ Rage Against The Machine,2d0hyoQ5ynDBnkvAbJKORj,Rage Against the Machine,http://
 The White Stripes,4F84IBURUo98rz4r61KF70,The White Stripes,http://www.whitestripes.com,1997,2011,_,US
 Lynyrd Skynyrd,4MVyzYMgTwdP7Z49wAZHx0,Lynyrd Skynyrd,http://www.lynyrdskynyrd.com/,1964,_,_,US
 Dido,2mpeljBig2IXLXRAFO9AAs,Dido,https://www.didomusic.com/,1995,_,_,GB
-Eric Clapton,6PAt558ZEZl0DmdXlnjMgD,Eric Clapton,https://ericclapton.com,1962,2023,_,US+GB
+Eric Clapton,6PAt558ZEZl0DmdXlnjMgD,Eric Clapton,https://ericclapton.com,1962,2023,_,GB+US
 Bob Dylan,74ASZWbe4lXaubB36ztrGX,Bob Dylan,https://www.bobdylan.com/,1962,_,_,US
 Bill Withers,1ThoqLcyIYvZn7iWbj8fsj,Bill Withers,http://www.billwithers.com,1963,_,_,US
 Louis Armstrong,19eLuQmk9aCobbVDHc6eek,Louis Armstrong,https://louisarmstronghouse.org,1914,1971,_,US
@@ -273,22 +273,22 @@ Mary J. Blige,1XkoF8ryArs86LZvFOkbyr,Mary J. Blige,https://www.maryjblige.com/,1
 Andrea Bocelli,3EA9hVIzKfFiQI0Kikz2wo,Andrea Bocelli,https://www.andreabocelli.com,1992,_,_,IT
 Lionel Richie,3gMaNLQm7D9MornNILzdSl,Lionel Richie,https://lionelrichie.com,1968,_,_,US
 José Feliciano,7K78lVZ8XzkjfRSI7570FF,José Feliciano,http://josefeliciano.com/,1964,_,_,US
-Duster,5AyEXCtu3xnnsTGCo4RVZh,Duster,https://dusternumero.bandcamp.com/,1996,_,_,US
+Duster,5AyEXCtu3xnnsTGCo4RVZh,Duster,_,_,_,_,_
 Sin Bandera,7xeM7V59cA1X8GKyKKQV87,Sin Bandera,_,1998,_,_,MX
 Pyotr Ilyich Tchaikovsky,3MKCzCnpzw3TjUYs2v7vDA,Pyotr Ilyich Tchaikovsky,_,1859,1893,_,_
 Hillsong UNITED,74cb3MG0x0BOnYNW1uXYnM,Hillsong United,http://www.hillsongunited.com/,1998,_,_,AU
 Laura Pausini,2e4nwiX8ZCU09LGLOpeqTH,Laura Pausini,https://laurapausini.com,1993,_,_,IT
 Westlife,5Z1CCuBsyhEHngq3U5IraY,Westlife,http://www.westlife.com,1998,2012,_,IE
-Kylie Minogue,4RVnAU35WRWra6OZ3CbbMA,Kylie Minogue,https://www.kylie.com/,1979,_,_,AU+GB
+Kylie Minogue,4RVnAU35WRWra6OZ3CbbMA,Kylie Minogue,https://www.kylie.com/,1979,_,_,GB+AU
 Missy Elliott,2wIVse2owClT7go1WT98tk,Missy Elliott,https://www.missy-elliott.com/,1993,_,_,US
 Cristian Castro,2AZOALDIBORfbzKTuliwdJ,Cristian Castro,http://www.christiancastro.net/,1992,_,_,MX
 Claude Debussy,1Uff91EOsvd99rtAupatMP,Claude Debussy,_,1884,1918,_,FR
 Roberto Carlos,7fAKtXSdNInWAIf0jVUz65,Roberto Carlos,http://robertocarlos.globo.com,1951,_,_,BR
-Hikaru Utada,7lbSsjYACZHn1MSDXPxNF2,Hikaru Utada,https://www.utadahikaru.jp,1996,_,_,JP+US
+Hikaru Utada,7lbSsjYACZHn1MSDXPxNF2,Hikaru Utada,https://www.utadahikaru.jp,1996,_,_,US+JP
 Tim McGraw,6roFdX1y5BYSbp60OTJWMd,Tim McGraw,http://www.timmcgraw.com/,1990,_,_,US
 The Alchemist,0eVyjRhzZKke2KFYTcDkeu,The Alchemist,_,1993,_,_,US
 Kenny Chesney,3grHWM9bx2E9vwJCdlRv9O,Kenny Chesney,http://www.kennychesney.com/home.php,1993,_,_,US
-Pepe Aguilar,03Yb3iBy9GCifXiATEFcit,Pepe Aguilar,http://www.pepeaguilar.com.mx,1980,_,_,MX+US
+Pepe Aguilar,03Yb3iBy9GCifXiATEFcit,Pepe Aguilar,http://www.pepeaguilar.com.mx,1980,_,_,US+MX
 Thalia,23wEWD21D4TPYiJugoXmYb,Thalía,https://thalia.com,1981,_,_,US+MX
 Rocío Dúrcal,2uyweLa0mvPZH6eRzDddeB,Rocío Dúrcal,http://www.rociodurcal.net,1954,2006,_,ES
 Selena,6IE6z7DcZIT4Ml3Fh5Ivch,Selena,https://q-productions.com/,1982,1995,_,US
@@ -308,7 +308,7 @@ Yusuf / Cat Stevens,08F3Y3SctIlsOEmKd6dnH8,Cat Stevens,https://catstevens.com/,1
 Gustavo Santaolalla,4W3fa7tiXGVXl3KilbACqt,Gustavo Santaolalla,_,1967,_,_,AR
 Pantera,14pVkFUHDL207LzLHtSA18,Pantera,https://pantera.com/,1981,_,_,US
 Tracy Chapman,7oPgCQqMMXEXrNau5vxYZP,Tracy Chapman,_,1986,_,_,US
-Kidz Bop Kids,1Vvvx45Apu6dQqwuZQxtgW,Kidz Bop,http://www.kidzbop.com/,_,_,_,US+DE+GB+FR
+Kidz Bop Kids,1Vvvx45Apu6dQqwuZQxtgW,Kidz Bop,http://www.kidzbop.com/,_,_,_,US+DE+FR+GB
 Blondie,4tpUmLEVLCGFr93o8hFFIB,Blondie,https://www.blondie.net/,1974,_,_,US
 Bunbury,4uqzzJg3ww5eH7IgGV7DMT,Enrique Bunbury,http://www.enriquebunbury.com,1984,_,_,ES
 John Denver,7EK1bQADBoqbYXnT4Cqv9w,John Denver,https://johndenver.com/,1962,_,_,US+DE
@@ -330,7 +330,7 @@ Project Pat,08Ld63UgKrJ0nZnCkzHtzc,Project Pat,_,1991,_,_,US
 Royal Philharmonic Orchestra,0MvSBMGRQJY3mRwIbJsqF1,Royal Philharmonic Orchestra,http://www.rpo.co.uk/,1946,_,_,GB
 Fergie,3r17AfJCCUqC9Lf0OAc73G,Fergie,_,1984,_,_,US
 Ja Rule,1J2VVASYAamtQ3Bt8wGgA6,Ja Rule,http://ww38.jarule.com/,1994,_,_,US
-Péricles,6gEzJZrbm0F4ihvE9iXR9z,Péricles,_,1986,_,_,BR
+Péricles,6gEzJZrbm0F4ihvE9iXR9z,Péricles,_,_,_,_,BR
 Gilberto Santa Rosa,27vNK840zYq6IfDijHPsv1,Gilberto Santa Rosa,_,1976,_,_,DO
 Jamie Foxx,7LnaAXbDVIL75IVPnndf7w,Jamie Foxx,http://www.jamiefoxxmusic.com/,1989,_,_,US
 Ricardo Montaner,4uoz4FUMvpeyGClFTTDBsD,Ricardo Montaner,https://www.ricardomontaneroficial.com,1976,_,_,_
@@ -344,7 +344,7 @@ Antonio Aguilar,0PN0fbe41KbuzlRYnoajNm,Antonio Aguilar,https://www.antonioaguila
 Los Cadetes De Linares,1iIxNEvPPmdFIIP0tdpw6G,Los Cadetes de Linares,_,1974,_,_,_
 Madlib,5LhTec3c7dcqBvpLRWbMcf,Madlib,http://www.rappcats.com,1993,_,_,US
 Chalino Sanchez,7u9m43vPVTERaALXXOzrRq,_,_,_,_,_,_
-Grupo Bryndis,44WCHvwXBOMz6nm7Mu2ReO,Grupo Bryndis,_,1985,_,_,MX+US
+Grupo Bryndis,44WCHvwXBOMz6nm7Mu2ReO,Grupo Bryndis,_,_,_,_,MX+US
 Los Invasores De Nuevo León,5CGtBYmVPeLhI1kM2Fn9Gv,_,_,_,_,_,_
 S. Janaki,5Xpg6PBSUOoho2lI9qLjiu,S. Janaki,_,1957,_,_,IN
 K. J. Yesudas,2wPsNCwhEGb0KvChZ5DD52,K. J. Yesudas,_,1961,_,_,IN
@@ -441,7 +441,7 @@ Alejandra Guzman,7Hf9AwMO37bSdxHb0FBGmO,Alejandra Guzmán,https://www.laguzman.c
 Zezé Di Camargo & Luciano,4dyYjqmYDjegbB3F2mbvcT,Zezé Di Camargo & Luciano,http://www.zezedicamargoeluciano.com.br,1991,_,_,BR
 Mijares,3zhijRRIZX2B6G2T7vJl9p,Mijares,_,_,_,_,_
 Silambarasan TR,5Hn84AFwiTEi8eMoI5B9AS,Silambarasan TR,_,1984,_,_,IN
-Sujatha,2JEjaa7hWhE1BbL3OcoeFR,Sujatha,_,_,_,_,IN
+Sujatha,2JEjaa7hWhE1BbL3OcoeFR,Sujatha,_,1968,_,_,IN
 R. Kelly,2mxe0TnaNL039ysAj51xPQ,R. Kelly,http://r-kelly.com/,1989,2016,_,US
 Los Inquietos Del Norte,0pgvlX0BkfmeirXTDiNmya,_,_,_,_,_,_
 Anuradha Paudwal,4hkB2bR5ek6lJChj6aunCn,Anuradha Paudwal,_,1973,_,_,IN
@@ -495,7 +495,7 @@ Dwele,7u6LfVyYpEzMpHLL7jTyvU,Dwele,http://www.dwele.com,2000,_,_,US
 Himesh Reshammiya,0sSxphmGskGCKlwB9xa6WU,Himesh Reshammiya,http://www.himesh-reshammiya.com,1994,_,_,IN
 Chris Tomlin,6pRi6EIPXz4QJEOEsBaA0m,Chris Tomlin,http://www.christomlin.com/,1993,_,_,US
 Pancho Barraza,5dmU7FrmtbQaSzIvGsE4Jp,Pancho Barraza,_,_,_,_,MX
-George Frideric Handel,1QL7yTHrdahRMpvNtn6rI2,George Frideric Handel,http://gfhandel.org,1702,_,_,IT+DE+FR
+George Frideric Handel,1QL7yTHrdahRMpvNtn6rI2,George Frideric Handel,http://gfhandel.org,1702,_,_,FR+IT+DE
 Pesado,4BwiodzEp9Hwes5HeFjMVK,Grupo Pesado,_,1993,_,_,MX
 Traditional,1U5zgr455OGyIkLNXvDdrf,traditional,_,_,_,_,_
 Grupo Laberinto,24z2EWgF5nVUKnbJHd9ku2,Grupo Laberinto,_,1987,_,_,MX
@@ -512,13 +512,13 @@ Eazy-E,7B4hKK0S9QYnaoqa9OuwgX,Eazy-E,_,1986,1995,_,US
 Roy Orbison,0JDkhL4rjiPNEp92jAgJnS,Roy Orbison,http://www.royorbison.com,1954,_,_,US
 Stevie Nicks,7crPfGd2k81ekOoSqQKWWz,Stevie Nicks,https://stevienicksofficial.com,1969,_,_,US
 The Cramps,4lYtGx5NZQJHsMyhHc5iz3,The Cramps,http://www.thecramps.com/,1976,_,_,US
-Daniel Hope,59r5UU2HOytn9V5uMZ5Vur,Daniel Hope,http://www.danielhope.com/,1983,_,_,DE+IE
+Daniel Hope,59r5UU2HOytn9V5uMZ5Vur,Daniel Hope,http://www.danielhope.com/,1983,_,_,IE+DE
 Crowded House,7ohlPA8dRBtCf92zaZCaaB,Crowded House,http://www.crowdedhouse.com/,1996,_,_,AU
 Sir Neville Marriner,6NUhQz7eAEsZvjEHTKHux9,Neville Marriner,_,_,_,_,GB
 Sir Arthur Conan Doyle,3Xj8xqJUruJ2moKunjaf0d,_,_,_,_,_,_
 In Flames,57ylwQTnFnIhJh4nu4rxCs,In Flames,https://www.inflames.com/,1990,_,_,SE
 Scooter,0HlxL5hisLf59ETEPM3cUA,Scooter,http://scootertechno.com,1993,_,_,DE
-Gloria Estefan,5IFCkqu9J6xdWeYMk5I889,Gloria Estefan,http://www.gloriaestefan.com/,1977,_,_,US+CU
+Gloria Estefan,5IFCkqu9J6xdWeYMk5I889,Gloria Estefan,http://www.gloriaestefan.com/,1977,_,_,CU+US
 Richard Marx,0grdhNhiRLFBaFVyybqsj6,Richard Marx,http://richardmarx.com/,1980,_,_,US
 Djavan,5rrmaoBXZ7Jcs4Qb77j0YA,Djavan,http://www.djavan.com.br,1972,_,_,BR
 DJ Premier,6GEykX11lQqp92UVOQQCC7,DJ Premier,http://premierwuzhere.com,1987,_,_,US
@@ -590,7 +590,7 @@ Marisa Monte,0rSTXALHu0EKAawPLBdODH,Marisa Monte,http://www.marisamonte.com.br,1
 Udo Lindenberg,7iWcRnQMinCoV2u5ICgsW0,Udo Lindenberg,https://www.udo-lindenberg.de/,1971,_,_,DE
 Mandy Moore,2LJxr7Pt3JnP60eLxwbDOu,Mandy Moore,https://mandymoore.com/,1999,_,_,US
 Santiago Ziesmer,5isi7xwETQC1HbzQSaOufS,Santiago Ziesmer,https://www.santiago-ziesmer.de/,_,_,_,DE
-Belo,7hLjkyL9Pz9xtQNahzJZki,Belo,_,_,_,_,SI
+Belo,7hLjkyL9Pz9xtQNahzJZki,Belo,http://www.belo.com/,_,_,2013,US
 Outlawz,2jp3Fk52x0HbymU0lNYbSC,Outlawz,http://www.outlawzmedia.net/,1993,_,_,US
 Dewa 19,48bKH1ugFBhERC1rdojP9d,Dewa 19,_,_,_,_,_
 Mase,1wiBLzTI7z9RUwEpNPdFT6,Mase,_,1993,_,_,US
@@ -686,7 +686,7 @@ Cocteau Twins,5Wabl1lPdNOeIn0SQ5A1mp,Cocteau Twins,https://cocteautwins.com,1979
 Laxmikant–Pyarelal,3yS84AjNFqhmuJlIXy7sax,_,_,_,_,_,_
 Mark Morrison,6V3F8MZrOKdT9fU686ybE9,Mark Morrison,http://www.markmorrison.com,1993,_,_,GB
 Randy Travis,1pTuR132U5b4Rizal2Pr7m,Randy Travis,http://www.randy-travis.com/,1978,_,_,US
-Daniel Barenboim,78sEozQOEJxzXegUuqRSgH,Daniel Barenboim,http://www.danielbarenboim.com/,1950,_,_,AR+IL+ES+PS
+Daniel Barenboim,78sEozQOEJxzXegUuqRSgH,Daniel Barenboim,http://www.danielbarenboim.com/,1950,_,_,IL+AR+ES+PS
 Travis Tritt,2M4Yt7oKGoYd0wqU44k4i2,Travis Tritt,http://www.travistritt.com/,1989,_,_,US
 Lilly Goodman,6vetaGijEBK3wfhtCUWRBS,Lilly Goodman,https://www.lillygoodman.com/,_,_,_,DO+VE
 Marcos Witt,4x7kxyIgzgtrHYDQ8SCzo2,Marcos Witt,https://www.mwmedia.co/,1986,_,_,US
@@ -706,7 +706,7 @@ James Brown,7GaxyUddsPok8BuhxN6OUW,James Brown,http://www.godfatherofsoul.com,19
 João Gilberto,77ZUbcdoU5KCPHNUl8bgQy,João Gilberto,http://www.joaogilberto.com/,1950,2019,_,BR
 Soft Cell,6aq8T2RcspxVOGgMrTzjWc,Soft Cell,_,1978,_,_,GB
 KC & The Sunshine Band,3mQBpAOMWYqAZyxtyeo4Lo,KC and the Sunshine Band,http://www.kcsbonline.com,1973,_,_,US
-Jorge Ben Jor,5JYtpnUKxAzXfHEYpOeeit,Jorge Ben,http://www.jorgeben.com.br,1963,_,_,BR
+Jorge Ben Jor,5JYtpnUKxAzXfHEYpOeeit,Jorge Ben,_,1963,_,_,BR
 Blue Öyster Cult,00tVTdpEhQQw1bqdu8RCx2,Blue Öyster Cult,http://www.blueoystercult.com,1970,_,_,US
 Björk,7w29UYBi0qsHi5RTcv3lmA,Björk,https://bjork.com/,1977,_,_,IS
 Don McLean,1gRNBaI4yn6wCCTvRhGWh8,Don McLean,http://www.don-mclean.com/,1969,_,_,US
@@ -738,7 +738,7 @@ Shenseea,1OFOShsIbhy1l5x73yuVyB,Shenseea,_,2015,_,_,JM
 Diomedes Diaz,66NweiA3nU84k1S3SZdTSG,Diomedes Díaz,http://www.diomedesdiaz.co,1977,_,_,CO
 Bombay Jayashri,5OTt6O4Q22YsqZDaWV6FqC,Bombay Jayashri,https://www.bombayjayashri.com,1982,_,_,IN
 Gene Autry,5ixB75BQR3ADoWQkcHQJTs,Gene Autry,http://www.geneautry.com/,1931,_,_,US
-Divya Kumar,0NErdIJtuKBjtxKmlqaWdj,Divya Kumar,_,2011,_,_,IN
+Divya Kumar,0NErdIJtuKBjtxKmlqaWdj,Divya Kumar,_,_,_,_,_
 Dino James,45PG2L6Fh2XvYL4ONzpdoW,Dino James,_,_,_,_,_
 Grupo Yndio,2ExqFhtOJ3rXrYJkBMqAxD,Yndio,http://yndio.com.mx/,1972,_,_,MX
 Rionegro & Solimões,33NrinbbEctw1wsdKNgZeZ,Rionegro & Solimões,_,1989,_,_,BR
@@ -755,7 +755,7 @@ Cream,74oJ4qxwOZvX6oSsu1DGnw,Cream,http://www.cream2005.com,1966,1968,_,GB
 Dropkick Murphys,7w9jdhcgHNdiPeNPUoFSlx,Dropkick Murphys,http://www.dropkickmurphys.com/,1996,_,_,US
 Stevie Ray Vaughan,5fsDcuclIe8ZiBD5P787K1,Stevie Ray Vaughan,https://srvofficial.com,1965,1990,_,US
 Eiffel 65,64rxQRJsLgZwHHyWKB8fiF,Eiffel 65,https://www.eiffel65.com,1997,_,2006,IT
-Take That,1XgFuvRd7r5g0h844A5ZUQ,Take That,https://takethat.com/,1990,_,1996,GB
+Take That,1XgFuvRd7r5g0h844A5ZUQ,Take That,https://takethat.com/,1990,1996,_,GB
 Mindless Self Indulgence,5R5MLOQbI4lb7GHYioPqoN,Mindless Self Indulgence,http://www.mindlessselfindulgence.com,1997,_,_,US
 Thin Lizzy,6biWAmrHyiMkX49LkycGqQ,Thin Lizzy,http://www.thinlizzy.org/,1969,1984,_,IE
 Jovanotti,7tmMPdOmFvdRvbj2aWoiRi,Jovanotti,http://www.soleluna.com,1988,_,_,IT
@@ -848,8 +848,8 @@ Oliver Heldens,5nki7yRhxgM509M5ADlN1p,Oliver Heldens,http://oliverheldens.com/,2
 Tego Calderón,3SUT1jjM5hzZj9TLfLZGIP,Tego Calderón,http://www.tegocalderon.com,1998,_,_,US
 David Bisbal,5gOJTI4TusSENizxhcG7jB,David Bisbal,https://davidbisbal.com,2001,_,_,ES
 Booba,58wXmynHaAWI5hwlPZP3qL,Booba,http://www.oklm.com,1994,_,_,FR+SN
-Gloria Trevi,1Db5GsIoVWYktPoD2nnPZZ,la patrona,http://www.mundotrevi.com/,1982,_,_,MX
-Keith Urban,0u2FHSq3ln94y5Q57xazwf,Keith Urban,https://www.keithurban.net/,1990,_,_,NZ+AU
+Gloria Trevi,1Db5GsIoVWYktPoD2nnPZZ,Gloria Trevi,http://www.mundotrevi.com/,1982,_,_,MX
+Keith Urban,0u2FHSq3ln94y5Q57xazwf,Keith Urban,https://www.keithurban.net/,1990,_,_,AU+NZ
 Xavier Wulf,3uo0ix4Y67XHVWBhXXIY1S,Xavier Wulf,_,2011,_,_,US
 Dhanush,2F3KtUVtrt2GLjcl6pB4cz,Dhanush,_,2002,_,_,IN
 ZZ Top,2AM4ilv6UzW0uMRuqKtDgN,ZZ Top,http://www.zztop.com,1969,_,_,US
@@ -871,7 +871,7 @@ LMFAO,3sgFRtyBnxXD5ESfmbK4dl,LMFAO,http://www.lmfaomusic.com/,2006,2012,_,US
 America,35U9lQaRWSQISxQAB94Meo,America,http://www.venturahighway.com/,1970,_,_,GB
 The National,2cCUtGK9sDU2EoElnk0GNB,The National,http://www.americanmary.com,1999,_,_,US
 I Virtuosi Italiani,1k1AM2ESRQseVAj6rvBdtx,_,_,_,_,_,_
-Slayer,1IQ2e1buppatiN1bxUVkrk,العاب,http://www.slayer.net,1981,_,2019,US
+Slayer,1IQ2e1buppatiN1bxUVkrk,Slayer,http://www.slayer.net,1981,_,2019,US
 Kaskade,6TQj5BFPooTa08A7pk8AQ1,Kaskade,http://www.kaskademusic.com,1989,_,_,US
 Jimmy Eat World,3Ayl7mCk0nScecqOzvNp6s,Jimmy Eat World,https://jimmyeatworld.com/,1993,_,_,US
 Manuel Carrasco,7qAoXV4U0qDxQAUqhszjAA,Manuel Carrasco,_,_,_,_,ES
@@ -909,7 +909,7 @@ Tiziano Ferro,11TplWqOPQBTmg2eiSLt1m,Tiziano Ferro,https://www.tizianoferro.com,
 Nando Reis,7n1XMwvxPf10t4OX6h6Ufy,Nando Reis,http://nandoreis.terra.com.br,1981,_,_,BR
 Fernandinho,6iAY2AyUZLSX3PWLIAfFZY,Fernandinho,_,2001,_,_,BR
 Ana Bárbara,43qxAkuKFB6fMNSeS5dO7Z,Ana Bárbara,http://AnaBarbaraMusic.com,1994,_,_,MX
-Yoko Ono,2s4tjL6W3qrblOe0raIzwJ,Yoko Ono,http://www.imaginepeace.com,1961,_,_,US+JP
+Yoko Ono,2s4tjL6W3qrblOe0raIzwJ,Yoko Ono,http://www.imaginepeace.com,1961,_,_,JP+US
 Diego Verdaguer,2UFqwY8A3PLcx8pAkg9g5P,Diego Verdaguer,http://diegoverdaguer.com,1968,2022,_,MX
 Darlene Love,391oLRVmoTkumiN79HkTWu,Darlene Love,http://darleneloveworld.com,1959,_,_,US
 Ben E. King,3plJVWt88EqjvtuB4ZDRV3,Ben E. King,http://beneking.info/,1958,_,_,US
@@ -934,7 +934,7 @@ Ivy Queen,6p2442ymrT9lZEuCZJdYcH,Ivy Queen,_,1988,_,_,_
 La Factoria,4VsbQvC84B8Z3IsBY1HLQy,La Factoría,http://www.panamamusic.com.pa,2013,_,_,PA
 Aleks Syntek,0r8toju2ecKaVtItkzAnNi,Aleks Syntek,http://syntekoficial.com/,1979,_,_,MX
 Cedric Gervais,4Wjf8diP59VmPG7fi4y724,Cedric Gervais,http://www.cedricgervais.com,1998,_,_,FR
-Olivia,5YBSzuCs7WaFKNr7Bky0Uf,Olivia,http://www.oliviaworldwide.com/,2000,_,_,US+CU
+Olivia,5YBSzuCs7WaFKNr7Bky0Uf,Olivia,http://www.oliviaworldwide.com/,2000,_,_,CU+US
 Ocean Sounds,7g56xCsozigPH5OgmwinYA,_,_,_,_,_,_
 Ocean Waves For Sleep,2CgVSpL4tfbUuHmTGS7wF3,_,_,_,_,_,_
 Akhil,6zZrFenNe3YPttxZsnQQs1,Akhil,_,_,_,_,IN
@@ -959,7 +959,7 @@ Yovie & Nuno,3DHOtJqv0Bw65ENlK4FiSF,Yovie & Nuno,_,_,_,_,_
 Nirvana,6olE6TJLqED3rqDCT0FyPh,Nirvana,https://www.nirvana.com/,1987,1994,_,US
 Maroon 5,04gDigrS5kc9YWfZHwBETP,Maroon 5,https://maroon5.com,1994,_,_,US
 Romeo Santos,5lwmRuXgjX8xIwlnauTZIP,Romeo Santos,https://romeosantosonline.com,1995,_,_,US
-Michael Bublé,1GxkXlMwML1oSg5eLPiAz3,Michael Bublé,http://www.michaelbuble.com,1996,_,_,IT+CA
+Michael Bublé,1GxkXlMwML1oSg5eLPiAz3,Michael Bublé,http://www.michaelbuble.com,1996,_,_,CA+IT
 Yandel,0eHQ9o50hj6ZDNBt6Ys1sD,Yandel,https://yandel.com,1998,_,_,US
 Gusttavo Lima,7MiDcPa6UiV3In7lIM71IN,Gusttavo Lima,http://www.gusttavolima.com.br,1999,_,_,BR
 Grupo Marca Registrada,1gW6pz5n1aK249L0GvfQCC,Grupo Marca Registrada,_,_,_,_,_
@@ -985,7 +985,7 @@ Danna Paola,5xSx2FM8mQnrfgM1QsHniB,Danna Paola,_,1999,_,_,MX
 Mohit Chauhan,5GnnSrwNCGyfAU4zuIytiS,Mohit Chauhan,http://mohitchauhan.in/,1998,_,_,IN
 Diljit Dosanjh,2FKWNmZWDBZR4dE5KX4plR,Diljit Dosanjh,http://www.iamdiljitdosanjh.com/,2004,_,_,IN
 Van Halen,2cnMpRsOVqtPMfq7YiFE6K,Van Halen,http://www.Van-Halen.com,1972,2020,2020,US
-Sorriso Maroto,1fUSLFr4WUBx7joEcGwpvG,Sorriso Maroto,_,_,_,_,BR
+Sorriso Maroto,1fUSLFr4WUBx7joEcGwpvG,Sorriso Maroto,http://sorrisomaroto.com.br,1997,_,_,BR
 Tulsi Kumar,0T1CMVkqffHlqEk4BcAph1,Tulsi Kumar,_,2006,_,_,IN
 The Goo Goo Dolls,2sil8z5kiy4r76CRTXxBCA,Goo Goo Dolls,https://www.googoodolls.com/,1986,_,_,US
 Breaking Benjamin,5BtHciL0e0zOP7prIHn3pP,Breaking Benjamin,http://shallowbay.com,1998,_,_,US
@@ -1002,7 +1002,7 @@ Dave Stewart,7gcCQIlkkfbul5Mt0jBQkg,David A. Stewart,http://davestewart.com,1971
 "Tito ""El Bambino""",5fJsY7afrbsyzJj9wdzJMh,Tito El Bambino,_,1990,_,_,_
 Gibbs,1T4HxOYolAEb5PadIVKdWZ,Gibbs,_,_,_,_,_
 No Te Va Gustar,4ZDoy7AWNgQVmX7T0u0B1j,No Te Va Gustar,http://www.notevagustar.com/,1994,_,_,UY
-Alanis Morissette,6ogn9necmbUdCppmNnGOdi,Alanis Morissette,https://alanis.com/,1991,_,_,US+CA
+Alanis Morissette,6ogn9necmbUdCppmNnGOdi,Alanis Morissette,https://alanis.com/,1991,_,_,CA+US
 Adolescent's Orquesta,70nxnxEqDQIEWneRjg2Q4O,Adolescent's Orquesta,_,1995,2006,_,VE
 Duman,6RTC1abMgBC7Krg6qJQHJh,Duman,_,_,_,_,_
 Racionais MC's,29CQLw9uLWsl8Qkz9holfr,Racionais MC's,http://www.racionaisoficial.com.br/,1988,_,_,BR
@@ -1069,7 +1069,7 @@ Reik,0vR2qb8m9WHeZ5ByCbimq2,Reik,http://www.reik.tv,2003,_,_,MX
 Amy Winehouse,6Q192DXotxtaysaqNPy5yR,Amy Winehouse,https://amywinehouse.com,2000,2011,_,GB
 Dire Straits,0WwSkZ7LtFUFjGjMZBMt6T,Dire Straits,https://direstraits.com,1977,1995,_,GB
 Three Days Grace,2xiIXseIJcq3nG7C8fHeBj,Three Days Grace,http://www.threedaysgrace.com,1997,_,_,CA
-Mark Ronson,3hv9jJF3adDNsBSIQDqcjp,Mark Ronson,http://markronson.co.uk,1993,_,_,GB+US
+Mark Ronson,3hv9jJF3adDNsBSIQDqcjp,Mark Ronson,http://markronson.co.uk,1993,_,_,US+GB
 Alfonso Herrera,0veZkZPeWoJQ9gt6VAXlkN,Alfonso Herrera,_,_,_,_,_
 La K'onga,3ghRXw2nUEH2THaL82hw8R,_,_,_,_,_,_
 YG,0A0FS04o6zMoto8OKPsDwY,YG,http://yg400.net/,2006,_,_,US
@@ -1092,7 +1092,7 @@ Miranda Lambert,66lH4jAE7pqPlOlzUKbwA0,Miranda Lambert,http://www.mirandalambert
 Turma do Pagode,5JG9GISYjRLQUJMH2C6iJ5,Turma do Pagode,_,2001,_,_,BR
 Shinedown,70BYFdaZbEKbeauJ670ysI,Shinedown,https://www.shinedown.com/,1999,_,_,US
 Jeezy,4yBK75WVCQXej1p04GWqxH,Jeezy,http://www.youngjeezy.com,1997,_,_,US
-Sleeping At Last,0MeLMJJcouYXCymQSHPn8g,Sleeping at Last,http://www.sleepingatlast.com/,1999,_,_,US
+Sleeping At Last,0MeLMJJcouYXCymQSHPn8g,Sleeping At Last,http://www.sleepingatlast.com/,1999,_,_,US
 Talking Heads,2x9SpqnPi8rlE9pjHBwmSC,Talking Heads,https://store.talkingheadsofficial.com,1975,_,_,US
 Supertramp,3JsMj0DEzyWc0VDlHuy9Bx,Supertramp,http://www.supertramp.com/,1969,_,_,GB
 The Fray,0zOcE3mg9nS6l3yxt1Y0bK,The Fray,https://thefray.com,2002,_,_,US
@@ -1102,7 +1102,7 @@ Benny Dayal,61if35zz1W11GejEkxTLEQ,Benny Dayal,_,2002,_,_,IN
 Kyla,77DAFfvm3O9zT5dIoG0eIO,Kyla,_,2008,_,_,GB
 Cherish,1c70yCa8sRgIiQxl3HOEFo,Cherish,http://www.officialcherish.com,2003,_,_,US
 Franz Ferdinand,0XNa1vTidXlvJ2gHSsRi4A,Franz Ferdinand,https://franzferdinand.com/,2002,_,_,GB
-Gotye,2AsusXITU8P25dlRNhcAbG,Gotye,http://www.gotye.com,2001,_,_,AU+BE
+Gotye,2AsusXITU8P25dlRNhcAbG,Gotye,http://www.gotye.com,2001,_,_,BE+AU
 Christian Rode,2cABTSbS08jI5ZxjXSjvOP,Christian Rode,_,_,_,_,DE
 Sagopa Kajmer,1KXTegXtnCPKXjRaX1llcD,Sagopa Kajmer,https://melankolia.com.tr/,1996,_,_,TR
 Vince Guaraldi Trio,4ytkhMSAnrDP8XzRNlw9FS,Vince Guaraldi Trio,_,_,_,_,_
@@ -1127,7 +1127,7 @@ Randy,7qYeIN2r4H1kBvr0Gm9Iav,Randy,http://www.randytheband.com/,1992,_,_,SE
 Phil Wickham,5d1JhBfyb58upMXCZOdbQu,Phil Wickham,_,2002,_,_,US
 Kavita Seth,3nQ125TJobosBH446Dsvvv,Kavita Seth,http://www.kavitaseth.com/,_,_,_,IN
 Claptone,4mncDFjVLUa3s025Tct3Ry,Claptone,http://claptone.com,2012,_,_,DE
-José González,6xrCU6zdcSTsG2hLrojpmI,José González,http://www.jose-gonzalez.com,2003,_,_,AR+SE
+José González,6xrCU6zdcSTsG2hLrojpmI,José González,https://jose-gonzalez.com,2003,_,_,SE+AR
 Billy Talent,08yf5A2nS4XEeNvabDXqyg,Billy Talent,http://www.billytalent.com,1993,_,_,CA
 Aaron Smith,77qukKzmdI5BeMBR7WGUrN,Aaron Smith,_,_,_,_,US
 Lamp,0rFHElzeddB9ymDjgpBENX,Lamp,https://lampweb.jp/,2000,_,_,JP
@@ -1135,7 +1135,7 @@ Vicentico,25THA9HUHoxpCT4LBp7UsZ,Vicentico,http://www.vicentico.com/,1978,_,_,AR
 Billy Currington,1By9QBFnjZAoI83BZppHlt,Billy Currington,http://www.billycurrington.com,1996,_,_,US
 Casting Crowns,6eJqAWJdd8JhAN1pQGie4r,Casting Crowns,https://www.castingcrowns.com/home,1999,_,_,US
 Nightcrawlers,1gALaWbNDnwS2ECV09sn2A,Nightcrawlers,_,_,_,_,_
-Josh Turner,7vCtweS8UVAXTyau2j0rDT,Josh Turner,_,_,_,_,_
+Josh Turner,7vCtweS8UVAXTyau2j0rDT,Josh Turner,http://joshturner.com,2001,_,_,US
 Daughtry,5P5FTygHyx2G57oszR3Wot,Daughtry,http://www.daughtryofficial.com/,2006,_,_,US
 Tommee Profitt,73jlPRxT7z5xk29sMqFDjU,Tommee Profitt,_,_,_,_,US
 Maelo Ruiz,3HyrDGPLI0c9Rd8luuO0zw,Maelo Ruiz,_,_,_,_,US
@@ -1209,7 +1209,7 @@ Paramore,74XFHRwlV6OrjEM0A2NCMF,Paramore,http://www.paramore.net/,2004,_,_,US
 Ne-Yo,21E3waRsmPlU7jZsS13rcj,Ne-Yo,http://neyothegentleman.com/,1998,_,_,US
 Gesaffelstein,3hteYQFiMFbJY7wS0xDymP,Gesaffelstein,https://www.gesaffelstein.com,2008,_,_,FR
 Atif Aslam,2oSONSC9zQ4UonDKnLqksx,Atif Aslam,http://www.aadeez.com,2004,_,_,PK
-Steve Aoki,77AiFEVeAVj2ORpC85QVJs,Steve Aoki,http://www.steveaoki.com,1999,_,_,US+JP
+Steve Aoki,77AiFEVeAVj2ORpC85QVJs,Steve Aoki,http://www.steveaoki.com,1999,_,_,JP+US
 Jason Aldean,3FfvYsEGaIb52QPXhg4DcH,Jason Aldean,https://www.jasonaldean.com,2005,_,_,US
 Adam Levine,4bYPcJP5jwMhSivRcqie2n,Adam Levine,http://www.maroon5.com/home,1994,_,_,US
 1nonly,3ZHU5AKrUmIPnCFfr82QER,1nonly,_,_,_,_,_
@@ -1256,7 +1256,7 @@ Future,1RyvyyTE3xzB2ZywiAwp0i,Future,http://futurefreebandz.com/,2009,_,_,US
 Anirudh Ravichander,4zCH9qm4R2DADamUHMCa6O,Anirudh Ravichander,_,2011,_,_,IN
 Banda MS de Sergio Lizárraga,2C6i0I5RiGzDKN9IAF8reh,Banda MS,http://www.bandams.com.mx,2003,_,_,MX
 The Smiths,3yY2gUcIsjMr8hjo51PoJ8,The Smiths,https://www.officialsmiths.co.uk,1982,_,_,GB
-French Montana,6vXTefBL93Dj5IqAWq6OTv,French Montana,https://www.frenchmontana.com/,2002,_,_,US+MA
+French Montana,6vXTefBL93Dj5IqAWq6OTv,French Montana,https://www.frenchmontana.com/,2002,_,_,MA+US
 Tainy,0GM7qgcRCORpGnfcN2tCiB,Tainy,_,2002,_,_,_
 Neha Kakkar,5f4QpKfy7ptCHwTqspnSJI,Neha Kakkar,https://www.nehakakkar.com/,2006,_,_,IN
 Beach House,56ZTgzPBDge0OvCGgMO3OY,Beach House,http://www.beachhousebaltimore.com/,2004,_,_,US
@@ -1291,7 +1291,7 @@ Neeraj Shridhar,3tHD07u1ON4uHxmnT9rwqZ,Neeraj Shridhar,_,_,_,_,IN
 Peter Fox,6rqlONGmPuP2wJVSfliLBI,Peter Fox,https://www.peterfox.de,1998,_,_,DE
 India Martinez,6FOpWOxsjQxKEbLiJpU1xV,India Martínez,http://www.indiamartinez.es,_,_,_,ES
 Nipsey Hussle,0EeQBlQJFiAfJeVN2vT9s0,Nipsey Hussle,http://www.ihussle.com/,2005,2019,_,US
-MIKA,5MmVJVhhYKQ86izuGHzJYA,Mika,https://yomika.com/,2006,_,_,US+LB+GB
+MIKA,5MmVJVhhYKQ86izuGHzJYA,Mika,https://yomika.com/,2006,_,_,US+GB+LB
 The Temper Trap,4W48hZAnAHVOC2c8WH8pcq,The Temper Trap,http://thetempertrap.com/,2005,_,_,AU
 Maneva,1OFP2fSFWTfJ80rzUo5AGb,Maneva,_,_,_,_,_
 Helene Fischer,7MzHPIXAqIOCnvK0sVY72W,Helene Fischer,http://www.helene-fischer.de/home,2005,_,_,DE
@@ -1319,7 +1319,7 @@ Meek Mill,20sxb77xiYeusSH8cVdatc,Meek Mill,http://www.meekmilldreamteam.com/,200
 Armaan Malik,4IKVDbCSBTxBeAsMKjAuTs,Armaan Malik,https://armaanmalik.com/,2007,_,_,IN
 Mother Mother,0e86yPdC41PGRkLp2Q1Bph,Mother Mother,https://www.mothermothersite.com/,2005,_,_,CA
 benny blanco,5CiGnKThu5ctn9pBxv7DGa,Benny Blanco,http://benny-blanco.com/,2007,_,_,US
-Carlos Rivera,39yVoqm6sYFvvqF1RciUVf,Carlos Rivera,_,2004,_,_,PA
+Carlos Rivera,39yVoqm6sYFvvqF1RciUVf,Carlos Rivera,_,_,_,_,US
 Gerardo Ortiz,4J13m9IZh03PEhoxAxRhXO,Gerardo Ortiz,_,2009,_,_,US
 Pierce The Veil,4iJLPqClelZOBCBifm8Fzv,Pierce the Veil,http://www.piercetheveil.net,2007,_,_,US
 Skepta,2p1fiYHYiXz9qi0JJyxBzN,Skepta,http://helloskepta.com,2000,_,_,GB+NG
@@ -1332,12 +1332,12 @@ Owl City,07QEuhtrNmmZ0zEcqE9SF6,Owl City,https://www.owlcitymusic.com,2007,_,_,U
 Motionless In White,6MwPCCR936cYfM1dLsGVnl,Motionless in White,http://motionlessinwhite.net,2005,_,_,US
 Fabrizio Paterlini,0jrFMgW018F1XVnLtCXOKi,Fabrizio Paterlini,http://www.fabriziopaterlini.com,2007,_,_,IT
 Sean Kingston,6S0dmVVn4udvppDhZIWxCr,Sean Kingston,http://www.seankingston.com,2006,_,_,JM
-Lucenzo,5bv5RplEOwdCvhq0EILh9E,Lucenzo,http://www.lucenzo.com,2000,_,_,PT+FR
+Lucenzo,5bv5RplEOwdCvhq0EILh9E,Lucenzo,http://www.lucenzo.com,2000,_,_,FR+PT
 Hamza,5gs4Sm2WQUkcGeikMcVHbh,Hamza,_,2012,_,_,BE
 Lykke Li,6oBm8HB0yfrIc9IHbxs6in,Lykke Li,https://www.lykkeli.com/,2007,_,_,SE
 Pedro Capó,4QVBYiagIaa6ZGSPMbybpy,Pedro Capó,https://www.pedrocapomusica.com/,2007,_,_,US
 Mike Perry,6lB8vOoI4DRrrVxXwuV19c,Mike Perry,_,2006,_,_,SE
-Money Man,3Rx4PJ7SP6unkOk5elPUK7,Money Man,_,_,_,_,_
+Money Man,3Rx4PJ7SP6unkOk5elPUK7,Money Man,_,2016,_,_,_
 Colbie Caillat,6aZyMrc4doVtZyKNilOmwu,Colbie Caillat,https://www.colbiecaillat.com/,2007,_,_,US
 Zac Efron,6U1dBXJhC8gXFjamvFTmHg,Zac Efron,http://zacefron.com,2002,_,_,US
 María José,1dJyh390MvfYPuNbhnbSDs,María José,http://mariajoseoficial.com/,1992,_,_,MX
@@ -1353,7 +1353,7 @@ Adele,4dpARuHxo51G3z768sgnrY,Adele,https://adele.com,2006,_,_,GB
 "Tyler, The Creator",4V8LLVI7PbaPR0K2TGSxFF,"Tyler, the Creator",https://www.golfwang.com/,2007,_,_,US
 Lady Gaga,1HY2Jd0NmPuamShAr6KMms,Lady Gaga,https://ladygaga.com,2005,_,_,US
 Drake,3TVXtAsR1Inumwj472S9r4,Drake,https://drakerelated.com,2001,_,_,US+CA
-Nicki Minaj,0hCNtLu0JehylgoiP8L4Gh,Nicki Minaj,http://www.nickiminajofficial.com/,2004,_,_,TT+US
+Nicki Minaj,0hCNtLu0JehylgoiP8L4Gh,Nicki Minaj,http://www.nickiminajofficial.com/,2004,_,_,US+TT
 Selena Gomez,0C8ZW7ezQVs4URX5aX7Kqx,Selena Gomez,https://www.selenagomez.com/,2001,_,_,US
 Frank Ocean,2h93pZq0e7k5yf4dywlkpM,Frank Ocean,https://blonded.co/,2005,_,_,US
 Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,Ariana Grande,https://www.arianagrande.com,2008,_,_,US
@@ -1374,7 +1374,7 @@ Thaman S,2FgHPfRprDaylrSRVf1UlN,_,_,_,_,_,_
 Stromae,5j4HeCoUlzhfWtjAfM1acR,Stromae,http://www.stromae.com,2000,_,_,BE
 The Script,3AQRLZ9PuTAozP28Skbq8V,The Script,http://www.thescriptmusic.com/,2001,_,_,IE
 Ryan Lewis,4myTppRgh0rojLxx8RycOp,Ryan Lewis,https://macklemore.com/,2006,_,_,US
-Carly Rae Jepsen,6sFIWsNpZYqfjUpaCgueju,Q52583,http://www.carlyraemusic.com/,2008,_,_,CA
+Carly Rae Jepsen,6sFIWsNpZYqfjUpaCgueju,Carly Rae Jepsen,http://www.carlyraemusic.com/,2008,_,_,CA
 Tazzy,1LbQ66B9mZIHGhjRu9fvKo,_,_,_,_,_,_
 Mustard,0YinUQ50QDB7ZxSCLyQ40k,Mustard,http://djmustard.com/,2010,_,_,US
 Amit Trivedi,7HCqGPJcQTyGJ2yqntbuyr,Amit Trivedi,_,2001,_,_,IN
@@ -1384,7 +1384,7 @@ Lin-Manuel Miranda,4aXXDj9aZnlshx7mzj3W1N,Lin-Manuel Miranda,http://linmanuel.co
 Bo Burnham,2Waw2sSbqvAwK8NwACNjVo,Bo Burnham,_,_,_,_,_
 RÜFÜS DU SOL,5Pb27ujIyYb33zBqVysBkj,Rüfüs Du Sol,https://www.rufusdusol.com/,_,_,_,AU
 Alan Gomez,6oMRQ5H3A2XA5I3RG3leni,_,_,_,_,_,_
-Kizzy,2NMYOlZHIEsSq7pp5jBjic,Kizzy,_,_,_,_,GB
+Kizzy,2NMYOlZHIEsSq7pp5jBjic,Kizzy,_,2003,_,_,NL
 IU,3HqSLMAZ3g3d5poNaI7GOU,IU,http://edam-ent.com/eng/sub03/sub03_0301_view,2007,_,_,KR
 White Noise for Babies,4ZfEELHfyKd4odAb6YfDFw,_,_,_,_,_,_
 Empire of the Sun,67hb7towEyKvt5Z8Bx306c,Empire of the Sun,https://empireofthesun.co,2007,_,_,AU
@@ -1468,7 +1468,7 @@ Alfredo Olivas,5xYNmNkaWRqu3e5F4UXME8,Alfredo Olivas,_,2011,_,_,MX
 Prince Royce,3MHaV05u0io8fQbZ2XPtlC,Prince Royce,http://www.princeroyce.com,2008,_,_,US
 El Alfa,2oQX8QiMXOyuqbcZEFsZfm,El Alfa,https://eljefemoneyrecord.com,2008,_,_,DO
 Calibre 50,4jogXSSvlyMkODGSZ2wc2P,Calibre 50,http://calibre50.co/,2010,_,_,MX
-Ghost,1Qp56T7n950O3EGMsSl81D,Ghost,http://www.ghost-official.com/,2008,_,_,SE
+Ghost,1Qp56T7n950O3EGMsSl81D,Ghostbdf,http://www.ghost-official.com/,2008,_,_,SE
 Pablo Alborán,5M9Bb4adKAgrOFOhc05Y50,Pablo Alborán,http://pabloalboran.es/,2010,_,_,ES
 Julia Michaels,0ZED1XzwlLHW4ZaG4lOT6m,Julia Michaels,http://www.juliamichaelsofficial.com,2010,_,_,US
 Mambo Kingz,2T1aUibqR2QC2sINIDQOAK,Mambo Kingz,_,_,_,_,_
@@ -1541,7 +1541,7 @@ Justin Quiles,14zUHaJZo1mnYtn6IBRaRP,Justin Quiles,_,2010,_,_,US
 Sabrina Carpenter,74KM79TiuVKeVCqs8QtB0B,Sabrina Carpenter,http://www.sabrinacarpenter.com,2011,_,_,US
 PARTYNEXTDOOR,2HPaUgqeutzr3jx5a9WyDV,PartyNextDoor,https://www.partyomo.com,2006,_,_,CA
 Russ,1z7b1Pr1rSlvWRzsW3HOrS,Russ,_,2007,_,_,US
-DJ Snake,540vIaP2JwjQb9dm3aArA4,DJ Snake,http://www.djsnake.com,2009,_,_,DZ+FR
+DJ Snake,540vIaP2JwjQb9dm3aArA4,DJ Snake,http://www.djsnake.com,2009,_,_,FR+DZ
 Migos,6oMuImdp5ZcFhWP0ESe6mG,Migos,http://migosofficial.com/,2008,2022,_,US
 Tyler Childers,13ZEDW6vyBF12HYcZRr4EV,Tyler Childers,https://tylerchildersmusic.com/,2010,_,_,US
 Little Mix,3e7awlrlDSwF3iM0WBjGMp,Little Mix,https://www.little-mix.com/,2011,2022,_,GB
@@ -1562,7 +1562,7 @@ Natti Natasha,1GDbiv3spRmZ1XdM1jQbT7,Natti Natasha,https://nattinatasha.com/,201
 Topic,0u6GtibW46tFX7koQ6uNJZ,Topic,https://www.topic-music.com/,2014,_,_,DE
 Mabel Matiz,1dpqJqIuNqideTvmxBsSku,Mabel Matiz,http://www.mabelmatiz.com/,2008,_,_,TR
 White Noise Baby Sleep,4W12lEvVl5wectUtRNrvDh,_,_,_,_,_,_
-Mon Laferte,4boI7bJtmB1L3b1cuL75Zr,Mon Laferte,_,2003,_,_,CL+MX
+Mon Laferte,4boI7bJtmB1L3b1cuL75Zr,Mon Laferte,_,2003,_,_,MX+CL
 GIMS,0GOx72r5AAEKRGQFn3xqXK,Gims,https://www.maitre-gims.fr,2002,_,_,CD
 Lomepal,1Yfe3ONJlioHys7jwHdfVm,Lomepal,_,2011,_,_,FR
 MNEK,7uMh23xWiuR7zsNkuNcm2G,MNEK,http://mnekofficial.com/,2011,_,_,GB
@@ -1594,7 +1594,7 @@ Vince Staples,68kEuyFKyqrdQQLLsmiatm,Vince Staples,http://vincestaples.com,2008,
 Ronnie Flex,5eir5zFJpES4j7gsymbVyl,Ronnie Flex,http://www.ronnieflex.nl/,2008,_,_,NL
 Of Monsters and Men,4dwdTW1Lfiq0cM8nBAqIIz,Of Monsters and Men,http://www.ofmonstersandmen.com,2010,_,_,IS
 Boef,0Jsk5iYMr5aNjHury7blm1,Boef,_,_,_,_,_
-Stephanie Beatriz,5PYToRCsrnvikZg3yl2JMr,Stephanie Beatriz,_,2009,_,_,US+AR
+Stephanie Beatriz,5PYToRCsrnvikZg3yl2JMr,Stephanie Beatriz,_,2009,_,_,AR+US
 Ankit Tiwari,0E02VcvA5p1ndkLdqWD5JB,Ankit Tiwari,_,_,_,_,IN
 The Neighbourhood,77SW9BnxLY8rJ0RciFqkHh,The Neighbourhood,https://thenbhd.com/,2011,_,_,US
 Duki,1bAftSH8umNcGZ0uyV7LMg,Duki,https://duki.com.ar,2016,_,_,AR
@@ -1613,7 +1613,7 @@ Henrique & Juliano,3p7PcrEHaaKLJnPUGOtRlT,Henrique & Juliano,_,2011,_,_,BR
 Tom Odell,2txHhyCwHjUEpJjWrEyqyX,Tom Odell,http://tomodell.com,2012,_,_,GB
 Mitski,2uYWxilOVlUdk4oV9DvwqK,Mitski,https://mitski.com/,2012,_,_,US
 The Chainsmokers,69GGBxA162lTqCwzJG5jLp,The Chainsmokers,http://thechainsmokers.com,2012,_,_,US
-Kygo,23fqKkggKUBHNkbKtXEls4,Kygo,https://www.kygomusic.com/,2009,_,_,NO+SG
+Kygo,23fqKkggKUBHNkbKtXEls4,Kygo,https://www.kygomusic.com/,2009,_,_,SG+NO
 5 Seconds of Summer,5Rl15oVamLq7FbSb0NNBNy,5 Seconds of Summer,https://5sos.com/,2011,_,_,AU
 Matheus & Kauan,2Z0lRIqr997lIUiPtrpKCr,Matheus e Kauan,http://matheusekauan.com.br,2010,_,_,BR
 Glass Animals,4yvcSjfu4PC0CYQyLy4wSq,Glass Animals,http://glassanimals.eu/,2010,_,_,GB
@@ -1621,7 +1621,7 @@ The Lumineers,16oZKvXb6WkQlVAjwo2Wbg,The Lumineers,http://thelumineers.com/,2005
 Martin Garrix,60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,https://martingarrix.com/,2012,_,_,NL
 Melanie Martinez,63yrD80RY3RNEM2YDpUpO8,Melanie Martinez,https://www.melaniemartinezmusic.com/,2000,_,_,US
 Becky G,4obzFoKoKRHIphyHzJ35G3,Becky G,https://www.iambeckyg.com/,2011,_,_,US
-Lorde,163tK9Wjr9P9DmM0AVK7lm,Lorde,https://lorde.co.nz,2009,_,_,NZ+HR
+Lorde,163tK9Wjr9P9DmM0AVK7lm,Lorde,https://lorde.co.nz,2009,_,_,HR+NZ
 Becky Hill,4EPJlUEBy49EX1wuFOvtjK,Becky Hill,http://www.beckyhillofficial.com/,2012,_,_,GB
 Wesley Safadão,1AL2GKpmRrKXkYIcASuRFa,Wesley Safadão,http://www.wesleysafadao.com.br,2007,_,_,BR
 Kumaar,0m3D4grap8VFSzbJMqgNVk,Kumaar,_,2006,_,_,IN
@@ -1650,7 +1650,7 @@ CRO,3utZ2yeQk0Z3BCOBWP7Vlu,Cro,https://cromusik.de,2006,_,_,DE
 alt-J,3XHO7cRUPCLOr6jwp8vsx5,alt-J,http://www.altjband.com/,2007,_,_,GB
 Kodaline,4BxCuXFJrSWGi1KHcVqaU4,Kodaline,http://www.kodaline.com/,2005,_,_,IE
 ODESZA,21mKp7DqtSNHhCAU2ugvUw,Odesza,http://odesza.com/,2012,_,_,US
-Matisse,77aLk6J8ofnVxa1eXK9jiU,Matisse,http://www.facebook.com/matisseband/info,1999,_,_,GR
+Matisse,77aLk6J8ofnVxa1eXK9jiU,Matisse,_,_,_,_,_
 MØ,0bdfiayQAKewqEvaU6rXCv,MØ,http://www.momomoyouth.com,2006,_,_,_
 Earl Sweatshirt,3A5tHz1SfngyOZM2gItYKu,Earl Sweatshirt,http://www.earlsweatshirt.com/,2008,_,_,US
 Pouya,4nXOZlYoAD67hF9aUEncMY,Pouya,_,2011,_,_,US
@@ -1667,7 +1667,7 @@ Tinashe,0NIIxcxNHmOoyBx03SfTCD,Tinashe,http://tinashenow.com,2000,_,_,US
 Fiersa Besari,06QVnTCdjs4jPKO0487EGV,Fiersa Besari,_,_,_,_,_
 Ozuna,1i8SpTcr7yvPOmcqrbnVXY,Ozuna,https://ozuna.store,2011,_,_,US
 Oliver Tree,6TLwD7HPWuiOzvXEa3oCNe,Oliver Tree,https://www.olivertreemusic.com/,2011,_,_,US
-Sebastian Yatra,07YUOmWljBTXwIseAUd9TW,Sebastián Yatra,https://sebastianyatra.com,2013,_,_,CO+ES
+Sebastian Yatra,07YUOmWljBTXwIseAUd9TW,Sebastián Yatra,https://sebastianyatra.com,2013,_,_,ES+CO
 NF,6fOMl44jA4Sp5b9PpYCkzz,NF,https://www.nfrealmusic.com/,2010,_,_,US
 Alan Walker,7vk5e3vY1uw9plTHJAMwjN,Alan Walker,https://alanwalker.com/,2012,_,_,NO+GB
 NLE Choppa,0ErzCpIMyLcjPiwT4elrtZ,NLE Choppa,https://www.nlechoppa.com/,2018,_,_,US
@@ -1730,7 +1730,7 @@ Lil Uzi Vert,4O15NlyKLIASxsJ0PrXPfz,Lil Uzi Vert,https://liluziofficial.com,2010
 SZA,7tYKF4w9nC0nq9CsPZTHyP,SZA,_,2012,_,_,US
 $uicideboy$,1VPmR4DJC1PlOtd0IADAO0,$uicideboy$,http://www.g59records.com/suicideboys/,2014,_,_,US
 Morgan Wallen,4oUHIQIBe0LHzYfvXNW4QM,Morgan Wallen,https://morganwallen.com/,2014,_,_,US
-Lil Peep,2kCcBybjl3SAtIcwdWpUe3,Lil Peep,https://lilpeep.com/,2014,2017,_,SE+US
+Lil Peep,2kCcBybjl3SAtIcwdWpUe3,Lil Peep,https://lilpeep.com/,2014,2017,_,US+SE
 Shawn Mendes,7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,http://www.shawnmendesofficial.com/,2013,_,_,CA
 Luke Combs,718COspgdWOnwOFpJHRZHS,Luke Combs,http://www.lukecombs.com,2014,_,_,US
 Sech,77ziqFxp5gaInVrF2lj4ht,Sech,https://sech.fm,2014,_,_,PA
@@ -1752,7 +1752,7 @@ Santa Fe Klan,4tm8CEdm4pkQsEh4jIr9Yp,Santa Fe Klan,_,_,_,_,MX
 Kehlani,0cGUm45nv7Z6M6qdXYQGTX,Kehlani,http://www.kehlanimusic.com/,2009,_,_,US
 Mc Don Juan,7Lmrb6KcIzfkmgbtokjsAL,MC Don Juan,_,2012,_,_,_
 Gera MX,2hejA1Dkf8v8R0koF44FvW,Gera MX,_,_,_,_,MX
-beabadoobee,35l9BRT7MXmM8bv2WDQiyB,beabadoobee,https://beabadoobee.com/,2017,_,_,GB+PH
+beabadoobee,35l9BRT7MXmM8bv2WDQiyB,beabadoobee,https://beabadoobee.com/,2017,_,_,PH+GB
 Sigala,1IueXOQyABrMOprrzwQJWN,Sigala,https://www.sigalamusic.com/,2015,_,_,GB
 Brytiago,00XhexlJEXQstHimpZN910,Brytiago,_,2014,_,_,_
 Red Velvet,1z4g3DjTBBZKhvAroFlhOM,Red Velvet,http://redvelvet-jp.net,2014,_,_,KR
@@ -1820,7 +1820,7 @@ JID,6U3ybJ9UHNKEdsH7ktGBZ7,JID,http://www.jidsv.com/,2010,_,_,US
 Danny Ocean,5H1nN1SzW0qNeUEZvuXjAj,Danny Ocean,_,2009,_,_,VE
 Orochi,3rfM2cGqF6DB0kUyytMkXx,Orochi,_,_,_,_,BR
 Jubin Nautiyal,1tqysapcCh1lWEAc9dIFpa,Jubin Nautiyal,_,2014,_,_,IN
-Damso,2UwqpfQtNuhBwviIC0f2ie,Damso,_,2006,_,_,BE+CD
+Damso,2UwqpfQtNuhBwviIC0f2ie,Damso,_,2006,_,_,CD+BE
 Lauv,5JZ7CnR6gTvEMKX4g70Amv,Lauv,https://www.lauvsongs.com/,2015,_,_,US
 Bryant Myers,6w9ToX5slZ4uIdmD17hJ3c,Bryant Myers,https://bryantmyers.net,2015,_,_,US
 Moneybagg Yo,3tJoFztHeIJkJWMrx0td2f,Moneybagg Yo,http://www.baggnation.com/,2012,_,_,US
@@ -1830,7 +1830,7 @@ Dermot Kennedy,5KNNVgR6LBIABRIomyCwKJ,Dermot Kennedy,http://www.dermotkennedy.co
 Alessia Cara,2wUjUUtkb5lvLKcGKsKqsR,Alessia Cara,http://www.alessiacara.com/,2014,_,_,IT+CA
 Ruth B.,2WzaAvm2bBCf4pEhyuDgCY,Ruth B.,https://www.ruthbofficial.com,2014,_,_,CA
 PNL,3NH8t45zOTqzlZgBvZRjvB,PNL,_,2014,_,_,FR+DZ
-NAV,7rkW85dBwwrJtlHRDkJDAC,Nav,http://navmusic.com,2015,_,_,CA+IN
+NAV,7rkW85dBwwrJtlHRDkJDAC,Nav,http://navmusic.com,2015,_,_,IN+CA
 Gabito Ballesteros,6Sbl0NT50roqWvy746MfVf,Gabito Ballesteros,_,_,_,_,MX
 Murilo Huff,3hq7WoPJsrRP0KMSLhUgRz,Murilo Huff,_,_,_,_,BR
 Cavetown,2hR4h1Cao2ueuI7Cx9c7V8,Cavetown,https://cave.town/,2012,_,_,GB
@@ -1859,7 +1859,7 @@ PnB Rock,21WS9wngs9AqFckK7yYJPM,PnB Rock,https://pnbrockofficial.com/,2011,_,_,U
 SAINt JHN,0H39MdGGX6dbnnQPt6NQkZ,Saint Jhn,http://saintjhn.com/,2010,_,_,US
 Sasha Alex Sloan,4xnihxcoXWK3UqryOSnbw5,Sasha Alex Sloan,https://www.sadgirlsloan.com/,2015,_,_,US
 Ashe,6P5NO5hzJbuOqSdyPB7SJM,Ashe,https://www.ashe-music.com/,2017,_,_,US
-Capital Bra,4WZGDpNwrC0vNQyl9QzF7d,Capital Bra,_,2009,_,_,RU+UA+DE
+Capital Bra,4WZGDpNwrC0vNQyl9QzF7d,Capital Bra,_,2009,_,_,DE+RU+UA
 Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,Billie Eilish,https://billieeilish.com,2015,_,_,US
 Joji,3MZsBdqDrRTJihTHQrO6Dq,Joji,https://jojimusic.com/,2006,_,_,AU
 ROSALÍA,7ltDVBr6mKbRvohxheJ9h1,Rosalía,https://rosalia.com,2013,_,_,ES
@@ -1897,14 +1897,14 @@ Karan Aujla,6DARBhWbfcS9E4yJzcliqQ,Karan Aujla,_,2014,_,_,_
 NEFFEX,3z97WMRi731dCvKklIf2X6,Neffex,http://neffexmusic.com,_,_,_,US
 bbno$,41X1TR6hrK8Q2ZCpp2EqCz,bbno$,https://bbnomula.com/,2015,_,_,CA
 Dominic Fike,6USv9qhCn6zfxlBQIYJ9qs,Dominic Fike,http://dominicfike.com,2017,_,_,US
-Aya Nakamura,7IlRNXHjoOCgEAWN5qYksg,Aya Nakamura,_,2015,_,_,FR
+Aya Nakamura,7IlRNXHjoOCgEAWN5qYksg,Aya Nakamura,_,2001,_,_,FR+ML
 Pineapple StormTv,09U6hmCerKcIJrixubiBjm,_,_,_,_,_,_
 CKay,048LktY5zMnakWq7PTtFrz,CKay,https://www.ckay-music.com/,2016,_,_,NG
 Mau y Ricky,2wkoKEfS6dXwThbyTnZWFU,Mau y Ricky,http://mauyricky.com,2011,_,_,VE
 Young Cister,0Yg29FX1M4ayqjXs0ttZFq,Young Cister,https://youngcistermerch.com/,2012,_,_,CL
 Yung Gravy,2YOYua8FpudSEiB9s88IgQ,Yung Gravy,https://creamium.net/,2016,_,_,US
 Bazzi,4GvEc3ANtPPjt1ZJllr5Zl,Bazzi,https://bazziofficial.com,2013,_,_,US
-Soolking,0GgY7hjMoGDsX8ZDe2mwds,Soolking,https://soolking.shop,2011,_,_,FR+DZ
+Soolking,0GgY7hjMoGDsX8ZDe2mwds,Soolking,https://soolking.shop,2011,_,_,DZ+FR
 Pablo Chill-E,2XcZshqzPKm3iZcmt73R8D,Pablo Chill-E,_,_,_,_,CL
 NCT 127,7f4ignuCJhLXfZ9giKT7rH,NCT 127,https://www.nct127totheworld.com,2016,_,_,KR
 Two Feet,5sWHDYs0csV6RS48xBl0tH,Two Feet,https://www.twofeetmusic.com/,2016,_,_,US
@@ -1928,7 +1928,7 @@ Yeat,3qiHUAX7zY4Qnjx8TNUzVx,Yeat,https://www.yeatofficial.com/,2015,_,_,US
 Kim Petras,3Xt3RrJMFv5SZkCfUE8C1J,Kim Petras,https://kimpetras.com/,2011,_,_,DE
 Jhayco,6nVcHLIgY5pE2YCl8ubca1,Jhayco,https://jhayco.com,2011,_,_,US
 Roddy Ricch,757aE44tKEUQEqRuT6GnEB,Roddy Ricch,https://www.roddyricchofficial.com/,2017,_,_,US
-Tate McRae,45dkTj5sMRSjrmBSBeiHym,Tate McRae,https://www.tatemcrae.com/,2011,_,_,CA
+Tate McRae,45dkTj5sMRSjrmBSBeiHym,Tate McRae,https://www.tatemcrae.com/,2013,_,_,CA
 Paulo Londra,3vQ0GE3mI0dAaxIMYe5g7z,Paulo Londra,https://www.paulolondra.us/,2022,_,_,AR
 Rod Wave,45TgXXqMDdF8BkjA83OM7z,Rod Wave,https://www.officialrodwave.com/,_,_,_,US
 Xamã,5YwzDz4RJfTiMHS4tdR5Lf,Xamã,_,2016,_,_,BR
@@ -1947,8 +1947,8 @@ HARDY,5QNm7E7RU2m64l6Gliu8Oy,_,_,_,_,_,_
 KHEA,4m6ubhNsdwF4psNf3R8kwR,Khea,https://kheamusic.com,2017,_,_,AR
 Key Glock,0RESbWvOMyua0yuyVrztJ5,Key Glock,https://keyglock.com/,2016,_,_,US
 D-Block Europe,5VadK1havLhK1OpKYsXv9y,D-Block Europe,http://dblockeurope.com/,2014,_,_,GB
-Trueno,2x7PC78TmgqpEIjaGAZ0Oz,Trueno,_,2014,_,_,AR
-Ryan Castro,7j6DKwmjbxvpQO8h914uEz,Ryan Castro,_,_,_,_,US
+Trueno,2x7PC78TmgqpEIjaGAZ0Oz,Trueno,_,_,_,_,MX
+Ryan Castro,7j6DKwmjbxvpQO8h914uEz,Ryan Castro,_,2017,_,_,CO
 Omar Apollo,5FxD8fkQZ6KcsSYupDVoSO,Omar Apollo,https://www.omarapollo.com/,2017,_,_,US
 NIKI,2kxP07DLgs4xlWz8YHlvfh,Niki,_,2014,_,_,ID
 WOS,5YCc6xS5Gpj3EkaYGdjyNK,Wos,https://www.wosds3.com/,2012,_,_,AR
@@ -1994,7 +1994,7 @@ Grupo Menos É Mais,6vTqEFbTtTRJsuIpzZgjxi,_,_,_,_,_,_
 Dallass,4LAFtDzlQM89xov636hMVv,_,_,_,_,_,_
 Apache 207,1qQLhymHXFPtP5U8KNKsm6,Apache 207,https://apache207.de/,2018,_,_,DE
 24kGoldn,6fWVd57NKTalqvmjRd2t8Z,24kGoldn,https://24kgoldn.com/,2016,_,_,US
-Kenia OS,31VFEohvhOUKrtAONEBhMG,Kenia Ku,_,2015,_,_,MX
+Kenia OS,31VFEohvhOUKrtAONEBhMG,Kenia Os,_,2015,_,_,MX
 Mc Poze do Rodo,28ie4NNTa2VW2QV4Zray8M,_,_,_,_,_,_
 ATEEZ,68KmkJeZGfwe1OUaivBa2L,ATEEZ,http://kqent.com/producer/1594,2018,_,_,KR
 Coi Leray,6AMd49uBDJfhf30Ak2QR5s,Coi Leray,https://www.coileray.com/,2017,_,_,US
@@ -2010,7 +2010,7 @@ Zach Bryan,40ZNYROS4zLfyyBSs2PGe2,Zach Bryan,https://www.zachbryan.com/,2017,_,_
 Pop Smoke,0eDvMgVFoNV3TpwtrVCoTj,Pop Smoke,http://realpopsmoke.com/,2018,2021,_,US
 Peso Pluma,12GqGscKJx3aE4t07u7eVZ,Peso Pluma,_,2020,_,_,MX
 Cris Mj,1Yj5Xey7kTwvZla8sqdsdE,_,_,_,_,_,_
-Nicki Nicole,2UZIAOlrnyZmyzt1nuXr9y,Nicki Nicole,https://nickinicole.com,2018,_,_,AR
+Nicki Nicole,2UZIAOlrnyZmyzt1nuXr9y,Nicki Nicole Rios,https://nickinicole.com,2018,_,_,AR
 TOMORROW X TOGETHER,0ghlgldX5Dd6720Q3qFyQB,Tomorrow X Together,https://txt-official.jp/,2019,_,_,KR
 Guilherme & Benuto,6m6e7D2TnV0aYMllFFwMxu,_,_,_,_,_,_
 Fred again..,4oLeXFyACqeem2VImYeBFe,Fred Again,https://www.fredagain.com/,2010,_,_,GB
@@ -2066,7 +2066,7 @@ Rain Fruits Sounds,5OQTGVAJnAH4u8MIOXUA7Y,_,_,_,_,_,_
 João Gomes,4JNo6Q5KdcRf1vtSX9mB0S,João Gomes,_,2003,_,_,CV+PT
 Oruam,4yGgbQJMq9orWypwqtdzYT,_,_,_,_,_,_
 Shubh,5r3wPya2PpeTTsXsGhQU8O,Shubh,_,_,_,_,_
-Bailey Zimmerman,3win9vGIxFfBRag9S63wwf,Bailey Zimmerman,_,_,_,_,_
+Bailey Zimmerman,3win9vGIxFfBRag9S63wwf,Bailey Zimmerman,_,2020,_,_,US
 IVE,6RHTUrRF63xao58xh9FXYJ,Ive,https://ive-official.jp/,2021,_,_,KR
 Arcane,57nPqD7z62gDdq37US9XJR,Arcane,_,_,_,_,US
 Sleepy Penguin,32Rb6mS5HQKCu8wcUvj8sE,_,_,_,_,_,_
