@@ -2,8 +2,10 @@
 <rdf:RDF xmlns="https://www.dei.unipd.it/db2/ontology/soundgraph"
      xml:base="https://www.dei.unipd.it/db2/ontology/soundgraph"
      xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:ns="http://www.w3.org/2003/06/sw-vocab-status/ns#"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:wot="http://xmlns.com/wot/0.1/"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:foaf="http://xmlns.com/foaf/0.1/"
@@ -11,9 +13,12 @@
      xmlns:skos="http://www.w3.org/2004/02/skos/core#"
      xmlns:terms="http://purl.org/dc/terms/">
     <owl:Ontology rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph">
-        <owl:imports rdf:resource="http://eulersharp.sourceforge.net/2003/03swap/countries"/>
+        <owl:imports rdf:resource="http://xmlns.com/foaf/0.1/"/>
         <rdfs:comment>This ontology represents spotify track and related youtube video.
 Done as project for the Database 2 course, Master Degree in Computer Engineering @ UniPD.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://www.dei.unipd.it/db2/ontology/soundgraph#Andrea"/>
+        <rdfs:isDefinedBy rdf:resource="https://www.dei.unipd.it/db2/ontology/soundgraph#Gianluca"/>
+        <rdfs:isDefinedBy rdf:resource="https://www.dei.unipd.it/db2/ontology/soundgraph#Saverio"/>
     </owl:Ontology>
     
 
@@ -950,6 +955,41 @@ Done as project for the Database 2 course, Master Degree in Computer Engineering
     <owl:Class rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#YouTubeVideo">
         <rdfs:comment>This class represents a YouTube video.</rdfs:comment>
     </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- https://www.dei.unipd.it/db2/ontology/soundgraph#Andrea -->
+
+    <owl:NamedIndividual rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#Andrea">
+        <rdf:type rdf:resource="http://www.w3.org/2000/10/swap/pim/contact#Person"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.dei.unipd.it/db2/ontology/soundgraph#Gianluca -->
+
+    <owl:NamedIndividual rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#Gianluca">
+        <rdf:type rdf:resource="http://www.w3.org/2000/10/swap/pim/contact#Person"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- https://www.dei.unipd.it/db2/ontology/soundgraph#Saverio -->
+
+    <owl:NamedIndividual rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#Saverio">
+        <rdf:type rdf:resource="http://www.w3.org/2000/10/swap/pim/contact#Person"/>
+    </owl:NamedIndividual>
     
 
 
