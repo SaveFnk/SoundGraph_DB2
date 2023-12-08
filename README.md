@@ -7,6 +7,7 @@ Repository for the project of the Database 2 (Graph Databases) course, SoundGrap
 ├── rdf : output folder of the .ttl and .rdf files
 ├── LICENSE
 ├── README.md
+├── queries.md
 ```
 
 ### Data
