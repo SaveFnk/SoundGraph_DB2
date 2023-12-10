@@ -471,15 +471,6 @@ Done as project for the Database 2 course, Master Degree in Computer Engineering
     
 
 
-    <!-- https://www.dei.unipd.it/db2/ontology/soundgraph#receptionYear -->
-
-    <owl:DatatypeProperty rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#receptionYear">
-        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#gYear"/>
-        <rdfs:comment>The year in which an Artist has received an Award.</rdfs:comment>
-    </owl:DatatypeProperty>
-    
-
-
     <!-- https://www.dei.unipd.it/db2/ontology/soundgraph#startWorkingPeriod -->
 
     <owl:DatatypeProperty rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#startWorkingPeriod">
@@ -798,6 +789,12 @@ Done as project for the Database 2 course, Master Degree in Computer Engineering
     <owl:Class rdf:about="http://sweet.jpl.nasa.gov/2.3/humanJurisdiction.owl#Country">
         <rdfs:comment>This class represents a Country, according to Countries Ontology.</rdfs:comment>
     </owl:Class>
+    
+
+
+    <!-- http://www.w3.org/2000/10/swap/pim/contact#Person -->
+
+    <owl:Class rdf:about="http://www.w3.org/2000/10/swap/pim/contact#Person"/>
     
 
 
