@@ -1,6 +1,6 @@
 ## Query 1
 
-#### Select all the artists/bands with their song's name where the number of stream in Spotify is greater than the number of views of the corresponding Youtube video and the number of streams is above 2 billions.
+#### Select all the artists/bands with their song's name where the number of stream in Spotify is greater than the number of views of the corresponding YouTube video and the number of streams is above 2 billions.
 
 ```
 PREFIX sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
@@ -17,7 +17,6 @@ select distinct ((?a_name) as ?Artist_name) ((?t_name) as ?Track_name) where {
     filter(?num_streams > ?num_views && ?num_streams > 2000000000).
 }
 order by asc (?t_name)
-
 ```
 
 ## Query 2
@@ -38,7 +37,6 @@ select ?artist_name ((?aw_category) as ?award_category) (count(?award) as ?total
 group by ?artist_name ?aw_category
 having(?total_award>1)
 order by ?artist_name desc (?total_award)
-
 ```
 
 ## Query 3
@@ -64,19 +62,29 @@ ask where {
         having(?tot_track>2)
     }
 }
-
 ```
 ## Query 4
 
 #### Find all the songs made by an english-american artist/band.
 
-```test```
+```
+PREFIX sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX countries: <http://eulersharp.sourceforge.net/2003/03swap/countries#>
+
+select ?track_name
+where {
+    ?artist sg:writes ?track ;
+            sg:hasNationality countries:gb ;
+            sg:hasNationality countries:us .
+    ?track sg:trackName ?track_name .
+}
+```
 ## Query 5
 
 #### How many artists/bands are still active?
 
 ```
-
 PREFIX sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 
@@ -84,15 +92,49 @@ select (count(?artist) as ?still_active) where {
 	?artist sg:artistName ?name.
 	filter not exists{?artist sg:endWorkingPeriod ?year.}
 }
+```
+## Query 6
+
+#### Find the percentage of official videos that are not been published by the official channel of the artist/band.
 
 ```
-## Query N
 
-#### query text
 
-```test```
-## Query N
 
-#### query text
+```
+## Query 7
 
-```test```
+#### Find the nationality of the artist/band that has more views in its official YouTube channel.
+
+```
+PREFIX sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+select ?artist_name ?nationality ?channel_view_count where {
+	
+    ?artist2 sg:hasOfficialChannel ?off_channel2;
+             sg:artistName ?artist_name;
+             sg:hasNationality ?nationality.
+    ?off_channel2 sg:channelViewCount ?channel_view_count2.
+    filter (?channel_view_count2=?channel_view_count).
+    {
+        select (max(?c_view_count) as ?channel_view_count) where {
+            ?artist sg:hasOfficialChannel ?off_channel.
+            ?off_channel sg:channelViewCount ?c_view_count.
+        }
+        
+    }
+    
+         	
+}
+```
+
+## Query 8
+
+#### Find the artist of each nation that has won more awards.
+
+```
+
+
+
+```
