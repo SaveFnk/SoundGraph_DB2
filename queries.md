@@ -158,3 +158,125 @@ select ?artist_name ?nationality ?channel_view_count where {
 
 
 ```
+
+
+## Query 9
+
+#### Find all the genres associated to each italian artist/band.
+
+```
+prefix sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
+prefix countries: <http://eulersharp.sourceforge.net/2003/03swap/countries#>
+
+select (?a_name as ?artist_name) ?genre where { 
+    ?artist sg:artistName ?a_name;
+            sg:hasNationality countries:it;
+            sg:hasGenre ?genre.
+    minus {
+        ?artist sg:hasNationality ?otherNat.
+        filter (?otherNat != countries:it)
+    }
+}
+group by ?a_name ?genre
+order by ?a_name
+```
+
+## Query 10
+
+#### Find the artist/band with more nationalities.
+
+```
+
+
+
+```
+
+## Query 11
+
+#### Are there more blues artists/bands than rock artists/bands?
+
+```
+PREFIX sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
+PREFIX countries: <http://eulersharp.sourceforge.net/2003/03swap/countries#>
+ask where { 
+    {
+        select (count(?artist) as ?blues_artist) where {
+        	?artist sg:hasGenre sg:genre_blues.
+    	}
+    }
+    {
+        select (count(?artist) as ?rock_artist) where {
+        	 ?artist sg:hasGenre sg:genre_classic_rock.
+    	}
+    }   
+    filter(?blues_artist>?rock_artist)
+} 
+
+
+```
+
+## Query 12
+
+#### Find the number of award received each year.
+
+```
+PREFIX sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
+select * 
+where {
+    {
+        select ?year (count(?award) as ?awards_in_year)
+        where {
+            BIND("NO YEAR" as ?year)
+            ?award sg:awardName ?awardName .
+            filter not exists{?award sg:awardYear ?award_year}
+        }
+        group by ?year
+    }
+    UNION
+    {
+        select ?year (count(?award) as ?awards_in_year)
+        where {
+            ?award sg:awardYear ?year .
+        }
+        group by ?year
+        order by desc(?year)
+    }
+}
+```
+## Query 13
+
+#### Find the youngest artist/band.
+
+```
+prefix sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
+
+select distinct ?artist_name ?start_period where {
+	{
+        select (max(?start) as ?start_period) where {
+           ?artist sg:startWorkingPeriod ?start.
+        }
+    }
+    ?artist sg:startWorkingPeriod ?start_period;
+            sg:artistName ?artist_name.
+}
+```
+
+## Query 14
+
+#### 
+
+```
+
+
+
+```
+
+## Query 15
+
+#### 
+
+```
+
+
+
+```

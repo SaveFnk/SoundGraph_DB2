@@ -16,6 +16,8 @@ The dataset used for the project is available [here](https://www.kaggle.com/data
 The other data files are extracted from the Wikidata, Spotify and Youtube endpoints, respectively using [Wikidata](notebooks/wikidata_api.ipynb),
 [Spotify](notebooks/spotify.ipynb) and [Youtube](notebooks/youtube_api_channels.ipynb).
 
+### Ontology 
+![](graph_ontology.png)
 ### Queries
 The queries are present in the md file [queries](queries.md). Each query is composed of a description, stating what the query is doing and the code of the query itself.
 
