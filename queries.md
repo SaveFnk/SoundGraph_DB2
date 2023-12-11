@@ -152,9 +152,28 @@ select ?artist_name ?nationality ?channel_view_count where {
 ## Query 8
 
 #### Find the artist of each nation that has won more awards.
+TODO not finished
 
 ```
+PREFIX sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 
+
+SELECT distinct ?nat (MAX(?total_award) as ?max_awards) 
+WHERE {
+  {
+        
+    SELECT ?nat ?artist_name (COUNT(?award) as ?total_award)
+    WHERE {
+      ?artist sg:hasReceived ?award;
+              sg:artistName ?artist_name;
+              sg:hasNationality ?nat.
+    }
+    GROUP BY ?artist_name ?nat
+  }
+}
+GROUP BY ?nat
+ORDER BY ?nat DESC (?max_awards)
 
 
 ```
@@ -262,18 +281,40 @@ select distinct ?artist_name ?start_period where {
 ```
 
 ## Query 14
-
-#### 
+#### Find the top 100 artists by most streams achieved with an album
 
 ```
-
-
-
+PREFIX sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?artist_name (MAX(?total_streams) AS ?max)
+WHERE {
+	SELECT ?artist_name ?spt_alb (sum(?streams) as ?total_streams)
+    WHERE {
+        ?artist sg:composes ?spt_alb;
+                  sg:artistName ?artist_name.
+        ?spt_trk sg:isInAlbum ?spt_alb;
+                sg:trackStreams ?streams.
+    }
+    GROUP BY ?artist_name ?spt_alb 
+}
+GROUP BY ?artist_name
+ORDER BY DESC (?max)
+LIMIT 100
 ```
 
 ## Query 15
 
 #### 
+
+```
+
+
+
+```
+
+## Query 16
+
+#### Find the album with the most streams for each artist in the top 100
 
 ```
 
