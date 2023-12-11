@@ -95,12 +95,32 @@ select (count(?artist) as ?still_active) where {
 ```
 ## Query 6
 
-#### Find the percentage of official videos that are not been published by the official channel of the artist/band.
+#### Find the percentage of official videos that are not been published by the official channel of the artist/band (compared to all the official videos).
 
 ```
+PREFIX sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 
-
-
+SELECT  ((?Nmatch / ?Ntotal)*100 AS ?percentage)
+       
+WHERE {
+  {
+    SELECT (COUNT(DISTINCT ?yt_video) AS ?Nmatch) 
+    WHERE {
+      ?artist sg:performsIn ?yt_video;
+              sg:hasOfficialChannel ?ofchannel.
+      ?yt_video sg:isOfficialVideo true;
+                sg:isPublishedBy ?ytchannel.
+      FILTER(?ofchannel != ?ytchannel).
+    }
+  }
+  {
+    SELECT (COUNT(DISTINCT ?totalVideo) AS ?Ntotal)
+    WHERE {
+      ?totalVideo sg:isOfficialVideo true.
+    }
+  }
+}
 ```
 ## Query 7
 
