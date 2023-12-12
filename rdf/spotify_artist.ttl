@@ -102,9 +102,10 @@ sg:artist_03Yb3iBy9GCifXiATEFcit a sg:SpotifyArtist ;
     sg:artistFollowersNum 4334579 ;
     sg:artistName "Pepe Aguilar"^^xsd:string ;
     sg:artistPopularity 67 ;
-    sg:endWorkingPeriod "2008"^^xsd:gYear ;
-    sg:hasNationality countries:es ;
-    sg:startWorkingPeriod "1990"^^xsd:gYear .
+    sg:artistWebsite "http://www.pepeaguilar.com.mx"^^xsd:string ;
+    sg:hasNationality countries:mx,
+        countries:us ;
+    sg:startWorkingPeriod "1980"^^xsd:gYear .
 
 sg:artist_03r4iKL2g2442PT9n2UKsx a sg:SpotifyArtist ;
     sg:artistFollowersNum 2667972 ;
@@ -647,10 +648,7 @@ sg:artist_0L8ExT028jH3ddEcZwqJJ5 a sg:SpotifyArtist ;
 sg:artist_0LALueHEQunQ2d61fXGeZh a sg:SpotifyArtist ;
     sg:artistFollowersNum 2125799 ;
     sg:artistName "Diego Torres"^^xsd:string ;
-    sg:artistPopularity 62 ;
-    sg:artistWebsite "http://www.diegotorres.com"^^xsd:string ;
-    sg:hasNationality countries:ar ;
-    sg:startWorkingPeriod "1988"^^xsd:gYear .
+    sg:artistPopularity 62 .
 
 sg:artist_0LKAV3zJ8a8AIGnyc5OvfB a sg:SpotifyArtist ;
     sg:artistFollowersNum 688886 ;
@@ -733,7 +731,9 @@ sg:artist_0N0d3kjwdY2h7UVuTdJGfp a sg:SpotifyArtist ;
 sg:artist_0NErdIJtuKBjtxKmlqaWdj a sg:SpotifyArtist ;
     sg:artistFollowersNum 324078 ;
     sg:artistName "Divya Kumar"^^xsd:string ;
-    sg:artistPopularity 58 .
+    sg:artistPopularity 58 ;
+    sg:hasNationality countries:in ;
+    sg:startWorkingPeriod "2011"^^xsd:gYear .
 
 sg:artist_0NGAZxHanS9e0iNHpR8f2W a sg:SpotifyArtist ;
     sg:artistFollowersNum 12099733 ;
@@ -814,7 +814,11 @@ sg:artist_0PFtn5NtBbbUNbU9EAmIWF a sg:SpotifyArtist ;
 sg:artist_0PN0fbe41KbuzlRYnoajNm a sg:SpotifyArtist ;
     sg:artistFollowersNum 3067856 ;
     sg:artistName "Antonio Aguilar"^^xsd:string ;
-    sg:artistPopularity 67 .
+    sg:artistPopularity 67 ;
+    sg:artistWebsite "https://www.antonioaguilaroficial.com"^^xsd:string ;
+    sg:endWorkingPeriod "2005"^^xsd:gYear ;
+    sg:hasNationality countries:mx ;
+    sg:startWorkingPeriod "1950"^^xsd:gYear .
 
 sg:artist_0Q8NcsJwoCbZOHHW63su5S a sg:SpotifyArtist ;
     sg:artistFollowersNum 3289222 ;
@@ -1404,7 +1408,10 @@ sg:artist_0fA0VVWsXO9YnASrzqfmYu a sg:SpotifyArtist ;
 sg:artist_0fM3rWsshliRFUmJlBP6QZ a sg:SpotifyArtist ;
     sg:artistFollowersNum 1192305 ;
     sg:artistName "El Barrio"^^xsd:string ;
-    sg:artistPopularity 58 .
+    sg:artistPopularity 58 ;
+    sg:artistWebsite "https://www.cantautorelbarrio.com"^^xsd:string ;
+    sg:hasNationality countries:es ;
+    sg:startWorkingPeriod "1996"^^xsd:gYear .
 
 sg:artist_0fauHpmSHwodVYIjTqOGHz a sg:SpotifyArtist ;
     sg:artistFollowersNum 1085763 ;
@@ -1963,8 +1970,7 @@ sg:artist_0z4gvV4rjIZ9wHck67ucSV a sg:SpotifyArtist ;
     sg:artistName "Akon"^^xsd:string ;
     sg:artistPopularity 78 ;
     sg:artistWebsite "https://www.akon.com/"^^xsd:string ;
-    sg:hasNationality countries:sn,
-        countries:us ;
+    sg:hasNationality countries:sn ;
     sg:startWorkingPeriod "1996"^^xsd:gYear .
 
 sg:artist_0zOcE3mg9nS6l3yxt1Y0bK a sg:SpotifyArtist ;
@@ -2261,7 +2267,8 @@ sg:artist_19MVxKZZdPj2X0F8pi0OCT a sg:SpotifyArtist ;
     sg:artistFollowersNum 475787 ;
     sg:artistName "Sukhwinder Singh"^^xsd:string ;
     sg:artistPopularity 66 ;
-    sg:hasNationality countries:in .
+    sg:hasNationality countries:in ;
+    sg:startWorkingPeriod "1991"^^xsd:gYear .
 
 sg:artist_19eLuQmk9aCobbVDHc6eek a sg:SpotifyArtist ;
     sg:artistFollowersNum 2775682 ;
@@ -2415,10 +2422,7 @@ sg:artist_1EXjXQpDx2pROygh8zvHs4 a sg:SpotifyArtist ;
 sg:artist_1EfwyuCzDQpCslZc8C9gkG a sg:SpotifyArtist ;
     sg:artistFollowersNum 960503 ;
     sg:artistName "SDP"^^xsd:string ;
-    sg:artistPopularity 64 ;
-    sg:artistWebsite "https://www.sdp-online.de/"^^xsd:string ;
-    sg:hasNationality countries:de ;
-    sg:startWorkingPeriod "1999"^^xsd:gYear .
+    sg:artistPopularity 64 .
 
 sg:artist_1EowJ1WwkMzkCkRomFhui7 a sg:SpotifyArtist ;
     sg:artistFollowersNum 3681333 ;
@@ -4569,8 +4573,7 @@ sg:artist_2JEjaa7hWhE1BbL3OcoeFR a sg:SpotifyArtist ;
     sg:artistFollowersNum 1799365 ;
     sg:artistName "Sujatha"^^xsd:string ;
     sg:artistPopularity 67 ;
-    sg:hasNationality countries:in ;
-    sg:startWorkingPeriod "1968"^^xsd:gYear .
+    sg:hasNationality countries:in .
 
 sg:artist_2JSYASbWU5Y0fVpts3Eq7g a sg:SpotifyArtist ;
     sg:artistFollowersNum 3789281 ;
@@ -4723,8 +4726,7 @@ sg:artist_2NMYOlZHIEsSq7pp5jBjic a sg:SpotifyArtist ;
     sg:artistFollowersNum 15952 ;
     sg:artistName "Kizzy"^^xsd:string ;
     sg:artistPopularity 63 ;
-    sg:hasNationality countries:nl ;
-    sg:startWorkingPeriod "2003"^^xsd:gYear .
+    sg:hasNationality countries:gb .
 
 sg:artist_2NPduAUeLVsfIauhRwuft1 a sg:SpotifyArtist ;
     sg:artistFollowersNum 2087781 ;
@@ -4842,8 +4844,9 @@ sg:artist_2QsynagSdAqZj3U9HgDzjD a sg:SpotifyArtist ;
     sg:artistName "Bob Marley & The Wailers"^^xsd:string ;
     sg:artistPopularity 75 ;
     sg:artistWebsite "http://www.bobmarley.com/"^^xsd:string ;
+    sg:endWorkingPeriod "1981"^^xsd:gYear ;
     sg:hasNationality countries:jm ;
-    sg:startWorkingPeriod "1963"^^xsd:gYear .
+    sg:startWorkingPeriod "1962"^^xsd:gYear .
 
 sg:artist_2R21vXR83lH98kGeO99Y66 a sg:SpotifyArtist ;
     sg:artistFollowersNum 33714357 ;
@@ -5353,7 +5356,7 @@ sg:artist_2gsggkzM5R49q6jpPvazou a sg:SpotifyArtist ;
     sg:artistFollowersNum 11697631 ;
     sg:artistName "Jessie J"^^xsd:string ;
     sg:artistPopularity 68 ;
-    sg:artistWebsite "http://jessiejofficial.com"^^xsd:string ;
+    sg:artistWebsite "https://www.jessiejofficial.com/"^^xsd:string ;
     sg:hasNationality countries:gb ;
     sg:startWorkingPeriod "1999"^^xsd:gYear .
 
@@ -6623,10 +6626,7 @@ sg:artist_3KedxarmBCyFBevnqQHy3P a sg:SpotifyArtist ;
 sg:artist_3Ker27Wbb9OcUHGs54JIAz a sg:SpotifyArtist ;
     sg:artistFollowersNum 797090 ;
     sg:artistName "Los Panchos"^^xsd:string ;
-    sg:artistPopularity 62 ;
-    sg:artistWebsite "http://www.lospanchos.net/"^^xsd:string ;
-    sg:hasNationality countries:mx ;
-    sg:startWorkingPeriod "1944"^^xsd:gYear .
+    sg:artistPopularity 62 .
 
 sg:artist_3LKXWvXFWrkwUzJWxzwVpW a sg:SpotifyArtist ;
     sg:artistFollowersNum 3671412 ;
@@ -8597,7 +8597,9 @@ sg:artist_4JNo6Q5KdcRf1vtSX9mB0S a sg:SpotifyArtist ;
     sg:artistFollowersNum 6585399 ;
     sg:artistName "João Gomes"^^xsd:string ;
     sg:artistPopularity 70 ;
-    sg:hasNationality countries:pt .
+    sg:hasNationality countries:cv,
+        countries:pt ;
+    sg:startWorkingPeriod "2003"^^xsd:gYear .
 
 sg:artist_4JczWHls9n9VpTHnqO2IG8 a sg:SpotifyArtist ;
     sg:artistFollowersNum 104131 ;
@@ -8808,7 +8810,9 @@ sg:artist_4OBbOrkD4geIjOLrICN3wO a sg:SpotifyArtist ;
 sg:artist_4OYIkXBBN6ET96coWyWAXh a sg:SpotifyArtist ;
     sg:artistFollowersNum 164658 ;
     sg:artistName "Germ"^^xsd:string ;
-    sg:artistPopularity 64 .
+    sg:artistPopularity 64 ;
+    sg:hasNationality countries:au ;
+    sg:startWorkingPeriod "2003"^^xsd:gYear .
 
 sg:artist_4OgNARLQSC4yy7Dsa5cqxx a sg:SpotifyArtist ;
     sg:artistFollowersNum 4134171 ;
@@ -9209,7 +9213,7 @@ sg:artist_4Z0yuwHVJBROVZqFpTIr0d a sg:SpotifyArtist ;
     sg:artistFollowersNum 2830579 ;
     sg:artistName "Capital Inicial"^^xsd:string ;
     sg:artistPopularity 61 ;
-    sg:artistWebsite "http://www.uol.com.br/capitalinicial/"^^xsd:string ;
+    sg:artistWebsite "https://www.capitalinicial.com.br/"^^xsd:string ;
     sg:hasNationality countries:br ;
     sg:startWorkingPeriod "1982"^^xsd:gYear .
 
@@ -10138,7 +10142,10 @@ sg:artist_52qKfVcIV4GS8A8Vay2xtt a sg:SpotifyArtist ;
 sg:artist_5344K3N7rx7kw1HjO8psuq a sg:SpotifyArtist ;
     sg:artistFollowersNum 37747 ;
     sg:artistName "James Carter"^^xsd:string ;
-    sg:artistPopularity 65 .
+    sg:artistPopularity 65 ;
+    sg:endWorkingPeriod "2006"^^xsd:gYear ;
+    sg:hasNationality countries:us ;
+    sg:startWorkingPeriod "1987"^^xsd:gYear .
 
 sg:artist_536BYVgOnRky0xjsPT96zl a sg:SpotifyArtist ;
     sg:artistFollowersNum 2353187 ;
@@ -10655,9 +10662,7 @@ sg:artist_5Igpc9iLZ3YGtKeYfSrrOE a sg:SpotifyArtist ;
     sg:artistFollowersNum 296712 ;
     sg:artistName "Chris Lake"^^xsd:string ;
     sg:artistPopularity 63 ;
-    sg:artistWebsite "http://www.chris-lake.com"^^xsd:string ;
-    sg:hasNationality countries:gb ;
-    sg:startWorkingPeriod "2002"^^xsd:gYear .
+    sg:hasNationality countries:ca .
 
 sg:artist_5JG9GISYjRLQUJMH2C6iJ5 a sg:SpotifyArtist ;
     sg:artistFollowersNum 3131857 ;
@@ -12961,9 +12966,7 @@ sg:artist_6P5NO5hzJbuOqSdyPB7SJM a sg:SpotifyArtist ;
 sg:artist_6P6GTRTigHBp8ZesNtpCKH a sg:SpotifyArtist ;
     sg:artistFollowersNum 623887 ;
     sg:artistName "Almighty"^^xsd:string ;
-    sg:artistPopularity 68 ;
-    sg:hasNationality countries:cu ;
-    sg:startWorkingPeriod "2010"^^xsd:gYear .
+    sg:artistPopularity 68 .
 
 sg:artist_6P7H3ai06vU1sGvdpBwDmE a sg:SpotifyArtist ;
     sg:artistFollowersNum 2118426 ;
@@ -13295,7 +13298,7 @@ sg:artist_6XpaIBNiVzIetEPCWDvAFP a sg:SpotifyArtist ;
     sg:artistName "Whitney Houston"^^xsd:string ;
     sg:artistPopularity 73 ;
     sg:artistWebsite "https://www.whitneyhouston.com/"^^xsd:string ;
-    sg:endWorkingPeriod "2012"^^xsd:gYear ;
+    sg:endWorkingPeriod "2022"^^xsd:gYear ;
     sg:hasNationality countries:us ;
     sg:startWorkingPeriod "1976"^^xsd:gYear .
 
@@ -13471,7 +13474,8 @@ sg:artist_6gEzJZrbm0F4ihvE9iXR9z a sg:SpotifyArtist ;
     sg:artistFollowersNum 2357009 ;
     sg:artistName "Péricles"^^xsd:string ;
     sg:artistPopularity 68 ;
-    sg:hasNationality countries:br .
+    sg:hasNationality countries:br ;
+    sg:startWorkingPeriod "1986"^^xsd:gYear .
 
 sg:artist_6gZq1Q6bdOxsUPUG1TaFbF a sg:SpotifyArtist ;
     sg:artistFollowersNum 3116898 ;
@@ -14227,7 +14231,7 @@ sg:artist_73jBynjsVtofjRpdpRAJGk a sg:SpotifyArtist ;
     sg:artistPopularity 66 ;
     sg:artistWebsite "http://www.dimitrivegasandlikemike.com"^^xsd:string ;
     sg:hasNationality countries:be ;
-    sg:startWorkingPeriod "2007"^^xsd:gYear .
+    sg:startWorkingPeriod "2000"^^xsd:gYear .
 
 sg:artist_73jlPRxT7z5xk29sMqFDjU a sg:SpotifyArtist ;
     sg:artistFollowersNum 222230 ;
@@ -14767,8 +14771,7 @@ sg:artist_7IlRNXHjoOCgEAWN5qYksg a sg:SpotifyArtist ;
     sg:artistFollowersNum 4324352 ;
     sg:artistName "Aya Nakamura"^^xsd:string ;
     sg:artistPopularity 67 ;
-    sg:hasNationality countries:fr,
-        countries:ml ;
+    sg:hasNationality countries:fr ;
     sg:startWorkingPeriod "2015"^^xsd:gYear .
 
 sg:artist_7JoWcJHDOG58JYTe6d400S a sg:SpotifyArtist ;
@@ -15121,9 +15124,7 @@ sg:artist_7hLjkyL9Pz9xtQNahzJZki a sg:SpotifyArtist ;
     sg:artistFollowersNum 1604 ;
     sg:artistName "Belo"^^xsd:string ;
     sg:artistPopularity 47 ;
-    sg:artistWebsite "http://www.belo.com/"^^xsd:string ;
-    sg:dissolvedIn "2013"^^xsd:gYear ;
-    sg:hasNationality countries:us .
+    sg:hasNationality countries:si .
 
 sg:artist_7i9j813KFoSBMldGqlh2Z1 a sg:SpotifyArtist ;
     sg:artistFollowersNum 120307 ;
@@ -15277,7 +15278,8 @@ sg:artist_7mWCSSOYqm4E9mB7V4ot6S a sg:SpotifyArtist ;
     sg:artistName "Miguel Bosé"^^xsd:string ;
     sg:artistPopularity 66 ;
     sg:artistWebsite "http://www.miguelbose.com"^^xsd:string ;
-    sg:hasNationality countries:es,
+    sg:hasNationality countries:co,
+        countries:es,
         countries:it,
         countries:pa ;
     sg:startWorkingPeriod "1973"^^xsd:gYear .
@@ -15434,9 +15436,7 @@ sg:artist_7qAoXV4U0qDxQAUqhszjAA a sg:SpotifyArtist ;
     sg:artistFollowersNum 2153022 ;
     sg:artistName "Manuel Carrasco"^^xsd:string ;
     sg:artistPopularity 64 ;
-    sg:artistWebsite "https://www.manuelcarrasco.es/"^^xsd:string ;
-    sg:hasNationality countries:es ;
-    sg:startWorkingPeriod "2003"^^xsd:gYear .
+    sg:hasNationality countries:es .
 
 sg:artist_7qG3b048QCHVRO5Pv1T5lw a sg:SpotifyArtist ;
     sg:artistFollowersNum 11278851 ;
