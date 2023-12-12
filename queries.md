@@ -214,7 +214,6 @@ select (?a_name as ?artist_name) ?genre where {
         filter (?otherNat != countries:it)
     }
 }
-group by ?a_name ?genre
 order by ?a_name
 ```
 
@@ -358,46 +357,43 @@ LIMIT 100
 ## Query 16
 
 #### Find the album with the most streams for each artist in the top 100
-### NON funziona
 ```
 PREFIX sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-PREFIX countries: <http://eulersharp.sourceforge.net/2003/03swap/countries#>
-
-select ?art_name ?alb_name ?max
+select ?artist_name ?album_name ?max
 where {
-    ?artist sg:composes ?album ; 
-            sg:artistName ?art_name.
-    ?album sg:albumName ?alb_name.
+    ?artist sg:artistName ?artist_name ;
+            sg:composes ?album .
+    ?album sg:albumName ?album_name .
     {
-        select ?artist (max(?tot) as ?max)
+		select ?album (max(?sum) as ?max)
         where {
-    		?alb_inner sg:isComposedBy ?artist .
             {
-                select ?alb_inner (sum(?streams) as ?tot)
+                select ?album (sum(?stream) as ?sum)
                 where {
-                   ?spt_trk sg:isInAlbum ?alb_inner;
-                    		sg:trackStreams ?streams.
+                    ?album sg:containsTrack ?track .
+                    ?track sg:trackStreams ?stream .
                 }
-                group by ?alb_inner
+                group by ?album
+            }
+        }
+        group by ?album
+    }
+    {
+        select ?artist (max(?sum) as ?max)
+        where {
+            ?artist sg:composes ?album .
+            {
+                select ?album (sum(?stream) as ?sum)
+                where {
+                    ?album sg:containsTrack ?track .
+                    ?track sg:trackStreams ?stream .
+                }
+                group by ?album
             }
         }
         group by ?artist
     }
-    {
-        select ?album (max(?tot) as ?max)
-        where {
-            {
-                select ?alb_inner (sum(?streams) as ?tot)
-                where {
-                   ?spt_trk sg:isInAlbum ?alb_inner;
-                    		sg:trackStreams ?streams.
-                }
-                group by ?alb_inner
-            }
-        }
-    	group by ?album
-    }
 }
-LIMIT 100
+order by desc (?max)
+limit 100
 ```
