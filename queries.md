@@ -152,28 +152,41 @@ select ?artist_name ?nationality ?channel_view_count where {
 ## Query 8
 
 #### Find the artist of each nation that has won more awards.
-TODO not finished
 
 ```
-PREFIX sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-
-
-SELECT distinct ?nat (MAX(?total_award) as ?max_awards) 
-WHERE {
-  {
-        
-    SELECT ?nat ?artist_name (COUNT(?award) as ?total_award)
-    WHERE {
-      ?artist sg:hasReceived ?award;
-              sg:artistName ?artist_name;
-              sg:hasNationality ?nat.
+select ?artist_name ?nationality ?max_awards
+where {
+    ?artist sg:artistName ?artist_name ;
+            sg:hasNationality ?nationality .
+    {
+        select ?nationality (max(?tot) as ?max_awards)
+        where {
+    		?artist_inner sg:hasNationality ?nationality .
+            {
+                select ?artist_inner (count(?award) as ?tot)
+                where {
+                    ?artist_inner sg:hasReceived ?award .
+                }
+                group by ?artist_inner
+            }
+        }
+        group by ?nationality
     }
-    GROUP BY ?artist_name ?nat
-  }
+    {
+        select ?artist_name (max(?tot) as ?max_awards)
+        where {
+            ?artist_inner sg:artistName ?artist_name .
+            {
+                select ?artist_inner (count(?award) as ?tot)
+                where {
+                    ?artist_inner sg:hasReceived ?award .
+                }
+                group by ?artist_inner
+            }
+        }
+    	group by ?artist_name
+    }
 }
-GROUP BY ?nat
-ORDER BY ?nat DESC (?max_awards)
 
 
 ```
