@@ -101,17 +101,22 @@ select (count(?artist) as ?still_active) where {
 PREFIX sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 
-SELECT  ((?Nmatch / ?Ntotal)*100 AS ?percentage)
+SELECT  (((1- (?Nmatch / ?Ntotal))*100) AS ?percentage)
        
 WHERE {
   {
     SELECT (COUNT(DISTINCT ?yt_video) AS ?Nmatch) 
     WHERE {
-      ?artist sg:performsIn ?yt_video;
-              sg:hasOfficialChannel ?ofchannel.
+      ?artist sg:performsIn ?yt_video.
       ?yt_video sg:isOfficialVideo true;
-                sg:isPublishedBy ?ytchannel.
-      FILTER(?ofchannel != ?ytchannel).
+                sg:isPublishedBy ?ofchannels.
+            
+            {
+                SELECT DISTINCT ?ofchannels
+                WHERE{
+                    ?artist sg:hasOfficialChannel ?ofchannels.
+            	} 
+            }
     }
   }
   {
@@ -218,8 +223,35 @@ order by ?a_name
 #### Find the artist/band with more nationalities.
 
 ```
+PREFIX sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
 
+select ?art_name ?tot 
+(GROUP_CONCAT(strafter(str(?nat), "#"); separator=", ") as ?nationality)
 
+where {
+    ?artist sg:artistName ?art_name;
+            sg:hasNationality ?nat.
+    		
+    {
+        select (max(?tot) as ?max)
+        where {
+                select ?artist (count(?nat) as ?tot)
+                where {
+                    ?artist sg:hasNationality ?nat.
+                }
+                group by ?artist
+            }
+	}  
+    {
+        select ?artist (count(?nat) as ?tot)
+        where {
+            ?artist sg:hasNationality ?nat.
+        }
+        group by ?artist
+    }
+    filter (?tot = ?max)
+}
+group by ?art_name ?tot
 
 ```
 
@@ -321,16 +353,51 @@ LIMIT 100
 
 ```
 
-
-
 ```
 
 ## Query 16
 
 #### Find the album with the most streams for each artist in the top 100
-
+### NON funziona
 ```
+PREFIX sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX countries: <http://eulersharp.sourceforge.net/2003/03swap/countries#>
 
-
-
+select ?art_name ?alb_name ?max
+where {
+    ?artist sg:composes ?album ; 
+            sg:artistName ?art_name.
+    ?album sg:albumName ?alb_name.
+    {
+        select ?artist (max(?tot) as ?max)
+        where {
+    		?alb_inner sg:isComposedBy ?artist .
+            {
+                select ?alb_inner (sum(?streams) as ?tot)
+                where {
+                   ?spt_trk sg:isInAlbum ?alb_inner;
+                    		sg:trackStreams ?streams.
+                }
+                group by ?alb_inner
+            }
+        }
+        group by ?artist
+    }
+    {
+        select ?album (max(?tot) as ?max)
+        where {
+            {
+                select ?alb_inner (sum(?streams) as ?tot)
+                where {
+                   ?spt_trk sg:isInAlbum ?alb_inner;
+                    		sg:trackStreams ?streams.
+                }
+                group by ?alb_inner
+            }
+        }
+    	group by ?album
+    }
+}
+LIMIT 100
 ```
