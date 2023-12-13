@@ -455,3 +455,28 @@ where {
 group by ?name
 order by desc (?Occurrence)
 ```
+
+
+## Query 20
+
+#### Find if on average songs on Spotify are listened to more or videos on YouTube are viewed more.
+
+```
+PREFIX sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
+
+SELECT (ROUND(SUM(?streams) / ?n_video) AS ?avg_spotify_streams) (ROUND(SUM(?views) / ?n_video) AS ?avg_youtube_views) ((SUM(?streams) / SUM(?views)) AS ?spotify_youtube_ratio)
+WHERE {
+  {
+    ?sptf sg:isRelatedTo ?ytv;
+          sg:trackStreams ?streams.
+    ?ytv sg:videoViews ?views.
+  }
+  {
+    SELECT (COUNT(DISTINCT ?video) AS ?n_video)
+    WHERE {
+      ?video sg:isRelatedTo ?track.
+    }
+  }
+}
+GROUP BY ?n_video
+```
