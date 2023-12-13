@@ -104,27 +104,26 @@ PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 SELECT  (((1- (?Nmatch / ?Ntotal))*100) AS ?percentage)
        
 WHERE {
-  {
-    SELECT (COUNT(DISTINCT ?yt_video) AS ?Nmatch) 
-    WHERE {
-      ?artist sg:performsIn ?yt_video.
-      ?yt_video sg:isOfficialVideo true;
-                sg:isPublishedBy ?ofchannels.
-            
+    {
+        SELECT (COUNT(DISTINCT ?yt_video) AS ?Nmatch) 
+        WHERE {
+            ?artist sg:performsIn ?yt_video.
+            ?yt_video sg:isOfficialVideo true;
+                      sg:isPublishedBy ?ofchannels.
             {
                 SELECT DISTINCT ?ofchannels
                 WHERE{
                     ?artist sg:hasOfficialChannel ?ofchannels.
-            	} 
+                } 
             }
+        }
     }
-  }
-  {
-    SELECT (COUNT(DISTINCT ?totalVideo) AS ?Ntotal)
-    WHERE {
-      ?totalVideo sg:isOfficialVideo true.
+    {
+        SELECT (COUNT(DISTINCT ?totalVideo) AS ?Ntotal)
+        WHERE {
+          ?totalVideo sg:isOfficialVideo true.
+        }
     }
-  }
 }
 ```
 ## Query 7
@@ -135,7 +134,8 @@ WHERE {
 PREFIX sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 
-select ?artist_name ?nationality ?channel_view_count where {
+select ?artist_name ?nationality ?channel_view_count
+where {
 	
     ?artist2 sg:hasOfficialChannel ?off_channel2;
              sg:artistName ?artist_name;
@@ -146,11 +146,8 @@ select ?artist_name ?nationality ?channel_view_count where {
         select (max(?c_view_count) as ?channel_view_count) where {
             ?artist sg:hasOfficialChannel ?off_channel.
             ?off_channel sg:channelViewCount ?c_view_count.
-        }
-        
+        }   
     }
-    
-         	
 }
 ```
 
@@ -192,8 +189,6 @@ where {
     	group by ?artist_name
     }
 }
-
-
 ```
 
 
@@ -274,8 +269,6 @@ ask where {
     }   
     filter(?blues_artist>?rock_artist)
 } 
-
-
 ```
 
 ## Query 12
@@ -348,10 +341,14 @@ LIMIT 100
 
 ## Query 15
 
-#### 
+#### FInd the number of albums, singles and compilations 
 
 ```
-
+PREFIX sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
+select ?album_type (count(?album_type) as ?count) where { 
+	?album sg:albumType ?album_type .
+}
+group by ?album_type
 ```
 
 ## Query 16
