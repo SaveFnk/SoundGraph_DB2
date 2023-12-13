@@ -318,7 +318,7 @@ select distinct ?artist_name ?start_period where {
 ```
 
 ## Query 14
-#### Find the top 100 artists by most streams achieved with an album
+#### Find the top 100 artists by most streams achieved with an album.
 
 ```
 PREFIX sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
@@ -341,7 +341,7 @@ LIMIT 100
 
 ## Query 15
 
-#### FInd the number of albums, singles and compilations 
+#### FInd the number of albums, singles and compilations.
 
 ```
 PREFIX sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
@@ -353,7 +353,7 @@ group by ?album_type
 
 ## Query 16
 
-#### Find the album with the most streams for each artist in the top 100
+#### Find the album with the most streams for each artist in the top 100.
 ```
 PREFIX sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
 select ?artist_name ?album_name ?max
@@ -393,4 +393,62 @@ where {
 }
 order by desc (?max)
 limit 100
+```
+
+
+## Query 17
+#### Ranking the genres by the number of streams.
+```
+PREFIX sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
+
+select ?genre (sum(?part)/1000000.0 as ?tot_streams_in_mln)
+where {
+    ?artist sg:hasGenre ?genre.
+    {
+    select ?artist (sum(?streams) as ?part)
+    where {
+        ?spt_trk sg:isWrittenBy ?artist;
+                 sg:trackStreams ?streams.
+    }
+    group by ?artist
+    }
+}
+group by ?genre
+order by desc (?tot_streams_in_mln)
+```
+
+
+## Query 18
+
+#### Ranking the genres by the number of artists.
+```
+PREFIX sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
+
+select ?genre (count(?artist) as ?number_of_artist)
+where {
+    ?artist sg:hasGenre ?genre.
+}
+group by ?genre
+order by desc (?number_of_artist)
+```
+
+
+## Query 19
+
+#### Find all the award types won by an Italian artist/band with the occurrences and the winners.
+
+```
+PREFIX sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
+
+PREFIX countries: <http://eulersharp.sourceforge.net/2003/03swap/countries#>
+select ?name (count(?award) as ?Occurrence) (GROUP_CONCAT(str(?art_name); separator=", ") as ?Artists)
+
+where {
+    ?artist sg:hasReceived ?award;
+            sg:hasNationality countries:it;
+            sg:artistName ?art_name.
+    ?award  sg:awardName ?name.
+}
+group by ?name
+order by desc (?Occurrence)
 ```
