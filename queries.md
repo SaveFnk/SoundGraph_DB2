@@ -200,7 +200,8 @@ where {
 prefix sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
 prefix countries: <http://eulersharp.sourceforge.net/2003/03swap/countries#>
 
-select (?a_name as ?artist_name) ?genre where { 
+select (?a_name as ?artist_name) (GROUP_CONCAT(strafter(str(?genre), "_"); separator=", ") as ?genres)
+ where { 
     ?artist sg:artistName ?a_name;
             sg:hasNationality countries:it;
             sg:hasGenre ?genre.
@@ -209,7 +210,9 @@ select (?a_name as ?artist_name) ?genre where {
         filter (?otherNat != countries:it)
     }
 }
+group by ?a_name
 order by ?a_name
+
 ```
 
 ## Query 10
