@@ -1,6 +1,6 @@
 
-# graphdb-spotify-yt
-### SoundGraph group - University of Padova - A.A. 2023-24
+# graphdb-spotify-yt 
+### SoundGraph group - University of Padova - A.A. 2023-2024
 ---
 ### Project Overview
 This repository showcases our group project for the Database 2 (Graph Databases) course, where we focus on handling data related to artists, their music tracks, and videos. The project encompasses the following key stages:
