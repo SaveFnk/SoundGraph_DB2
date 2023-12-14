@@ -13,7 +13,7 @@ This repository showcases our group project for the Database 2 (Graph Databases)
 
 ### Domain Overview
 
-The primary aim of our database system is to manage information in the following domains:
+The aim of our database system is to manage information in the following domains:
 -   Artists/Bands.
 -   Spotify data about tracks and albums.
 -   YouTube videos and channels.
@@ -54,7 +54,7 @@ For more info: [Spotify Web API](https://developer.spotify.com/documentation/web
 In order to run the graph database, the following steps are necessary:
 
 1. gather all the keys useful to access the APIs mentioned above.
-2. run the command ```pip -r requirements.txt``` in order to install all the necessary dependencies
+2. run the command ```pip -r requirements.txt``` in order to install all the necessary dependencies.
 3. run the notebooks [wikidata_api.ipynb](notebooks/wikidata_api.ipynb), [youtube_api_channels.ipynb](notebooks/youtube_api_channels.ipynb), [spotify_api.ipynb](notebooks/spotify_api.ipynb) to extract the data from the APIs.
 4. proceed by running the [award_processing.ipynb](notebooks/award_processing.ipynb).
 5. run [soundgraph_rdflib.ipynb](notebooks/soundgraph_rdflib.ipynb).
