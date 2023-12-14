@@ -2,7 +2,7 @@
 # graphdb-spotify-yt
 ### SoundGraph group - University of Padova - A.A. 2023-24
 ---
-<img align="right" src="https://storage.googleapis.com/kaggle-datasets-images/3025170/5201847/a6f88fcaa0cef264f41bb96d1cb05b58/dataset-cover.png?t=2023-03-20-16-35-48" width="100"/> 
+<img align="right" src="https://storage.googleapis.com/kaggle-datasets-images/3025170/5201847/a6f88fcaa0cef264f41bb96d1cb05b58/dataset-cover.png" width="100"/> 
 
 ### Project Overview
 This repository showcases our group project for the Database 2 (Graph Databases) course, where we focus on handling data related to artists, their music tracks, and videos. The project encompasses the following key stages:
