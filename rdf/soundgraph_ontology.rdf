@@ -87,7 +87,7 @@ Done as project for the Database 2 course, Master Degree in Computer Engineering
 
     <owl:ObjectProperty rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#hasGenre">
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
-        <rdfs:domain rdf:resource="https://www.dei.unipd.it/db2/ontology/soundgraph#Artist"/>
+        <rdfs:domain rdf:resource="https://www.dei.unipd.it/db2/ontology/soundgraph#SpotifyArtist"/>
         <rdfs:range rdf:resource="https://www.dei.unipd.it/db2/ontology/soundgraph#Genre"/>
         <rdfs:comment>This object property states that an Artist produces music belonging to a Genre.</rdfs:comment>
     </owl:ObjectProperty>
@@ -218,7 +218,7 @@ Done as project for the Database 2 course, Master Degree in Computer Engineering
 
     <owl:ObjectProperty rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#writes">
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
-        <rdfs:domain rdf:resource="https://www.dei.unipd.it/db2/ontology/soundgraph#Artist"/>
+        <rdfs:domain rdf:resource="https://www.dei.unipd.it/db2/ontology/soundgraph#SpotifyArtist"/>
         <rdfs:range rdf:resource="https://www.dei.unipd.it/db2/ontology/soundgraph#SpotifyTrack"/>
         <rdfs:comment>This object property states that a Spotify Artist writes a YouTube Video.</rdfs:comment>
     </owl:ObjectProperty>
