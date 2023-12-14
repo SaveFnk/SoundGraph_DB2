@@ -1,31 +1,51 @@
+
 # graphdb-spotify-yt
-Repository for the project of the Database 2 (Graph Databases) course, SoundGraph group.
+### SoundGraph group - University of Padova - A.A. 2023-24
+---
+<img align="right" src="https://storage.googleapis.com/kaggle-datasets-images/3025170/5201847/a6f88fcaa0cef264f41bb96d1cb05b58/dataset-cover.png?t=2023-03-20-16-35-48" width="100"/> 
+
+### Project Overview
+This repository showcases our group project for the Database 2 (Graph Databases) course, where we focus on handling data related to artists, their music tracks, and videos. The project encompasses the following key stages:
+- Select an open dataset.
+- Create the ontology with [Protégé](https://protege.stanford.edu/).
+- Ingest and clean the data.
+- Serialize data with [RDFLib](https://rdflib.readthedocs.io/en/stable/)
+- Store the data in [GraphDB](https://www.ontotext.com/products/graphdb/).
+- Extract meaningful insights from the data.
+
+### Domain Overview
+
+The primary aim of our database system is to manage information in the following domains:
+-   Artists/Bands.
+-   Spotify data about tracks and albums.
+-   YouTube videos and channels.
+-   Awards received.
+
 
 ### Group members
-| Name     | Surname | ID      |
-|----------|---------|---------|
-| Saverio  | Fincato | 2087926 |
-| Gianluca | Rossi   | 2089727 |
-| Andrea   | Segala  | 2082154 |
+| Name     | Surname | ID      |  
+|----------|---------|---------|  
+| Saverio  | Fincato | 2087926 |  
+| Gianluca | Rossi   | 2089727 |  
+| Andrea   | Segala  | 2082154 |  
 
 ### Repository structure
-```
-│   graph_ontology.png
-│   LICENSE
-│   queries.md
-│   README.md
-│   requirements.txt
-├───data
-├───notebooks
-└───rdf
-```
+```  
+│   graph_ontology.png  
+│   LICENSE  
+│   queries.md  
+│   README.md  
+│   requirements.txt  
+├───data  
+├───notebooks  
+└───rdf  
+```  
 
 
 ### Data
-The dataset used for the project is available [here](https://www.kaggle.com/datasets/salvatorerastelli/spotify-and-youtube) at the Kaggle website.
 
-The other data files are extracted from the Wikidata, Spotify and Youtube endpoints, respectively using [Wikidata](notebooks/wikidata_api.ipynb),
-[Spotify](notebooks/spotify_api.ipynb) and [YouTube](notebooks/youtube_api_channels.ipynb).
+The project utilizes an open dataset accessible [here](https://www.kaggle.com/datasets/salvatorerastelli/spotify-and-youtube) on the Kaggle website.
+Additional data files are sourced from [Wikidata](notebooks/wikidata_api.ipynb), [Spotify](notebooks/spotify_api.ipynb), and [YouTube](notebooks/youtube_api_channels.ipynb) endpoints, obtained using the corresponding APIs.
 
 For more info: [Spotify Web API](https://developer.spotify.com/documentation/web-api), [Youtube Data API](https://developers.google.com/youtube/v3?hl=it)
 
