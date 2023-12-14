@@ -833,12 +833,6 @@ Done as project for the Database 2 course, Master Degree in Computer Engineering
     <!-- https://www.dei.unipd.it/db2/ontology/soundgraph#Artist -->
 
     <owl:Class rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#Artist">
-        <owl:equivalentClass>
-            <owl:Restriction>
-                <owl:onProperty rdf:resource="https://www.dei.unipd.it/db2/ontology/soundgraph#hasGenre"/>
-                <owl:someValuesFrom rdf:resource="https://www.dei.unipd.it/db2/ontology/soundgraph#Genre"/>
-            </owl:Restriction>
-        </owl:equivalentClass>
         <rdfs:comment>This class represents an Artist.</rdfs:comment>
     </owl:Class>
     
@@ -943,6 +937,12 @@ Done as project for the Database 2 course, Master Degree in Computer Engineering
     <!-- https://www.dei.unipd.it/db2/ontology/soundgraph#SpotifyArtist -->
 
     <owl:Class rdf:about="https://www.dei.unipd.it/db2/ontology/soundgraph#SpotifyArtist">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="https://www.dei.unipd.it/db2/ontology/soundgraph#hasGenre"/>
+                <owl:someValuesFrom rdf:resource="https://www.dei.unipd.it/db2/ontology/soundgraph#Genre"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
         <rdfs:subClassOf rdf:resource="https://www.dei.unipd.it/db2/ontology/soundgraph#Artist"/>
     </owl:Class>
     
