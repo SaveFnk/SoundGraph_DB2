@@ -10,15 +10,16 @@ Repository for the project of the Database 2 (Graph Databases) course, SoundGrap
 
 ### Repository structure
 ```
-├── data 
-├── notebooks 
-├── RDF
-├── graph_ontology.png
-├── LICENSE
-├── queries.md
-├── README.md
-├── requirements.txt
+│   graph_ontology.png
+│   LICENSE
+│   queries.md
+│   README.md
+│   requirements.txt
+├───data
+├───notebooks
+└───rdf
 ```
+
 
 ### Data
 The dataset used for the project is available [here](https://www.kaggle.com/datasets/salvatorerastelli/spotify-and-youtube) at the Kaggle website.
