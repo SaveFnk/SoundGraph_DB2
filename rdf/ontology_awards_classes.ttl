@@ -1,0 +1,5092 @@
+@prefix : <https://www.dei.unipd.it/db2/ontology/soundgraph#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <https://www.dei.unipd.it/db2/ontology/soundgraph#> .
+# class MTVAward1996
+:MTVAward1996 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1996
+	] ;
+	rdfs:subClassOf :MTVAward .
+
+# class MTVAward1997
+:MTVAward1997 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1997
+	] ;
+	rdfs:subClassOf :MTVAward .
+
+# class MTVAward1998
+:MTVAward1998 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1998
+	] ;
+	rdfs:subClassOf :MTVAward .
+
+# class MTVAward1999
+:MTVAward1999 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1999
+	] ;
+	rdfs:subClassOf :MTVAward .
+
+# class MTVAward2000
+:MTVAward2000 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2000
+	] ;
+	rdfs:subClassOf :MTVAward .
+
+# class MTVAward2001
+:MTVAward2001 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2001
+	] ;
+	rdfs:subClassOf :MTVAward .
+
+# class MTVAward2002
+:MTVAward2002 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2002
+	] ;
+	rdfs:subClassOf :MTVAward .
+
+# class MTVAward2003
+:MTVAward2003 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2003
+	] ;
+	rdfs:subClassOf :MTVAward .
+
+# class MTVAward2004
+:MTVAward2004 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2004
+	] ;
+	rdfs:subClassOf :MTVAward .
+
+# class MTVAward2005
+:MTVAward2005 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2005
+	] ;
+	rdfs:subClassOf :MTVAward .
+
+# class MTVAward2006
+:MTVAward2006 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2006
+	] ;
+	rdfs:subClassOf :MTVAward .
+
+# class MTVAward2007
+:MTVAward2007 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2007
+	] ;
+	rdfs:subClassOf :MTVAward .
+
+# class MTVAward2008
+:MTVAward2008 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2008
+	] ;
+	rdfs:subClassOf :MTVAward .
+
+# class MTVAward2009
+:MTVAward2009 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2009
+	] ;
+	rdfs:subClassOf :MTVAward .
+
+# class MTVAward2010
+:MTVAward2010 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2010
+	] ;
+	rdfs:subClassOf :MTVAward .
+
+# class MTVAward2011
+:MTVAward2011 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2011
+	] ;
+	rdfs:subClassOf :MTVAward .
+
+# class MTVAward2012
+:MTVAward2012 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2012
+	] ;
+	rdfs:subClassOf :MTVAward .
+
+# class MTVAward2013
+:MTVAward2013 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2013
+	] ;
+	rdfs:subClassOf :MTVAward .
+
+# class MTVAward2014
+:MTVAward2014 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2014
+	] ;
+	rdfs:subClassOf :MTVAward .
+
+# class MTVAward2015
+:MTVAward2015 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2015
+	] ;
+	rdfs:subClassOf :MTVAward .
+
+# class MTVAward2016
+:MTVAward2016 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2016
+	] ;
+	rdfs:subClassOf :MTVAward .
+
+# class MTVAward2017
+:MTVAward2017 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2017
+	] ;
+	rdfs:subClassOf :MTVAward .
+
+# class MTVAward2018
+:MTVAward2018 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2018
+	] ;
+	rdfs:subClassOf :MTVAward .
+
+# class MTVAward2019
+:MTVAward2019 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2019
+	] ;
+	rdfs:subClassOf :MTVAward .
+
+# class MTVAward2020
+:MTVAward2020 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2020
+	] ;
+	rdfs:subClassOf :MTVAward .
+
+# class MTVAward2021
+:MTVAward2021 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2021
+	] ;
+	rdfs:subClassOf :MTVAward .
+
+# class MTVAward2022
+:MTVAward2022 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2022
+	] ;
+	rdfs:subClassOf :MTVAward .
+
+# class GrammyAward1959
+:GrammyAward1959 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1959
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward1960
+:GrammyAward1960 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1960
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward1961
+:GrammyAward1961 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1961
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward1962
+:GrammyAward1962 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1962
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward1963
+:GrammyAward1963 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1963
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward1964
+:GrammyAward1964 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1964
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward1965
+:GrammyAward1965 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1965
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward1966
+:GrammyAward1966 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1966
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward1967
+:GrammyAward1967 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1967
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward1968
+:GrammyAward1968 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1968
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward1969
+:GrammyAward1969 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1969
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward1970
+:GrammyAward1970 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1970
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward1971
+:GrammyAward1971 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1971
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward1972
+:GrammyAward1972 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1972
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward1973
+:GrammyAward1973 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1973
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward1974
+:GrammyAward1974 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1974
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward1975
+:GrammyAward1975 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1975
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward1976
+:GrammyAward1976 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1976
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward1977
+:GrammyAward1977 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1977
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward1978
+:GrammyAward1978 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1978
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward1979
+:GrammyAward1979 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1979
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward1980
+:GrammyAward1980 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1980
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward1981
+:GrammyAward1981 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1981
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward1982
+:GrammyAward1982 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1982
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward1983
+:GrammyAward1983 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1983
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward1984
+:GrammyAward1984 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1984
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward1985
+:GrammyAward1985 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1985
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward1986
+:GrammyAward1986 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1986
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward1987
+:GrammyAward1987 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1987
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward1988
+:GrammyAward1988 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1988
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward1989
+:GrammyAward1989 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1989
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward1990
+:GrammyAward1990 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1990
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward1991
+:GrammyAward1991 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1991
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward1992
+:GrammyAward1992 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1992
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward1993
+:GrammyAward1993 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1993
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward1994
+:GrammyAward1994 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1994
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward1995
+:GrammyAward1995 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1995
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward1996
+:GrammyAward1996 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1996
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward1997
+:GrammyAward1997 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1997
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward1998
+:GrammyAward1998 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1998
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward1999
+:GrammyAward1999 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1999
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward2000
+:GrammyAward2000 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2000
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward2001
+:GrammyAward2001 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2001
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward2002
+:GrammyAward2002 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2002
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward2003
+:GrammyAward2003 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2003
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward2004
+:GrammyAward2004 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2004
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward2005
+:GrammyAward2005 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2005
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward2006
+:GrammyAward2006 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2006
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward2007
+:GrammyAward2007 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2007
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward2008
+:GrammyAward2008 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2008
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward2009
+:GrammyAward2009 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2009
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward2010
+:GrammyAward2010 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2010
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward2011
+:GrammyAward2011 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2011
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward2012
+:GrammyAward2012 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2012
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward2013
+:GrammyAward2013 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2013
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward2014
+:GrammyAward2014 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2014
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward2015
+:GrammyAward2015 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2015
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward2016
+:GrammyAward2016 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2016
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward2017
+:GrammyAward2017 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2017
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward2018
+:GrammyAward2018 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2018
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward2019
+:GrammyAward2019 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2019
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward2020
+:GrammyAward2020 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2020
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward2021
+:GrammyAward2021 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2021
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward2022
+:GrammyAward2022 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2022
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class GrammyAward2023
+:GrammyAward2023 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2023
+	] ;
+	rdfs:subClassOf :GrammyAward .
+
+# class AmericanaAward2002
+:AmericanaAward2002 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2002
+	] ;
+	rdfs:subClassOf :AmericanaAward .
+
+# class AmericanaAward2003
+:AmericanaAward2003 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2003
+	] ;
+	rdfs:subClassOf :AmericanaAward .
+
+# class AmericanaAward2004
+:AmericanaAward2004 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2004
+	] ;
+	rdfs:subClassOf :AmericanaAward .
+
+# class AmericanaAward2005
+:AmericanaAward2005 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2005
+	] ;
+	rdfs:subClassOf :AmericanaAward .
+
+# class AmericanaAward2006
+:AmericanaAward2006 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2006
+	] ;
+	rdfs:subClassOf :AmericanaAward .
+
+# class AmericanaAward2007
+:AmericanaAward2007 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2007
+	] ;
+	rdfs:subClassOf :AmericanaAward .
+
+# class AmericanaAward2008
+:AmericanaAward2008 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2008
+	] ;
+	rdfs:subClassOf :AmericanaAward .
+
+# class AmericanaAward2009
+:AmericanaAward2009 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2009
+	] ;
+	rdfs:subClassOf :AmericanaAward .
+
+# class AmericanaAward2010
+:AmericanaAward2010 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2010
+	] ;
+	rdfs:subClassOf :AmericanaAward .
+
+# class AmericanaAward2011
+:AmericanaAward2011 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2011
+	] ;
+	rdfs:subClassOf :AmericanaAward .
+
+# class AmericanaAward2012
+:AmericanaAward2012 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2012
+	] ;
+	rdfs:subClassOf :AmericanaAward .
+
+# class AmericanaAward2013
+:AmericanaAward2013 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2013
+	] ;
+	rdfs:subClassOf :AmericanaAward .
+
+# class AmericanaAward2014
+:AmericanaAward2014 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2014
+	] ;
+	rdfs:subClassOf :AmericanaAward .
+
+# class AmericanaAward2015
+:AmericanaAward2015 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2015
+	] ;
+	rdfs:subClassOf :AmericanaAward .
+
+# class AmericanaAward2016
+:AmericanaAward2016 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2016
+	] ;
+	rdfs:subClassOf :AmericanaAward .
+
+# class AmericanaAward2017
+:AmericanaAward2017 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2017
+	] ;
+	rdfs:subClassOf :AmericanaAward .
+
+# class AmericanaAward2018
+:AmericanaAward2018 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2018
+	] ;
+	rdfs:subClassOf :AmericanaAward .
+
+# class AmericanaAward2019
+:AmericanaAward2019 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2019
+	] ;
+	rdfs:subClassOf :AmericanaAward .
+
+# class AmericanMusicAward1974
+:AmericanMusicAward1974 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1974
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward1975
+:AmericanMusicAward1975 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1975
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward1976
+:AmericanMusicAward1976 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1976
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward1977
+:AmericanMusicAward1977 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1977
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward1978
+:AmericanMusicAward1978 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1978
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward1979
+:AmericanMusicAward1979 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1979
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward1980
+:AmericanMusicAward1980 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1980
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward1981
+:AmericanMusicAward1981 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1981
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward1982
+:AmericanMusicAward1982 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1982
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward1983
+:AmericanMusicAward1983 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1983
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward1984
+:AmericanMusicAward1984 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1984
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward1985
+:AmericanMusicAward1985 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1985
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward1986
+:AmericanMusicAward1986 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1986
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward1987
+:AmericanMusicAward1987 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1987
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward1988
+:AmericanMusicAward1988 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1988
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward1989
+:AmericanMusicAward1989 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1989
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward1990
+:AmericanMusicAward1990 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1990
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward1991
+:AmericanMusicAward1991 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1991
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward1992
+:AmericanMusicAward1992 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1992
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward1993
+:AmericanMusicAward1993 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1993
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward1994
+:AmericanMusicAward1994 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1994
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward1995
+:AmericanMusicAward1995 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1995
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward1996
+:AmericanMusicAward1996 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1996
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward1997
+:AmericanMusicAward1997 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1997
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward1998
+:AmericanMusicAward1998 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1998
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward1999
+:AmericanMusicAward1999 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1999
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward2000
+:AmericanMusicAward2000 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2000
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward2001
+:AmericanMusicAward2001 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2001
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward2002
+:AmericanMusicAward2002 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2002
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward2003
+:AmericanMusicAward2003 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2003
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward2004
+:AmericanMusicAward2004 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2004
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward2005
+:AmericanMusicAward2005 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2005
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward2006
+:AmericanMusicAward2006 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2006
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward2007
+:AmericanMusicAward2007 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2007
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward2008
+:AmericanMusicAward2008 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2008
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward2009
+:AmericanMusicAward2009 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2009
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward2010
+:AmericanMusicAward2010 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2010
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward2011
+:AmericanMusicAward2011 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2011
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward2012
+:AmericanMusicAward2012 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2012
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward2013
+:AmericanMusicAward2013 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2013
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward2014
+:AmericanMusicAward2014 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2014
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward2015
+:AmericanMusicAward2015 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2015
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward2016
+:AmericanMusicAward2016 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2016
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward2017
+:AmericanMusicAward2017 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2017
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward2018
+:AmericanMusicAward2018 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2018
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward2019
+:AmericanMusicAward2019 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2019
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward2020
+:AmericanMusicAward2020 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2020
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class AmericanMusicAward2021
+:AmericanMusicAward2021 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2021
+	] ;
+	rdfs:subClassOf :AmericanMusicAward .
+
+# class JunoAward1975
+:JunoAward1975 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1975
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward1976
+:JunoAward1976 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1976
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward1977
+:JunoAward1977 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1977
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward1978
+:JunoAward1978 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1978
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward1979
+:JunoAward1979 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1979
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward1980
+:JunoAward1980 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1980
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward1981
+:JunoAward1981 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1981
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward1982
+:JunoAward1982 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1982
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward1983
+:JunoAward1983 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1983
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward1984
+:JunoAward1984 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1984
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward1985
+:JunoAward1985 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1985
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward1986
+:JunoAward1986 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1986
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward1987
+:JunoAward1987 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1987
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward1988
+:JunoAward1988 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1988
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward1989
+:JunoAward1989 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1989
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward1990
+:JunoAward1990 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1990
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward1991
+:JunoAward1991 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1991
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward1992
+:JunoAward1992 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1992
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward1993
+:JunoAward1993 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1993
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward1994
+:JunoAward1994 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1994
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward1995
+:JunoAward1995 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1995
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward1996
+:JunoAward1996 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1996
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward1997
+:JunoAward1997 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1997
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward1998
+:JunoAward1998 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1998
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward1999
+:JunoAward1999 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1999
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward2000
+:JunoAward2000 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2000
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward2001
+:JunoAward2001 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2001
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward2002
+:JunoAward2002 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2002
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward2003
+:JunoAward2003 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2003
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward2004
+:JunoAward2004 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2004
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward2005
+:JunoAward2005 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2005
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward2006
+:JunoAward2006 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2006
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward2007
+:JunoAward2007 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2007
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward2008
+:JunoAward2008 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2008
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward2009
+:JunoAward2009 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2009
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward2010
+:JunoAward2010 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2010
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward2011
+:JunoAward2011 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2011
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward2012
+:JunoAward2012 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2012
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward2013
+:JunoAward2013 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2013
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward2014
+:JunoAward2014 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2014
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward2015
+:JunoAward2015 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2015
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward2016
+:JunoAward2016 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2016
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward2017
+:JunoAward2017 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2017
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward2018
+:JunoAward2018 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2018
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward2019
+:JunoAward2019 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2019
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class JunoAward2020
+:JunoAward2020 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2020
+	] ;
+	rdfs:subClassOf :JunoAward .
+
+# class SpellemannAward1985
+:SpellemannAward1985 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1985
+	] ;
+	rdfs:subClassOf :SpellemannAward .
+
+# class SpellemannAward1986
+:SpellemannAward1986 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1986
+	] ;
+	rdfs:subClassOf :SpellemannAward .
+
+# class SpellemannAward1987
+:SpellemannAward1987 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1987
+	] ;
+	rdfs:subClassOf :SpellemannAward .
+
+# class SpellemannAward1988
+:SpellemannAward1988 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1988
+	] ;
+	rdfs:subClassOf :SpellemannAward .
+
+# class SpellemannAward1989
+:SpellemannAward1989 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1989
+	] ;
+	rdfs:subClassOf :SpellemannAward .
+
+# class SpellemannAward1990
+:SpellemannAward1990 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1990
+	] ;
+	rdfs:subClassOf :SpellemannAward .
+
+# class SpellemannAward1991
+:SpellemannAward1991 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1991
+	] ;
+	rdfs:subClassOf :SpellemannAward .
+
+# class SpellemannAward1992
+:SpellemannAward1992 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1992
+	] ;
+	rdfs:subClassOf :SpellemannAward .
+
+# class SpellemannAward1993
+:SpellemannAward1993 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1993
+	] ;
+	rdfs:subClassOf :SpellemannAward .
+
+# class SpellemannAward1994
+:SpellemannAward1994 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1994
+	] ;
+	rdfs:subClassOf :SpellemannAward .
+
+# class SpellemannAward1995
+:SpellemannAward1995 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1995
+	] ;
+	rdfs:subClassOf :SpellemannAward .
+
+# class SpellemannAward1996
+:SpellemannAward1996 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1996
+	] ;
+	rdfs:subClassOf :SpellemannAward .
+
+# class SpellemannAward1997
+:SpellemannAward1997 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1997
+	] ;
+	rdfs:subClassOf :SpellemannAward .
+
+# class SpellemannAward1998
+:SpellemannAward1998 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1998
+	] ;
+	rdfs:subClassOf :SpellemannAward .
+
+# class SpellemannAward1999
+:SpellemannAward1999 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1999
+	] ;
+	rdfs:subClassOf :SpellemannAward .
+
+# class SpellemannAward2000
+:SpellemannAward2000 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2000
+	] ;
+	rdfs:subClassOf :SpellemannAward .
+
+# class SpellemannAward2001
+:SpellemannAward2001 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2001
+	] ;
+	rdfs:subClassOf :SpellemannAward .
+
+# class SpellemannAward2002
+:SpellemannAward2002 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2002
+	] ;
+	rdfs:subClassOf :SpellemannAward .
+
+# class SpellemannAward2003
+:SpellemannAward2003 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2003
+	] ;
+	rdfs:subClassOf :SpellemannAward .
+
+# class SpellemannAward2004
+:SpellemannAward2004 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2004
+	] ;
+	rdfs:subClassOf :SpellemannAward .
+
+# class SpellemannAward2005
+:SpellemannAward2005 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2005
+	] ;
+	rdfs:subClassOf :SpellemannAward .
+
+# class SpellemannAward2006
+:SpellemannAward2006 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2006
+	] ;
+	rdfs:subClassOf :SpellemannAward .
+
+# class SpellemannAward2007
+:SpellemannAward2007 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2007
+	] ;
+	rdfs:subClassOf :SpellemannAward .
+
+# class SpellemannAward2008
+:SpellemannAward2008 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2008
+	] ;
+	rdfs:subClassOf :SpellemannAward .
+
+# class SpellemannAward2009
+:SpellemannAward2009 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2009
+	] ;
+	rdfs:subClassOf :SpellemannAward .
+
+# class SpellemannAward2010
+:SpellemannAward2010 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2010
+	] ;
+	rdfs:subClassOf :SpellemannAward .
+
+# class SpellemannAward2011
+:SpellemannAward2011 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2011
+	] ;
+	rdfs:subClassOf :SpellemannAward .
+
+# class SpellemannAward2012
+:SpellemannAward2012 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2012
+	] ;
+	rdfs:subClassOf :SpellemannAward .
+
+# class SpellemannAward2013
+:SpellemannAward2013 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2013
+	] ;
+	rdfs:subClassOf :SpellemannAward .
+
+# class SpellemannAward2014
+:SpellemannAward2014 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2014
+	] ;
+	rdfs:subClassOf :SpellemannAward .
+
+# class SpellemannAward2015
+:SpellemannAward2015 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2015
+	] ;
+	rdfs:subClassOf :SpellemannAward .
+
+# class SpellemannAward2016
+:SpellemannAward2016 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2016
+	] ;
+	rdfs:subClassOf :SpellemannAward .
+
+# class SpellemannAward2017
+:SpellemannAward2017 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2017
+	] ;
+	rdfs:subClassOf :SpellemannAward .
+
+# class SpellemannAward2018
+:SpellemannAward2018 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2018
+	] ;
+	rdfs:subClassOf :SpellemannAward .
+
+# class SpellemannAward2019
+:SpellemannAward2019 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2019
+	] ;
+	rdfs:subClassOf :SpellemannAward .
+
+# class SpellemannAward2020
+:SpellemannAward2020 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2020
+	] ;
+	rdfs:subClassOf :SpellemannAward .
+
+# class SpellemannAward2021
+:SpellemannAward2021 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2021
+	] ;
+	rdfs:subClassOf :SpellemannAward .
+
+# class SoulTrainAward1995
+:SoulTrainAward1995 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1995
+	] ;
+	rdfs:subClassOf :SoulTrainAward .
+
+# class SoulTrainAward1996
+:SoulTrainAward1996 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1996
+	] ;
+	rdfs:subClassOf :SoulTrainAward .
+
+# class SoulTrainAward1997
+:SoulTrainAward1997 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1997
+	] ;
+	rdfs:subClassOf :SoulTrainAward .
+
+# class SoulTrainAward1998
+:SoulTrainAward1998 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1998
+	] ;
+	rdfs:subClassOf :SoulTrainAward .
+
+# class SoulTrainAward1999
+:SoulTrainAward1999 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1999
+	] ;
+	rdfs:subClassOf :SoulTrainAward .
+
+# class SoulTrainAward2000
+:SoulTrainAward2000 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2000
+	] ;
+	rdfs:subClassOf :SoulTrainAward .
+
+# class SoulTrainAward2001
+:SoulTrainAward2001 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2001
+	] ;
+	rdfs:subClassOf :SoulTrainAward .
+
+# class SoulTrainAward2002
+:SoulTrainAward2002 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2002
+	] ;
+	rdfs:subClassOf :SoulTrainAward .
+
+# class SoulTrainAward2003
+:SoulTrainAward2003 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2003
+	] ;
+	rdfs:subClassOf :SoulTrainAward .
+
+# class SoulTrainAward2004
+:SoulTrainAward2004 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2004
+	] ;
+	rdfs:subClassOf :SoulTrainAward .
+
+# class SoulTrainAward2005
+:SoulTrainAward2005 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2005
+	] ;
+	rdfs:subClassOf :SoulTrainAward .
+
+# class SoulTrainAward2006
+:SoulTrainAward2006 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2006
+	] ;
+	rdfs:subClassOf :SoulTrainAward .
+
+# class SoulTrainAward2007
+:SoulTrainAward2007 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2007
+	] ;
+	rdfs:subClassOf :SoulTrainAward .
+
+# class SoulTrainAward2008
+:SoulTrainAward2008 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2008
+	] ;
+	rdfs:subClassOf :SoulTrainAward .
+
+# class SoulTrainAward2009
+:SoulTrainAward2009 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2009
+	] ;
+	rdfs:subClassOf :SoulTrainAward .
+
+# class SoulTrainAward2010
+:SoulTrainAward2010 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2010
+	] ;
+	rdfs:subClassOf :SoulTrainAward .
+
+# class SoulTrainAward2011
+:SoulTrainAward2011 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2011
+	] ;
+	rdfs:subClassOf :SoulTrainAward .
+
+# class SoulTrainAward2012
+:SoulTrainAward2012 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2012
+	] ;
+	rdfs:subClassOf :SoulTrainAward .
+
+# class SoulTrainAward2013
+:SoulTrainAward2013 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2013
+	] ;
+	rdfs:subClassOf :SoulTrainAward .
+
+# class SoulTrainAward2014
+:SoulTrainAward2014 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2014
+	] ;
+	rdfs:subClassOf :SoulTrainAward .
+
+# class SoulTrainAward2015
+:SoulTrainAward2015 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2015
+	] ;
+	rdfs:subClassOf :SoulTrainAward .
+
+# class SoulTrainAward2016
+:SoulTrainAward2016 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2016
+	] ;
+	rdfs:subClassOf :SoulTrainAward .
+
+# class SoulTrainAward2017
+:SoulTrainAward2017 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2017
+	] ;
+	rdfs:subClassOf :SoulTrainAward .
+
+# class BillboardAward1997
+:BillboardAward1997 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1997
+	] ;
+	rdfs:subClassOf :BillboardAward .
+
+# class BillboardAward1998
+:BillboardAward1998 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1998
+	] ;
+	rdfs:subClassOf :BillboardAward .
+
+# class BillboardAward1999
+:BillboardAward1999 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1999
+	] ;
+	rdfs:subClassOf :BillboardAward .
+
+# class BillboardAward2000
+:BillboardAward2000 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2000
+	] ;
+	rdfs:subClassOf :BillboardAward .
+
+# class BillboardAward2001
+:BillboardAward2001 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2001
+	] ;
+	rdfs:subClassOf :BillboardAward .
+
+# class BillboardAward2002
+:BillboardAward2002 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2002
+	] ;
+	rdfs:subClassOf :BillboardAward .
+
+# class BillboardAward2003
+:BillboardAward2003 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2003
+	] ;
+	rdfs:subClassOf :BillboardAward .
+
+# class BillboardAward2004
+:BillboardAward2004 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2004
+	] ;
+	rdfs:subClassOf :BillboardAward .
+
+# class BillboardAward2005
+:BillboardAward2005 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2005
+	] ;
+	rdfs:subClassOf :BillboardAward .
+
+# class BillboardAward2006
+:BillboardAward2006 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2006
+	] ;
+	rdfs:subClassOf :BillboardAward .
+
+# class BillboardAward2007
+:BillboardAward2007 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2007
+	] ;
+	rdfs:subClassOf :BillboardAward .
+
+# class BillboardAward2008
+:BillboardAward2008 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2008
+	] ;
+	rdfs:subClassOf :BillboardAward .
+
+# class BillboardAward2009
+:BillboardAward2009 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2009
+	] ;
+	rdfs:subClassOf :BillboardAward .
+
+# class BillboardAward2010
+:BillboardAward2010 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2010
+	] ;
+	rdfs:subClassOf :BillboardAward .
+
+# class BillboardAward2011
+:BillboardAward2011 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2011
+	] ;
+	rdfs:subClassOf :BillboardAward .
+
+# class BillboardAward2012
+:BillboardAward2012 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2012
+	] ;
+	rdfs:subClassOf :BillboardAward .
+
+# class BillboardAward2013
+:BillboardAward2013 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2013
+	] ;
+	rdfs:subClassOf :BillboardAward .
+
+# class BillboardAward2014
+:BillboardAward2014 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2014
+	] ;
+	rdfs:subClassOf :BillboardAward .
+
+# class BillboardAward2015
+:BillboardAward2015 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2015
+	] ;
+	rdfs:subClassOf :BillboardAward .
+
+# class BillboardAward2016
+:BillboardAward2016 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2016
+	] ;
+	rdfs:subClassOf :BillboardAward .
+
+# class BillboardAward2017
+:BillboardAward2017 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2017
+	] ;
+	rdfs:subClassOf :BillboardAward .
+
+# class BillboardAward2018
+:BillboardAward2018 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2018
+	] ;
+	rdfs:subClassOf :BillboardAward .
+
+# class BillboardAward2019
+:BillboardAward2019 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2019
+	] ;
+	rdfs:subClassOf :BillboardAward .
+
+# class BillboardAward2020
+:BillboardAward2020 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2020
+	] ;
+	rdfs:subClassOf :BillboardAward .
+
+# class BillboardAward2021
+:BillboardAward2021 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2021
+	] ;
+	rdfs:subClassOf :BillboardAward .
+
+# class BillboardAward2022
+:BillboardAward2022 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2022
+	] ;
+	rdfs:subClassOf :BillboardAward .
+
+# class AcademyAward1970
+:AcademyAward1970 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1970
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward1971
+:AcademyAward1971 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1971
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward1972
+:AcademyAward1972 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1972
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward1973
+:AcademyAward1973 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1973
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward1974
+:AcademyAward1974 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1974
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward1975
+:AcademyAward1975 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1975
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward1976
+:AcademyAward1976 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1976
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward1977
+:AcademyAward1977 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1977
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward1978
+:AcademyAward1978 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1978
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward1979
+:AcademyAward1979 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1979
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward1980
+:AcademyAward1980 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1980
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward1981
+:AcademyAward1981 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1981
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward1982
+:AcademyAward1982 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1982
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward1983
+:AcademyAward1983 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1983
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward1984
+:AcademyAward1984 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1984
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward1985
+:AcademyAward1985 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1985
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward1986
+:AcademyAward1986 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1986
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward1987
+:AcademyAward1987 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1987
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward1988
+:AcademyAward1988 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1988
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward1989
+:AcademyAward1989 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1989
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward1990
+:AcademyAward1990 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1990
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward1991
+:AcademyAward1991 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1991
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward1992
+:AcademyAward1992 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1992
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward1993
+:AcademyAward1993 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1993
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward1994
+:AcademyAward1994 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1994
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward1995
+:AcademyAward1995 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1995
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward1996
+:AcademyAward1996 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1996
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward1997
+:AcademyAward1997 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1997
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward1998
+:AcademyAward1998 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1998
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward1999
+:AcademyAward1999 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1999
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward2000
+:AcademyAward2000 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2000
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward2001
+:AcademyAward2001 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2001
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward2002
+:AcademyAward2002 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2002
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward2003
+:AcademyAward2003 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2003
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward2004
+:AcademyAward2004 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2004
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward2005
+:AcademyAward2005 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2005
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward2006
+:AcademyAward2006 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2006
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward2007
+:AcademyAward2007 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2007
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward2008
+:AcademyAward2008 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2008
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward2009
+:AcademyAward2009 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2009
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward2010
+:AcademyAward2010 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2010
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward2011
+:AcademyAward2011 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2011
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward2012
+:AcademyAward2012 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2012
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward2013
+:AcademyAward2013 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2013
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward2014
+:AcademyAward2014 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2014
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward2015
+:AcademyAward2015 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2015
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward2016
+:AcademyAward2016 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2016
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward2017
+:AcademyAward2017 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2017
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward2018
+:AcademyAward2018 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2018
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward2019
+:AcademyAward2019 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2019
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward2020
+:AcademyAward2020 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2020
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward2021
+:AcademyAward2021 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2021
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward2022
+:AcademyAward2022 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2022
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class AcademyAward2023
+:AcademyAward2023 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2023
+	] ;
+	rdfs:subClassOf :AcademyAward .
+
+# class GramophoneAward2004
+:GramophoneAward2004 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2004
+	] ;
+	rdfs:subClassOf :GramophoneAward .
+
+# class GramophoneAward2005
+:GramophoneAward2005 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2005
+	] ;
+	rdfs:subClassOf :GramophoneAward .
+
+# class GramophoneAward2006
+:GramophoneAward2006 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2006
+	] ;
+	rdfs:subClassOf :GramophoneAward .
+
+# class GramophoneAward2007
+:GramophoneAward2007 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2007
+	] ;
+	rdfs:subClassOf :GramophoneAward .
+
+# class GramophoneAward2008
+:GramophoneAward2008 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2008
+	] ;
+	rdfs:subClassOf :GramophoneAward .
+
+# class GramophoneAward2009
+:GramophoneAward2009 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2009
+	] ;
+	rdfs:subClassOf :GramophoneAward .
+
+# class GramophoneAward2010
+:GramophoneAward2010 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2010
+	] ;
+	rdfs:subClassOf :GramophoneAward .
+
+# class GramophoneAward2011
+:GramophoneAward2011 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2011
+	] ;
+	rdfs:subClassOf :GramophoneAward .
+
+# class GramophoneAward2012
+:GramophoneAward2012 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2012
+	] ;
+	rdfs:subClassOf :GramophoneAward .
+
+# class GramophoneAward2013
+:GramophoneAward2013 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2013
+	] ;
+	rdfs:subClassOf :GramophoneAward .
+
+# class GramophoneAward2014
+:GramophoneAward2014 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2014
+	] ;
+	rdfs:subClassOf :GramophoneAward .
+
+# class GramophoneAward2015
+:GramophoneAward2015 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2015
+	] ;
+	rdfs:subClassOf :GramophoneAward .
+
+# class GenericAward1877
+:GenericAward1877 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1877
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1878
+:GenericAward1878 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1878
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1879
+:GenericAward1879 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1879
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1880
+:GenericAward1880 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1880
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1881
+:GenericAward1881 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1881
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1882
+:GenericAward1882 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1882
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1883
+:GenericAward1883 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1883
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1884
+:GenericAward1884 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1884
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1885
+:GenericAward1885 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1885
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1886
+:GenericAward1886 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1886
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1887
+:GenericAward1887 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1887
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1888
+:GenericAward1888 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1888
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1889
+:GenericAward1889 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1889
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1890
+:GenericAward1890 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1890
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1891
+:GenericAward1891 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1891
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1892
+:GenericAward1892 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1892
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1893
+:GenericAward1893 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1893
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1894
+:GenericAward1894 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1894
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1895
+:GenericAward1895 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1895
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1896
+:GenericAward1896 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1896
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1897
+:GenericAward1897 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1897
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1898
+:GenericAward1898 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1898
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1899
+:GenericAward1899 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1899
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1900
+:GenericAward1900 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1900
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1901
+:GenericAward1901 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1901
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1902
+:GenericAward1902 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1902
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1903
+:GenericAward1903 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1903
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1904
+:GenericAward1904 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1904
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1905
+:GenericAward1905 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1905
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1906
+:GenericAward1906 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1906
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1907
+:GenericAward1907 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1907
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1908
+:GenericAward1908 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1908
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1909
+:GenericAward1909 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1909
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1910
+:GenericAward1910 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1910
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1911
+:GenericAward1911 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1911
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1912
+:GenericAward1912 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1912
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1913
+:GenericAward1913 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1913
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1914
+:GenericAward1914 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1914
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1915
+:GenericAward1915 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1915
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1916
+:GenericAward1916 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1916
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1917
+:GenericAward1917 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1917
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1918
+:GenericAward1918 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1918
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1919
+:GenericAward1919 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1919
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1920
+:GenericAward1920 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1920
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1921
+:GenericAward1921 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1921
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1922
+:GenericAward1922 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1922
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1923
+:GenericAward1923 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1923
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1924
+:GenericAward1924 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1924
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1925
+:GenericAward1925 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1925
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1926
+:GenericAward1926 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1926
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1927
+:GenericAward1927 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1927
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1928
+:GenericAward1928 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1928
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1929
+:GenericAward1929 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1929
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1930
+:GenericAward1930 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1930
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1931
+:GenericAward1931 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1931
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1932
+:GenericAward1932 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1932
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1933
+:GenericAward1933 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1933
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1934
+:GenericAward1934 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1934
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1935
+:GenericAward1935 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1935
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1936
+:GenericAward1936 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1936
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1937
+:GenericAward1937 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1937
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1938
+:GenericAward1938 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1938
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1939
+:GenericAward1939 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1939
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1940
+:GenericAward1940 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1940
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1941
+:GenericAward1941 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1941
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1942
+:GenericAward1942 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1942
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1943
+:GenericAward1943 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1943
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1944
+:GenericAward1944 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1944
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1945
+:GenericAward1945 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1945
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1946
+:GenericAward1946 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1946
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1947
+:GenericAward1947 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1947
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1948
+:GenericAward1948 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1948
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1949
+:GenericAward1949 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1949
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1950
+:GenericAward1950 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1950
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1951
+:GenericAward1951 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1951
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1952
+:GenericAward1952 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1952
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1953
+:GenericAward1953 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1953
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1954
+:GenericAward1954 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1954
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1955
+:GenericAward1955 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1955
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1956
+:GenericAward1956 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1956
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1957
+:GenericAward1957 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1957
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1958
+:GenericAward1958 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1958
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1959
+:GenericAward1959 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1959
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1960
+:GenericAward1960 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1960
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1961
+:GenericAward1961 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1961
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1962
+:GenericAward1962 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1962
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1963
+:GenericAward1963 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1963
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1964
+:GenericAward1964 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1964
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1965
+:GenericAward1965 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1965
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1966
+:GenericAward1966 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1966
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1967
+:GenericAward1967 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1967
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1968
+:GenericAward1968 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1968
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1969
+:GenericAward1969 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1969
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1970
+:GenericAward1970 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1970
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1971
+:GenericAward1971 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1971
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1972
+:GenericAward1972 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1972
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1973
+:GenericAward1973 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1973
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1974
+:GenericAward1974 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1974
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1975
+:GenericAward1975 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1975
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1976
+:GenericAward1976 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1976
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1977
+:GenericAward1977 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1977
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1978
+:GenericAward1978 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1978
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1979
+:GenericAward1979 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1979
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1980
+:GenericAward1980 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1980
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1981
+:GenericAward1981 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1981
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1982
+:GenericAward1982 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1982
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1983
+:GenericAward1983 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1983
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1984
+:GenericAward1984 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1984
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1985
+:GenericAward1985 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1985
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1986
+:GenericAward1986 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1986
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1987
+:GenericAward1987 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1987
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1988
+:GenericAward1988 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1988
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1989
+:GenericAward1989 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1989
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1990
+:GenericAward1990 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1990
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1991
+:GenericAward1991 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1991
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1992
+:GenericAward1992 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1992
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1993
+:GenericAward1993 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1993
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1994
+:GenericAward1994 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1994
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1995
+:GenericAward1995 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1995
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1996
+:GenericAward1996 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1996
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1997
+:GenericAward1997 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1997
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1998
+:GenericAward1998 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1998
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward1999
+:GenericAward1999 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 1999
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward2000
+:GenericAward2000 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2000
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward2001
+:GenericAward2001 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2001
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward2002
+:GenericAward2002 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2002
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward2003
+:GenericAward2003 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2003
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward2004
+:GenericAward2004 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2004
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward2005
+:GenericAward2005 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2005
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward2006
+:GenericAward2006 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2006
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward2007
+:GenericAward2007 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2007
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward2008
+:GenericAward2008 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2008
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward2009
+:GenericAward2009 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2009
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward2010
+:GenericAward2010 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2010
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward2011
+:GenericAward2011 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2011
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward2012
+:GenericAward2012 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2012
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward2013
+:GenericAward2013 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2013
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward2014
+:GenericAward2014 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2014
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward2015
+:GenericAward2015 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2015
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward2016
+:GenericAward2016 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2016
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward2017
+:GenericAward2017 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2017
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward2018
+:GenericAward2018 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2018
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward2019
+:GenericAward2019 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2019
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward2020
+:GenericAward2020 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2020
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward2021
+:GenericAward2021 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2021
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward2022
+:GenericAward2022 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2022
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+# class GenericAward2023
+:GenericAward2023 rdf:type owl:Class ;
+	owl:equivalentClass [
+		rdf:type owl:Restriction ;
+		owl:onProperty :awardYear ;
+		owl:hasValue 2023
+	] ;
+	rdfs:subClassOf :GenericAward .
+
+
+# axioms
+[ rdf:type owl:AllDisjointClasses ;
+	owl:members (
+		:MTVAward1996
+		:MTVAward1997
+		:MTVAward1998
+		:MTVAward1999
+		:MTVAward2000
+		:MTVAward2001
+		:MTVAward2002
+		:MTVAward2003
+		:MTVAward2004
+		:MTVAward2005
+		:MTVAward2006
+		:MTVAward2007
+		:MTVAward2008
+		:MTVAward2009
+		:MTVAward2010
+		:MTVAward2011
+		:MTVAward2012
+		:MTVAward2013
+		:MTVAward2014
+		:MTVAward2015
+		:MTVAward2016
+		:MTVAward2017
+		:MTVAward2018
+		:MTVAward2019
+		:MTVAward2020
+		:MTVAward2021
+		:MTVAward2022
+	)
+] .
+
+[ rdf:type owl:AllDisjointClasses ;
+	owl:members (
+		:GrammyAward1959
+		:GrammyAward1960
+		:GrammyAward1961
+		:GrammyAward1962
+		:GrammyAward1963
+		:GrammyAward1964
+		:GrammyAward1965
+		:GrammyAward1966
+		:GrammyAward1967
+		:GrammyAward1968
+		:GrammyAward1969
+		:GrammyAward1970
+		:GrammyAward1971
+		:GrammyAward1972
+		:GrammyAward1973
+		:GrammyAward1974
+		:GrammyAward1975
+		:GrammyAward1976
+		:GrammyAward1977
+		:GrammyAward1978
+		:GrammyAward1979
+		:GrammyAward1980
+		:GrammyAward1981
+		:GrammyAward1982
+		:GrammyAward1983
+		:GrammyAward1984
+		:GrammyAward1985
+		:GrammyAward1986
+		:GrammyAward1987
+		:GrammyAward1988
+		:GrammyAward1989
+		:GrammyAward1990
+		:GrammyAward1991
+		:GrammyAward1992
+		:GrammyAward1993
+		:GrammyAward1994
+		:GrammyAward1995
+		:GrammyAward1996
+		:GrammyAward1997
+		:GrammyAward1998
+		:GrammyAward1999
+		:GrammyAward2000
+		:GrammyAward2001
+		:GrammyAward2002
+		:GrammyAward2003
+		:GrammyAward2004
+		:GrammyAward2005
+		:GrammyAward2006
+		:GrammyAward2007
+		:GrammyAward2008
+		:GrammyAward2009
+		:GrammyAward2010
+		:GrammyAward2011
+		:GrammyAward2012
+		:GrammyAward2013
+		:GrammyAward2014
+		:GrammyAward2015
+		:GrammyAward2016
+		:GrammyAward2017
+		:GrammyAward2018
+		:GrammyAward2019
+		:GrammyAward2020
+		:GrammyAward2021
+		:GrammyAward2022
+		:GrammyAward2023
+	)
+] .
+
+[ rdf:type owl:AllDisjointClasses ;
+	owl:members (
+		:AmericanaAward2002
+		:AmericanaAward2003
+		:AmericanaAward2004
+		:AmericanaAward2005
+		:AmericanaAward2006
+		:AmericanaAward2007
+		:AmericanaAward2008
+		:AmericanaAward2009
+		:AmericanaAward2010
+		:AmericanaAward2011
+		:AmericanaAward2012
+		:AmericanaAward2013
+		:AmericanaAward2014
+		:AmericanaAward2015
+		:AmericanaAward2016
+		:AmericanaAward2017
+		:AmericanaAward2018
+		:AmericanaAward2019
+	)
+] .
+
+[ rdf:type owl:AllDisjointClasses ;
+	owl:members (
+		:AmericanMusicAward1974
+		:AmericanMusicAward1975
+		:AmericanMusicAward1976
+		:AmericanMusicAward1977
+		:AmericanMusicAward1978
+		:AmericanMusicAward1979
+		:AmericanMusicAward1980
+		:AmericanMusicAward1981
+		:AmericanMusicAward1982
+		:AmericanMusicAward1983
+		:AmericanMusicAward1984
+		:AmericanMusicAward1985
+		:AmericanMusicAward1986
+		:AmericanMusicAward1987
+		:AmericanMusicAward1988
+		:AmericanMusicAward1989
+		:AmericanMusicAward1990
+		:AmericanMusicAward1991
+		:AmericanMusicAward1992
+		:AmericanMusicAward1993
+		:AmericanMusicAward1994
+		:AmericanMusicAward1995
+		:AmericanMusicAward1996
+		:AmericanMusicAward1997
+		:AmericanMusicAward1998
+		:AmericanMusicAward1999
+		:AmericanMusicAward2000
+		:AmericanMusicAward2001
+		:AmericanMusicAward2002
+		:AmericanMusicAward2003
+		:AmericanMusicAward2004
+		:AmericanMusicAward2005
+		:AmericanMusicAward2006
+		:AmericanMusicAward2007
+		:AmericanMusicAward2008
+		:AmericanMusicAward2009
+		:AmericanMusicAward2010
+		:AmericanMusicAward2011
+		:AmericanMusicAward2012
+		:AmericanMusicAward2013
+		:AmericanMusicAward2014
+		:AmericanMusicAward2015
+		:AmericanMusicAward2016
+		:AmericanMusicAward2017
+		:AmericanMusicAward2018
+		:AmericanMusicAward2019
+		:AmericanMusicAward2020
+		:AmericanMusicAward2021
+	)
+] .
+
+[ rdf:type owl:AllDisjointClasses ;
+	owl:members (
+		:JunoAward1975
+		:JunoAward1976
+		:JunoAward1977
+		:JunoAward1978
+		:JunoAward1979
+		:JunoAward1980
+		:JunoAward1981
+		:JunoAward1982
+		:JunoAward1983
+		:JunoAward1984
+		:JunoAward1985
+		:JunoAward1986
+		:JunoAward1987
+		:JunoAward1988
+		:JunoAward1989
+		:JunoAward1990
+		:JunoAward1991
+		:JunoAward1992
+		:JunoAward1993
+		:JunoAward1994
+		:JunoAward1995
+		:JunoAward1996
+		:JunoAward1997
+		:JunoAward1998
+		:JunoAward1999
+		:JunoAward2000
+		:JunoAward2001
+		:JunoAward2002
+		:JunoAward2003
+		:JunoAward2004
+		:JunoAward2005
+		:JunoAward2006
+		:JunoAward2007
+		:JunoAward2008
+		:JunoAward2009
+		:JunoAward2010
+		:JunoAward2011
+		:JunoAward2012
+		:JunoAward2013
+		:JunoAward2014
+		:JunoAward2015
+		:JunoAward2016
+		:JunoAward2017
+		:JunoAward2018
+		:JunoAward2019
+		:JunoAward2020
+	)
+] .
+
+[ rdf:type owl:AllDisjointClasses ;
+	owl:members (
+		:SpellemannAward1985
+		:SpellemannAward1986
+		:SpellemannAward1987
+		:SpellemannAward1988
+		:SpellemannAward1989
+		:SpellemannAward1990
+		:SpellemannAward1991
+		:SpellemannAward1992
+		:SpellemannAward1993
+		:SpellemannAward1994
+		:SpellemannAward1995
+		:SpellemannAward1996
+		:SpellemannAward1997
+		:SpellemannAward1998
+		:SpellemannAward1999
+		:SpellemannAward2000
+		:SpellemannAward2001
+		:SpellemannAward2002
+		:SpellemannAward2003
+		:SpellemannAward2004
+		:SpellemannAward2005
+		:SpellemannAward2006
+		:SpellemannAward2007
+		:SpellemannAward2008
+		:SpellemannAward2009
+		:SpellemannAward2010
+		:SpellemannAward2011
+		:SpellemannAward2012
+		:SpellemannAward2013
+		:SpellemannAward2014
+		:SpellemannAward2015
+		:SpellemannAward2016
+		:SpellemannAward2017
+		:SpellemannAward2018
+		:SpellemannAward2019
+		:SpellemannAward2020
+		:SpellemannAward2021
+	)
+] .
+
+[ rdf:type owl:AllDisjointClasses ;
+	owl:members (
+		:SoulTrainAward1995
+		:SoulTrainAward1996
+		:SoulTrainAward1997
+		:SoulTrainAward1998
+		:SoulTrainAward1999
+		:SoulTrainAward2000
+		:SoulTrainAward2001
+		:SoulTrainAward2002
+		:SoulTrainAward2003
+		:SoulTrainAward2004
+		:SoulTrainAward2005
+		:SoulTrainAward2006
+		:SoulTrainAward2007
+		:SoulTrainAward2008
+		:SoulTrainAward2009
+		:SoulTrainAward2010
+		:SoulTrainAward2011
+		:SoulTrainAward2012
+		:SoulTrainAward2013
+		:SoulTrainAward2014
+		:SoulTrainAward2015
+		:SoulTrainAward2016
+		:SoulTrainAward2017
+	)
+] .
+
+[ rdf:type owl:AllDisjointClasses ;
+	owl:members (
+		:BillboardAward1997
+		:BillboardAward1998
+		:BillboardAward1999
+		:BillboardAward2000
+		:BillboardAward2001
+		:BillboardAward2002
+		:BillboardAward2003
+		:BillboardAward2004
+		:BillboardAward2005
+		:BillboardAward2006
+		:BillboardAward2007
+		:BillboardAward2008
+		:BillboardAward2009
+		:BillboardAward2010
+		:BillboardAward2011
+		:BillboardAward2012
+		:BillboardAward2013
+		:BillboardAward2014
+		:BillboardAward2015
+		:BillboardAward2016
+		:BillboardAward2017
+		:BillboardAward2018
+		:BillboardAward2019
+		:BillboardAward2020
+		:BillboardAward2021
+		:BillboardAward2022
+	)
+] .
+
+[ rdf:type owl:AllDisjointClasses ;
+	owl:members (
+		:AcademyAward1970
+		:AcademyAward1971
+		:AcademyAward1972
+		:AcademyAward1973
+		:AcademyAward1974
+		:AcademyAward1975
+		:AcademyAward1976
+		:AcademyAward1977
+		:AcademyAward1978
+		:AcademyAward1979
+		:AcademyAward1980
+		:AcademyAward1981
+		:AcademyAward1982
+		:AcademyAward1983
+		:AcademyAward1984
+		:AcademyAward1985
+		:AcademyAward1986
+		:AcademyAward1987
+		:AcademyAward1988
+		:AcademyAward1989
+		:AcademyAward1990
+		:AcademyAward1991
+		:AcademyAward1992
+		:AcademyAward1993
+		:AcademyAward1994
+		:AcademyAward1995
+		:AcademyAward1996
+		:AcademyAward1997
+		:AcademyAward1998
+		:AcademyAward1999
+		:AcademyAward2000
+		:AcademyAward2001
+		:AcademyAward2002
+		:AcademyAward2003
+		:AcademyAward2004
+		:AcademyAward2005
+		:AcademyAward2006
+		:AcademyAward2007
+		:AcademyAward2008
+		:AcademyAward2009
+		:AcademyAward2010
+		:AcademyAward2011
+		:AcademyAward2012
+		:AcademyAward2013
+		:AcademyAward2014
+		:AcademyAward2015
+		:AcademyAward2016
+		:AcademyAward2017
+		:AcademyAward2018
+		:AcademyAward2019
+		:AcademyAward2020
+		:AcademyAward2021
+		:AcademyAward2022
+		:AcademyAward2023
+	)
+] .
+
+[ rdf:type owl:AllDisjointClasses ;
+	owl:members (
+		:GramophoneAward2004
+		:GramophoneAward2005
+		:GramophoneAward2006
+		:GramophoneAward2007
+		:GramophoneAward2008
+		:GramophoneAward2009
+		:GramophoneAward2010
+		:GramophoneAward2011
+		:GramophoneAward2012
+		:GramophoneAward2013
+		:GramophoneAward2014
+		:GramophoneAward2015
+	)
+] .
+
+[ rdf:type owl:AllDisjointClasses ;
+	owl:members (
+		:GenericAward1877
+		:GenericAward1878
+		:GenericAward1879
+		:GenericAward1880
+		:GenericAward1881
+		:GenericAward1882
+		:GenericAward1883
+		:GenericAward1884
+		:GenericAward1885
+		:GenericAward1886
+		:GenericAward1887
+		:GenericAward1888
+		:GenericAward1889
+		:GenericAward1890
+		:GenericAward1891
+		:GenericAward1892
+		:GenericAward1893
+		:GenericAward1894
+		:GenericAward1895
+		:GenericAward1896
+		:GenericAward1897
+		:GenericAward1898
+		:GenericAward1899
+		:GenericAward1900
+		:GenericAward1901
+		:GenericAward1902
+		:GenericAward1903
+		:GenericAward1904
+		:GenericAward1905
+		:GenericAward1906
+		:GenericAward1907
+		:GenericAward1908
+		:GenericAward1909
+		:GenericAward1910
+		:GenericAward1911
+		:GenericAward1912
+		:GenericAward1913
+		:GenericAward1914
+		:GenericAward1915
+		:GenericAward1916
+		:GenericAward1917
+		:GenericAward1918
+		:GenericAward1919
+		:GenericAward1920
+		:GenericAward1921
+		:GenericAward1922
+		:GenericAward1923
+		:GenericAward1924
+		:GenericAward1925
+		:GenericAward1926
+		:GenericAward1927
+		:GenericAward1928
+		:GenericAward1929
+		:GenericAward1930
+		:GenericAward1931
+		:GenericAward1932
+		:GenericAward1933
+		:GenericAward1934
+		:GenericAward1935
+		:GenericAward1936
+		:GenericAward1937
+		:GenericAward1938
+		:GenericAward1939
+		:GenericAward1940
+		:GenericAward1941
+		:GenericAward1942
+		:GenericAward1943
+		:GenericAward1944
+		:GenericAward1945
+		:GenericAward1946
+		:GenericAward1947
+		:GenericAward1948
+		:GenericAward1949
+		:GenericAward1950
+		:GenericAward1951
+		:GenericAward1952
+		:GenericAward1953
+		:GenericAward1954
+		:GenericAward1955
+		:GenericAward1956
+		:GenericAward1957
+		:GenericAward1958
+		:GenericAward1959
+		:GenericAward1960
+		:GenericAward1961
+		:GenericAward1962
+		:GenericAward1963
+		:GenericAward1964
+		:GenericAward1965
+		:GenericAward1966
+		:GenericAward1967
+		:GenericAward1968
+		:GenericAward1969
+		:GenericAward1970
+		:GenericAward1971
+		:GenericAward1972
+		:GenericAward1973
+		:GenericAward1974
+		:GenericAward1975
+		:GenericAward1976
+		:GenericAward1977
+		:GenericAward1978
+		:GenericAward1979
+		:GenericAward1980
+		:GenericAward1981
+		:GenericAward1982
+		:GenericAward1983
+		:GenericAward1984
+		:GenericAward1985
+		:GenericAward1986
+		:GenericAward1987
+		:GenericAward1988
+		:GenericAward1989
+		:GenericAward1990
+		:GenericAward1991
+		:GenericAward1992
+		:GenericAward1993
+		:GenericAward1994
+		:GenericAward1995
+		:GenericAward1996
+		:GenericAward1997
+		:GenericAward1998
+		:GenericAward1999
+		:GenericAward2000
+		:GenericAward2001
+		:GenericAward2002
+		:GenericAward2003
+		:GenericAward2004
+		:GenericAward2005
+		:GenericAward2006
+		:GenericAward2007
+		:GenericAward2008
+		:GenericAward2009
+		:GenericAward2010
+		:GenericAward2011
+		:GenericAward2012
+		:GenericAward2013
+		:GenericAward2014
+		:GenericAward2015
+		:GenericAward2016
+		:GenericAward2017
+		:GenericAward2018
+		:GenericAward2019
+		:GenericAward2020
+		:GenericAward2021
+		:GenericAward2022
+		:GenericAward2023
+	)
+] .
+
