@@ -7,7 +7,7 @@ This repository showcases our group project for the Database 2 (Graph Databases)
 - Select an open dataset.
 - Create the ontology with [Protégé](https://protege.stanford.edu/).
 - Ingest and clean the data.
-- Serialize data with [RDFLib](https://rdflib.readthedocs.io/en/stable/)
+- Serialize data with [RDFLib](https://rdflib.readthedocs.io/en/stable/).
 - Store the data in [GraphDB](https://www.ontotext.com/products/graphdb/).
 - Extract meaningful insights from the data.
 
