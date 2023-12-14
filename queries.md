@@ -4,9 +4,9 @@
 
 ```
 PREFIX sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 
-select distinct ((?a_name) as ?Artist_name) ((?t_name) as ?Track_name) where {
+select distinct ((?a_name) as ?Artist_name) ((?t_name) as ?Track_name)
+where {
     ?artist sg:artistName ?a_name;
             sg:performsIn ?yt_video.
     ?yt_video sg:videoViews ?num_views.
@@ -25,10 +25,9 @@ order by asc (?t_name)
 
 ```
 PREFIX sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 
-select ?artist_name ((?aw_category) as ?award_category) (count(?award) as ?total_award) where 
-{
+select ?artist_name ((?aw_category) as ?award_category) (count(?award) as ?total_award)
+where {
   	?artist sg:hasReceived ?award;
            	sg:artistName ?artist_name.
 	?award	sg:awardCategory ?aw_category.
@@ -45,9 +44,9 @@ order by ?artist_name desc (?total_award)
 
 ```
 PREFIX sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 
-ask where {  
+ask
+where {  
     ?artist sg:hasReceived ?award.
     ?award  sg:awardName ?name.
     filter regex(?name, "Grammy Award"). 
@@ -69,7 +68,6 @@ ask where {
 
 ```
 PREFIX sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX countries: <http://eulersharp.sourceforge.net/2003/03swap/countries#>
 
 select ?track_name
@@ -86,9 +84,9 @@ where {
 
 ```
 PREFIX sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 
-select (count(?artist) as ?still_active) where {
+select (count(?artist) as ?still_active)
+where {
 	?artist sg:artistName ?name.
 	filter not exists{?artist sg:endWorkingPeriod ?year.}
 }
@@ -99,10 +97,8 @@ select (count(?artist) as ?still_active) where {
 
 ```
 PREFIX sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 
-SELECT  (((1- (?Nmatch / ?Ntotal))*100) AS ?percentage)
-       
+SELECT  (((1 - (?Nmatch / ?Ntotal)) * 100) AS ?percentage)
 WHERE {
     {
         SELECT (COUNT(DISTINCT ?yt_video) AS ?Nmatch) 
@@ -121,7 +117,7 @@ WHERE {
     {
         SELECT (COUNT(DISTINCT ?totalVideo) AS ?Ntotal)
         WHERE {
-          ?totalVideo sg:isOfficialVideo true.
+            ?totalVideo sg:isOfficialVideo true.
         }
     }
 }
@@ -132,15 +128,14 @@ WHERE {
 
 ```
 PREFIX sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 
 select ?artist_name ?nationality ?channel_view_count
 where {
-	
     ?artist2 sg:hasOfficialChannel ?off_channel2;
              sg:artistName ?artist_name;
              sg:hasNationality ?nationality.
     ?off_channel2 sg:channelViewCount ?channel_view_count2.
+    
     filter (?channel_view_count2=?channel_view_count).
     {
         select (max(?c_view_count) as ?channel_view_count) where {
@@ -156,6 +151,8 @@ where {
 #### Find the artist of each nation that has won more awards.
 
 ```
+PREFIX sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
+
 select ?artist_name ?nationality ?max_awards
 where {
     ?artist sg:artistName ?artist_name ;
@@ -196,15 +193,17 @@ where {
 
 #### Find all the genres associated to each italian artist/band.
 
+***Version 1*** (with ```minus```)
 ```
 prefix sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
 prefix countries: <http://eulersharp.sourceforge.net/2003/03swap/countries#>
 
 select (?a_name as ?artist_name) (GROUP_CONCAT(strafter(str(?genre), "_"); separator=", ") as ?genres)
- where { 
+where { 
     ?artist sg:artistName ?a_name;
             sg:hasNationality countries:it;
             sg:hasGenre ?genre.
+            
     minus {
         ?artist sg:hasNationality ?otherNat.
         filter (?otherNat != countries:it)
@@ -212,7 +211,26 @@ select (?a_name as ?artist_name) (GROUP_CONCAT(strafter(str(?genre), "_"); separ
 }
 group by ?a_name
 order by ?a_name
+```
 
+***Version 2*** (without ```minus```)
+```
+PREFIX sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
+PREFIX countries: <http://eulersharp.sourceforge.net/2003/03swap/countries#>
+
+select ?artist_name (group_concat(replace(strafter(str(?genre), "genre_"), "_", " "); separator=", ") as ?genres)
+where { 
+	?artist sg:artistName ?artist_name ;
+            sg:hasNationality countries:it .
+    ?artist sg:hasGenre ?genre .
+    
+    filter not exists {
+        ?artist sg:hasNationality ?nat .
+        filter (?nat != countries:it)
+    }
+}
+group by ?artist_name
+order by ?artist_name
 ```
 
 ## Query 10
@@ -222,9 +240,7 @@ order by ?a_name
 ```
 PREFIX sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
 
-select ?art_name ?tot 
-(GROUP_CONCAT(strafter(str(?nat), "#"); separator=", ") as ?nationality)
-
+select ?art_name ?tot (GROUP_CONCAT(strafter(str(?nat), "#"); separator=", ") as ?nationality)
 where {
     ?artist sg:artistName ?art_name;
             sg:hasNationality ?nat.
@@ -259,14 +275,18 @@ group by ?art_name ?tot
 ```
 PREFIX sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
 PREFIX countries: <http://eulersharp.sourceforge.net/2003/03swap/countries#>
-ask where { 
+
+ask
+where { 
     {
-        select (count(?artist) as ?blues_artist) where {
+        select (count(?artist) as ?blues_artist)
+        where {
         	?artist sg:hasGenre sg:genre_blues.
     	}
     }
     {
-        select (count(?artist) as ?rock_artist) where {
+        select (count(?artist) as ?rock_artist)
+        where {
         	 ?artist sg:hasGenre sg:genre_classic_rock.
     	}
     }   
@@ -280,6 +300,7 @@ ask where {
 
 ```
 PREFIX sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
+
 select * 
 where {
     {
@@ -309,9 +330,11 @@ where {
 ```
 prefix sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
 
-select distinct ?artist_name ?start_period where {
+select distinct ?artist_name ?start_period
+where {
 	{
-        select (max(?start) as ?start_period) where {
+        select (max(?start) as ?start_period)
+        where {
            ?artist sg:startWorkingPeriod ?start.
         }
     }
@@ -325,7 +348,7 @@ select distinct ?artist_name ?start_period where {
 
 ```
 PREFIX sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
 SELECT ?artist_name (MAX(?total_streams) AS ?max)
 WHERE {
 	SELECT ?artist_name ?spt_alb (sum(?streams) as ?total_streams)
@@ -348,7 +371,9 @@ LIMIT 100
 
 ```
 PREFIX sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
-select ?album_type (count(?album_type) as ?count) where { 
+
+select ?album_type (count(?album_type) as ?count)
+where { 
 	?album sg:albumType ?album_type .
 }
 group by ?album_type
@@ -359,6 +384,7 @@ group by ?album_type
 #### Find the album with the most streams for each artist in the top 100.
 ```
 PREFIX sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
+
 select ?artist_name ?album_name ?max
 where {
     ?artist sg:artistName ?artist_name ;
@@ -404,19 +430,19 @@ limit 100
 ```
 PREFIX sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
 
-select ?genre (sum(?part)/1000000.0 as ?tot_streams_in_mln)
+select (replace(strafter(str(?genre_uri), "genre_"), "_", " ") as ?genre) (sum(?part) / 1000000.0 as ?tot_streams_in_mln)
 where {
-    ?artist sg:hasGenre ?genre.
+    ?artist sg:hasGenre ?genre_uri.
     {
-    select ?artist (sum(?streams) as ?part)
-    where {
-        ?spt_trk sg:isWrittenBy ?artist;
-                 sg:trackStreams ?streams.
-    }
-    group by ?artist
+        select ?artist (sum(?streams) as ?part)
+        where {
+            ?spt_trk sg:isWrittenBy ?artist;
+                     sg:trackStreams ?streams.
+        }
+        group by ?artist
     }
 }
-group by ?genre
+group by ?genre_uri
 order by desc (?tot_streams_in_mln)
 ```
 
@@ -427,11 +453,11 @@ order by desc (?tot_streams_in_mln)
 ```
 PREFIX sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
 
-select ?genre (count(?artist) as ?number_of_artist)
+select (replace(strafter(str(?genre_uri), "genre_"), "_", " ") as ?genre) (count(?artist) as ?number_of_artist)
 where {
-    ?artist sg:hasGenre ?genre.
+    ?artist sg:hasGenre ?genre_uri.
 }
-group by ?genre
+group by ?genre_uri
 order by desc (?number_of_artist)
 ```
 
@@ -444,8 +470,7 @@ order by desc (?number_of_artist)
 PREFIX sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
 
 PREFIX countries: <http://eulersharp.sourceforge.net/2003/03swap/countries#>
-select ?name (count(?award) as ?Occurrence) (GROUP_CONCAT(str(?art_name); separator=", ") as ?Artists)
-
+select ?name (count(?award) as ?occurrence) (GROUP_CONCAT(str(?art_name); separator=", ") as ?artists)
 where {
     ?artist sg:hasReceived ?award;
             sg:hasNationality countries:it;
@@ -453,7 +478,7 @@ where {
     ?award  sg:awardName ?name.
 }
 group by ?name
-order by desc (?Occurrence)
+order by desc (?occurrence)
 ```
 
 
@@ -466,17 +491,17 @@ PREFIX sg: <https://www.dei.unipd.it/db2/ontology/soundgraph#>
 
 SELECT (ROUND(SUM(?streams) / ?n_video) AS ?avg_spotify_streams) (ROUND(SUM(?views) / ?n_video) AS ?avg_youtube_views) ((SUM(?streams) / SUM(?views)) AS ?spotify_youtube_ratio)
 WHERE {
-  {
-    ?sptf sg:isRelatedTo ?ytv;
-          sg:trackStreams ?streams.
-    ?ytv sg:videoViews ?views.
-  }
-  {
-    SELECT (COUNT(DISTINCT ?video) AS ?n_video)
-    WHERE {
-      ?video sg:isRelatedTo ?track.
+    {
+        ?sptf sg:isRelatedTo ?ytv;
+            sg:trackStreams ?streams.
+        ?ytv sg:videoViews ?views.
     }
-  }
+    {
+        SELECT (COUNT(DISTINCT ?video) AS ?n_video)
+        WHERE {
+            ?video sg:isRelatedTo ?track.
+        }
+    }
 }
 GROUP BY ?n_video
 ```
